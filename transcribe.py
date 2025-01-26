@@ -57,30 +57,28 @@ def process_audio(audio_file, group_segments=True):
     
     # Save raw transcription
     print("Saving raw transcription...")
+    segments_list = []
     with open("transcription_raw.txt", "w") as f:
         for segment in segments:
             f.write(f"{segment.start:.1f}s - {segment.end:.1f}s: {segment.text}\n")
+            segments_list.append({
+                "avg_logprob": segment.avg_logprob,
+                "start": float(segment.start),
+                "end": float(segment.end),
+                "text": segment.text,
+                "words": [
+                    {
+                        "start": float(w.start),
+                        "end": float(w.end),
+                        "word": w.word,
+                        "probability": w.probability,
+                    }
+                    for w in segment.words
+                ] if segment.words else []
+            })
     
     # Convert segments to list and process
-    segments = list(segments)
-    segments = [
-        {
-            "avg_logprob": s.avg_logprob,
-            "start": float(s.start),
-            "end": float(s.end),
-            "text": s.text,
-            "words": [
-                {
-                    "start": float(w.start),
-                    "end": float(w.end),
-                    "word": w.word,
-                    "probability": w.probability,
-                }
-                for w in s.words
-            ],
-        }
-        for s in segments
-    ]
+    segments = segments_list
     
     time_transcribing_end = time.time()
     print(f"Finished transcription in {time_transcribing_end - time_start:.2f} seconds")
@@ -98,6 +96,10 @@ def process_audio(audio_file, group_segments=True):
     margin = 0.1  # 100ms margin for better word-speaker matching
     final_segments = []
     diarization_list = list(diarization.itertracks(yield_label=True))
+    print(f"Debug: Got {len(diarization_list)} diarization segments")
+    print("Debug: First few diarization segments:")
+    for i, (turn, _, speaker) in enumerate(diarization_list[:5]):
+        print(f"Debug: {speaker}: {turn.start:.1f}s - {turn.end:.1f}s")
     
     # Get number of unique speakers
     unique_speakers = {speaker for _, _, speaker in diarization.itertracks(yield_label=True)}
@@ -105,9 +107,11 @@ def process_audio(audio_file, group_segments=True):
     print(f"Found {num_speakers} speakers in the diarization")
     
     # Process each segment
+    print(f"Debug: Processing {len(segments)} transcribed segments")
     for segment in segments:
         segment_start = segment["start"]
         segment_end = segment["end"]
+        print(f"Debug: Processing segment {segment_start:.1f}s - {segment_end:.1f}s: {segment['text'][:30]}...")
         
         # Find the dominant speaker for this segment
         speaker_times = {}
@@ -116,9 +120,11 @@ def process_audio(audio_file, group_segments=True):
                 overlap = min(turn.end, segment_end) - max(turn.start, segment_start)
                 if overlap > 0:
                     speaker_times[speaker] = speaker_times.get(speaker, 0) + overlap
+                    print(f"Debug: Found speaker {speaker} with overlap {overlap:.2f}s")
         
         # If no speaker found, use the closest one
         if not speaker_times:
+            print("Debug: No speaker found with overlap, looking for closest...")
             min_distance = float('inf')
             closest_speaker = None
             for turn, _, speaker in diarization_list:
@@ -129,11 +135,14 @@ def process_audio(audio_file, group_segments=True):
                 if distance < min_distance:
                     min_distance = distance
                     closest_speaker = speaker
+                    print(f"Debug: Found closer speaker {speaker} at distance {distance:.2f}s")
             if closest_speaker and min_distance < 1.0:  # Only use if within 1 second
                 speaker_times[closest_speaker] = 1.0
+                print(f"Debug: Using closest speaker {closest_speaker} at distance {min_distance:.2f}s")
 
         if speaker_times:
             dominant_speaker = max(speaker_times.items(), key=lambda x: x[1])[0]
+            print(f"Debug: Selected dominant speaker {dominant_speaker}")
             new_segment = {
                 "avg_logprob": segment["avg_logprob"],
                 "start": segment_start,
@@ -143,6 +152,8 @@ def process_audio(audio_file, group_segments=True):
                 "words": segment["words"],
             }
             final_segments.append(new_segment)
+        else:
+            print("Debug: No speaker found for this segment")
     
     # Step 4: Group segments from same speaker if they're close together
     if group_segments and final_segments:  # Only group if we have segments
