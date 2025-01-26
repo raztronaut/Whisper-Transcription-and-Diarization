@@ -1,0 +1,22 @@
+Number of speakers detected: 2
+=====================
+
+[SPEAKER_00] 0.0s - 1.6s:  So good to finally get you on the show.
+[SPEAKER_01] 1.8s - 8.4s:  Thank you. It's so good to be here.  You know, it's funny.  I was thinking about this the other day.  If you don't pay me what you owe me, I'm going to remove the life from your body.
+[SPEAKER_00] 8.5s - 12.1s:  Oh, OK. Come on, York.  That's uncalled for. You know, I'm good for it.
+[SPEAKER_01] 12.2s - 15.7s:  I gave you teeth. You did not pay me.  What do you think this is? Health care for you?
+[SPEAKER_00] 15.9s - 19.3s:  No, what? I don't care about health.  I'm just light right now. That's all.
+[SPEAKER_01] 19.6s - 34.4s:  Oh, you're light like the little feather of the morning dove.  I could drop you from the tallest roof and you'll just lightly float on down,  landing like a tired youngling slowly resting their head to sleep in their soft crib.
+[SPEAKER_00] 34.9s - 45.3s:  That's so poetically aggressive.  You need to pay me.  Look, Unanswered Oddities hasn't been doing too hot,  but the show is about to get renewed for next season and I should get in advance.  Then I'll get you paid and we'll laugh about this.
+[SPEAKER_01] 45.5s - 46.4s:  I have never laughed.
+[SPEAKER_00] 46.5s - 52.1s:  That's super interesting. Let's talk about that.  We've got a lot of topics to cover today.  The Valley Phantom, the benefits of horse spit.
+[SPEAKER_01] 52.3s - 53.8s:  I wink at your horse spit.
+[SPEAKER_00] 54.0s - 57.4s:  Come on, York. What about the power of love?  I thought we were like family.
+[SPEAKER_01] 57.4s - 65.3s:  Tiggy, you know that I love you like a brother that I sell drugs to,  but I also love getting paid. And so does my employer.  And Barko will not be as nice as I am.
+[SPEAKER_00] 65.5s - 68.2s:  You are a nice guy though, York. Don't forget that.
+[SPEAKER_01] 68.4s - 70.1s:  I am going to tell you a story.
+[SPEAKER_00] 70.2s - 72.1s:  Please, anything other than you asking me to pay you.
+[SPEAKER_01] 72.2s - 87.3s:  When I was littler, I had to put an end to my own father.  You mean?  The big nap.  Why?  Because he got upset that I put an end to my mother.  And there you have it.  That's the story?  Well, the long person, yes.  The point is, do not make me treat you like my mama and papa.
+[SPEAKER_00] 87.3s - 92.0s:  Okay. Okay. I've got a sponsor.  That'll cover some of what I owe you. I just got to do the ad read.
+[SPEAKER_01] 92.1s - 95.6s:  Well, why didn't you say that from the start?  Do the ad read to get me paid.
+[SPEAKER_00] 96.0s - 102.6s:  Okay. Well, let's see here.  Um, TikTok is brought to you by Pong Kordo's Tooth Booth.  You bastard.

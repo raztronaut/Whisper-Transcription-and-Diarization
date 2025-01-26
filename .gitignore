@@ -52,6 +52,3 @@ Thumbs.db
 # Python virtual environment
 venv_310/
 venv_new/
-
-# Output files
-transcription_*.txt 
