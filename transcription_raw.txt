@@ -1,48 +1,3355 @@
-0.0s - 1.6s:  So good to finally get you on the show.
-1.8s - 3.3s:  Thank you. It's so good to be here.
-3.3s - 3.8s:  You know, it's funny.
-3.8s - 5.3s:  I was thinking about this the other day.
-5.3s - 8.4s:  If you don't pay me what you owe me, I'm going to remove the life from your body.
-8.5s - 10.0s:  Oh, OK. Come on, York.
-10.1s - 12.1s:  That's uncalled for. You know, I'm good for it.
-12.2s - 14.1s:  I gave you teeth. You did not pay me.
-14.2s - 15.7s:  What do you think this is? Health care for you?
-15.9s - 17.3s:  No, what? I don't care about health.
-17.4s - 19.3s:  I'm just light right now. That's all.
-19.6s - 23.7s:  Oh, you're light like the little feather of the morning dove.
-23.7s - 28.8s:  I could drop you from the tallest roof and you'll just lightly float on down,
-28.8s - 34.4s:  landing like a tired youngling slowly resting their head to sleep in their soft crib.
-34.9s - 36.6s:  That's so poetically aggressive.
-36.8s - 37.7s:  You need to pay me.
-37.9s - 40.1s:  Look, Unanswered Oddities hasn't been doing too hot,
-40.2s - 43.2s:  but the show is about to get renewed for next season and I should get in advance.
-43.3s - 45.3s:  Then I'll get you paid and we'll laugh about this.
-45.5s - 46.4s:  I have never laughed.
-46.5s - 48.3s:  That's super interesting. Let's talk about that.
-48.3s - 49.8s:  We've got a lot of topics to cover today.
-49.9s - 52.1s:  The Valley Phantom, the benefits of horse spit.
-52.3s - 53.8s:  I wink at your horse spit.
-54.0s - 56.1s:  Come on, York. What about the power of love?
-56.2s - 57.4s:  I thought we were like family.
-57.4s - 60.2s:  Tiggy, you know that I love you like a brother that I sell drugs to,
-60.2s - 63.0s:  but I also love getting paid. And so does my employer.
-63.4s - 65.3s:  And Barko will not be as nice as I am.
-65.5s - 68.2s:  You are a nice guy though, York. Don't forget that.
-68.4s - 70.1s:  I am going to tell you a story.
-70.2s - 72.1s:  Please, anything other than you asking me to pay you.
-72.2s - 75.5s:  When I was littler, I had to put an end to my own father.
-75.6s - 76.0s:  You mean?
-76.1s - 76.8s:  The big nap.
-77.0s - 77.4s:  Why?
-77.7s - 79.9s:  Because he got upset that I put an end to my mother.
-80.2s - 81.0s:  And there you have it.
-81.2s - 82.0s:  That's the story?
-82.2s - 83.4s:  Well, the long person, yes.
-83.6s - 87.3s:  The point is, do not make me treat you like my mama and papa.
-87.3s - 89.3s:  Okay. Okay. I've got a sponsor.
-89.6s - 92.0s:  That'll cover some of what I owe you. I just got to do the ad read.
-92.1s - 93.8s:  Well, why didn't you say that from the start?
-94.1s - 95.6s:  Do the ad read to get me paid.
-96.0s - 97.4s:  Okay. Well, let's see here.
-98.6s - 102.0s:  Um, TikTok is brought to you by Pong Kordo's Tooth Booth.
-102.1s - 102.6s:  You bastard.
+591.8s - 596.9s:  Members of Council, we do have quorum. I will call this meeting to order.
+598.8s - 604.8s:  The Clerk has advised that we do have quorum. Members of Council, please rise if you're able for the National Anthem.
+619.1s - 630.5s:  The National Anthem
+646.1s - 712.2s:  Please remain standing and join me in observing a moment of silence in memory of Chi Chiang Chiang,
+712.3s - 724.7s:  Julia Cleveland, David Prochet, Razon Raman, Anna Sherlock, and five members of the Toronto Public Service from Toronto Shelter and Support Services.
+749.1s - 763.8s:  Thank you. I would like to take a moment on behalf of Council to acknowledge the Indigenous peoples of all the lands that we are on today.
+763.9s - 774.5s:  We do this to reaffirm our commitment and responsibility in improving relationships between nations and to deepening our own understanding of Indigenous peoples and their cultures.
+774.6s - 779.2s:  It is a moment to reflect on the importance of this land, which we each call home.
+779.2s - 790.9s:  We acknowledge the land we are meeting on is the traditional territory of many nations, including the Mississaugas of the Credit, the Anishinaabe, the Chippewa, the Haudenosaunee, and the Wendats people,
+791.2s - 795.4s:  and is now home to many diverse First Nations, Inuit, and Métis peoples.
+795.9s - 805.4s:  We also acknowledge that Toronto is covered by Treaty 13, with the Mississaugas of the Credit and the Williams Treaty signed with multiple Mississaugas and Chippewa bands.
+805.4s - 815.6s:  For the benefit of those who are connected to the internet, City Clerk has posted all of the agenda materials for today's meeting at toronto.ca slash council.
+816.3s - 820.8s:  This meeting is being held as a hybrid meeting and is being streamed live on YouTube.
+821.2s - 825.5s:  I'd like to welcome the public who are here with us today and who are watching the meeting online.
+826.5s - 832.7s:  Members, we do have a presentation this morning to recognize the 150 years of firefighting in Toronto.
+832.7s - 836.3s:  I would like to call upon Mayor Chao to give the presentation.
+845.5s - 846.1s:  Good morning.
+847.0s - 855.5s:  We are pleased to have joining us today a number of guests, including Interim Fire Chief Larry Coco,
+856.6s - 864.3s:  Deputy Fire Chief Jim Jessup, Paul Fitzgerald, and Kevin Helmerton, and Laura Boyd,
+864.8s - 868.4s:  along with other Toronto services staff members.
+868.4s - 877.5s:  President James Reid of the Toronto Professional Firefighters Association and their executive team are also here.
+879.5s - 885.4s:  Chief Brett Crimm Schala from Toronto Paramedic Services,
+886.0s - 891.3s:  and the staff superintendent Brett Nicole from Toronto Police Services,
+891.8s - 897.9s:  along with members of the Toronto Fire Historical Society Toronto Fire Service Honour Guards,
+897.9s - 908.1s:  Toronto Fire Service Pipe and Drum Band, and Toronto Fire Services World Veterans Association Colour Guard.
+908.5s - 910.7s:  Welcome to the Council Chamber.
+919.9s - 927.8s:  The City of Toronto is proud to have a fire service that delivers world-class fire protection services
+927.8s - 932.2s:  to the people who live, work, and play in the city.
+932.2s - 940.6s:  Today we have the privilege of celebrating 150 years of dedicated fire protection services in the City of Toronto,
+941.3s - 949.7s:  an incredible milestone that highlights our long-standing commitment to safety and community resilience.
+950.6s - 954.9s:  For many years, Toronto was served by a volunteer fire department,
+954.9s - 965.6s:  and in 1874, the City Council of the day saw the importance of a full-time fire department
+965.6s - 971.5s:  to give the residents of Toronto the best fire protection service possible.
+972.2s - 982.3s:  At the time, the full-time department had just over 36 full-time members and used five horse-drawn fire engines,
+982.3s - 986.3s:  but they were at the fire stations day and night.
+987.0s - 990.9s:  Since that time, the city has transformed dramatically.
+991.6s - 999.4s:  The five horses have been replaced with 124 trucks, cobblestone streets replaced by pavement,
+999.9s - 1004.9s:  and wooden homes by concrete towers reaching high into the sky.
+1005.7s - 1016.2s:  By the late 80s, the six fire departments serving each district corner of the pre-amalgamated city became one,
+1017.2s - 1027.9s:  and we now have a fire service with 3,327 full-time staff serving the residents, businesses, and visitors of Toronto,
+1028.5s - 1034.2s:  providing service from 84 fire stations around the city.
+1034.2s - 1037.7s:  Today, we celebrate this incredible milestone.
+1038.4s - 1044.3s:  We are joined by members of the Fire Services and Toronto Professional Firefighters Association
+1044.3s - 1055.0s:  and countless others, both past and present, that represent the rich history and legacy of Toronto Fire Services.
+1056.5s - 1060.7s:  This dedication of our Toronto Fire Services is commendable.
+1060.7s - 1073.1s:  Their commitment to courage, compassion, and service reflects the core values that guides them in protecting our community.
+1074.6s - 1080.8s:  Celebrating 150 years of world-class fire protection service is a remarkable achievement,
+1081.5s - 1088.3s:  and one I, as the mayor, and we, as city council, are incurably proud of.
+1088.3s - 1094.7s:  This achievement highlights the professionalism through changing times.
+1095.6s - 1099.8s:  We, as a city council, remain committed to supporting these vital services,
+1099.9s - 1106.7s:  ensuring that the residents of Toronto continue to receive world-class fire protection services.
+1107.5s - 1117.0s:  So, on behalf of Toronto City Council and the residents of Toronto, congratulations on this achievement,
+1117.0s - 1120.3s:  and thank you for protecting our city.
+1121.1s - 1128.9s:  And now, we'll conclude this presentation with a short video highlighting 150 years of firefighting in Toronto.
+1129.4s - 1132.3s:  Let's give them a big round of applause before we see the video.
+1416.6s - 1423.4s:  I just want to stand up for a second, because this 150th anniversary is such an important one.
+1423.8s - 1430.6s:  It also found time as the open house that Toronto Fire has every year.
+1431.5s - 1434.8s:  I was so pleased, because the Fire Academy is in my ward.
+1435.0s - 1441.6s:  I attended with the mayor, and there was over 2,000 Torontonians who took advantage and came through that day.
+1442.0s - 1448.0s:  They saw so many things. They got education on fire. They saw how firefighters run up buildings.
+1448.1s - 1452.9s:  They saw everything, and so many kids said, I want to be a firefighter.
+1453.2s - 1455.2s:  So, that was pretty exciting.
+1456.2s - 1465.2s:  Unfortunately, also, as the mayor pointed out, the statistic on the number of homes that have smoke detectors
+1465.2s - 1468.6s:  is only every four out of ten homes.
+1469.2s - 1474.6s:  So, that's a very low number, and I think probably on this 150th anniversary,
+1474.9s - 1481.5s:  all of us as councillors in our communications could certainly promote that a bit more,
+1481.5s - 1483.8s:  because that's quite a surprising statistic.
+1483.8s - 1490.8s:  I also note that shortly after, very close to the Fire Academy, just down the street on Magee,
+1491.5s - 1499.9s:  there was a fire that night where three homes were burnt because of somebody fixing their roof
+1499.9s - 1501.7s:  and couldn't put the fire out.
+1502.2s - 1506.8s:  Of course, our fire department was right there and got it out,
+1507.0s - 1513.3s:  and as always, kept me in the loop as councillor as to what was happening and how difficult that fire was.
+1513.3s - 1516.2s:  So, I just want to thank everybody again for that.
+1518.6s - 1524.0s:  Because when we were at Chief Pegg's retirement, there was something very special that he got.
+1524.0s - 1527.8s:  He got a lot of special things and a lot of accolades. It was a wonderful evening.
+1528.2s - 1534.5s:  But we also got, from the historic services, the historical group in Toronto Fire,
+1534.5s - 1547.1s:  we got the actual motion from City Council in 1874 that set up the fire department in the City of Toronto,
+1547.1s - 1551.0s:  and it was very special, and thank you so much for bringing that here today.
+1551.3s - 1558.8s:  So, I can share a motion that was very successful 150 years later that basically says,
+1558.8s - 1565.5s:  Your committee therefore recommend that a company be organised to consist of 36 men.
+1565.8s - 1570.9s:  Now, I'll just stop there for a second because our firefighting contingent is full of men and women.
+1571.2s - 1579.0s:  So, a very different day 150 years ago. Don't feel badly. You're here now. You weren't there then.
+1580.7s - 1588.1s:  Whose full time and attention shall be devoted to their duties as firemen and properly drilled therein,
+1588.1s - 1596.4s:  which will not only meet the requirements of having men and women on the spot to render the necessary assistance
+1596.4s - 1600.5s:  in getting the engines speedily to work on all occasions of fire,
+1600.9s - 1606.2s:  but will also be more effective for general purposes as firemen than a larger company of men
+1606.2s - 1610.6s:  who are generally every day at work at their various kinds of employment.
+1610.9s - 1616.1s:  I don't need to remind you that the force was an all-volunteer force of 41 people,
+1616.1s - 1623.8s:  and with this declaration and this committee declaration, it became 36 full-time firefighters in the City of Toronto.
+1624.3s - 1631.9s:  The difference in cost between the partially paid company and a company of 36 men would be about $12,000 per year,
+1632.2s - 1638.3s:  which your committee have no doubt would be more than compensated by the greater efficiency of the department.
+1638.3s - 1648.0s:  All of this is respectfully submitted, Committee Room, Toronto, July 22nd, 1874, James B. Boustead, Chair.
+1649.7s - 1655.7s:  Anyway, that is very exciting to see that. Councillor Candoval was there. He's not here this morning.
+1656.0s - 1660.8s:  But he said, I wonder if there were any amendments, which I thought was very funny.
+1661.7s - 1667.4s:  But there weren't. It was a straight up, here is the motion, here is what we're doing,
+1667.4s - 1672.6s:  here we're setting up a fire department that has done us proud for 150 years.
+1673.0s - 1678.4s:  So to all of those who have served with courage, compassion, and service,
+1678.7s - 1683.8s:  which is the motto of the fire services here in Toronto,
+1684.1s - 1690.0s:  I just think we owe them all a big, deep debt of gratitude and a big thank you
+1690.0s - 1694.4s:  for serving always with courage, compassion, and service.
+1694.4s - 1702.0s:  Thank you very much. Thank you. Thank you, Councillor Fletcher.
+1703.4s - 1708.8s:  Thank you, Councillor Fletcher. Councillor Bravo.
+1709.2s - 1716.3s:  Thank you. As chair of Economic and Community Development Committee, I also want to build on this spirit of gratitude.
+1716.5s - 1719.4s:  I think that looking at the video and knowing the story,
+1719.8s - 1725.2s:  this is one of the best examples of what we can do when we pool our resources together as a society
+1725.2s - 1731.7s:  and build a professional service that offers us the protection that we need when we need it the most
+1731.7s - 1737.4s:  in the worst crises. Yes, it's the fires. It's also the hazards, environmental hazards.
+1738.3s - 1742.6s:  And it's the education and support. No matter who you are or where you live,
+1742.6s - 1747.3s:  and even if you don't have a home, the Toronto Fire Service is there to make sure people are safe.
+1748.3s - 1751.8s:  I think when you look at the video and you know the story of this fire service,
+1751.8s - 1760.4s:  it's a story of growing commitment from the city in building the infrastructure that's needed to provide this service.
+1760.5s - 1765.9s:  But it's also the story of the people, of the need to constantly improve safety for them,
+1766.0s - 1770.2s:  for firefighters, working conditions, and the continuum of care,
+1770.2s - 1772.8s:  which I think we should be really proud of in this fire service,
+1772.9s - 1776.4s:  which has led on the focus on trauma support and recovery.
+1776.4s - 1781.7s:  And it's something that I feel very proud of to say and to stand before you and to congratulate you on that.
+1782.7s - 1787.9s:  This is really also about celebrating all of the catastrophes that haven't happened
+1787.9s - 1794.0s:  because of prevention and all the work that's done to make sure that we don't get that call in the middle of the night.
+1794.5s - 1798.9s:  I get the call. I've had five alarm fire at Dover Court in Bloor.
+1799.4s - 1802.8s:  The partnership and support has been unbelievable.
+1802.8s - 1809.6s:  The St. Anne's Fire, which made global news, and the care that was shown by the fire service to that faith community
+1809.6s - 1813.3s:  and to Davenport in particular, I think I just want to say thank you
+1813.3s - 1818.2s:  and to add my congratulations for the future that comes with us.
+1818.4s - 1819.4s:  Take it.
+1819.7s - 1821.2s:  Thank you, Councillor Bravo.
+1822.2s - 1823.2s:  Councillor Colle.
+1823.4s - 1831.0s:  Yeah, I just want to say that we just had a dangerous fire this morning at Bathurst and Eglinton
+1831.0s - 1834.5s:  where a stolen car caught on fire.
+1834.7s - 1842.4s:  Luckily, the TTC bus driver who was run into by the stolen car
+1842.6s - 1849.8s:  pulled the person out of the vehicle that was on fire, and that person is now in hospital.
+1850.3s - 1859.6s:  But let's also thank the other workers who work for our transit service, police, paramedics for their work.
+1859.6s - 1865.3s:  And especially in this case, I want to give a big shout out to that TTC driver who risked his or her life
+1865.3s - 1871.5s:  to pull that person out of that vehicle that was in flames at Bathurst and Eglinton.
+1871.6s - 1872.5s:  Thank you.
+1876.0s - 1877.0s:  Thank you.
+1877.8s - 1879.7s:  Deputy Mayor Malik, on the item?
+1879.9s - 1880.8s:  Yes, on the item.
+1882.5s - 1883.5s:  Thank you very much.
+1884.0s - 1889.5s:  I just want to echo the thanks and the recognition to Toronto Fire Services, as we've heard
+1889.5s - 1895.2s:  and also experienced for over 100, well, for exactly 150 years,
+1895.8s - 1901.3s:  Toronto firefighters have stood as guardians of our city and especially in a growing city,
+1901.5s - 1907.3s:  whether it's fires that are in towers in downtown communities like mine
+1907.3s - 1910.3s:  or whether it's careful and delicate rescues,
+1910.5s - 1915.4s:  they have faced countless challenges with unwavering courage and determination
+1915.4s - 1918.7s:  that characterizes their work and their service.
+1918.7s - 1925.6s:  And it is selfless service and an unwavering commitment to protecting our communities.
+1926.0s - 1927.6s:  And that's what makes them true heroes.
+1927.7s - 1932.0s:  And I'm so glad that we are able to honor them as we begin our work today at council.
+1932.5s - 1937.2s:  And beyond firefighting, we have heard the important role that Toronto's firefighters play
+1937.2s - 1940.5s:  as community leaders and educators and as role models.
+1940.9s - 1946.7s:  We've seen them participate in community events and workshops, education at our public schools
+1946.7s - 1951.7s:  and at our local community centers, sharing their knowledge and expertise
+1951.7s - 1957.0s:  with residents of all ages to ensure that fire protection and fire prevention
+1957.0s - 1960.7s:  are something that we are capable and prepared for as a city.
+1961.1s - 1964.6s:  And fostering that culture of fire safety and awareness,
+1965.2s - 1969.6s:  they're helping to create safer, more resilient and more capable communities.
+1970.0s - 1971.5s:  I want to echo Councillor Bravo.
+1971.5s - 1976.2s:  You know, there's so many times where, as Councillors, we have gotten that call
+1976.2s - 1981.0s:  that something has happened in our communities that requires our attention and our support.
+1981.3s - 1986.2s:  And each and every time, that relief that fire services has acted so quickly,
+1986.4s - 1991.5s:  so bravely and so efficiently to ensure that the minimal amount of harm has been done
+1991.5s - 1996.1s:  and the most amount of work has been done to protect and support communities
+1996.1s - 2000.5s:  in that incredibly difficult and sometimes tragic circumstance.
+2000.5s - 2005.0s:  They're always there to lend a helping hand, whether it is, you know,
+2005.0s - 2008.0s:  disasters like we're seeing through the climate crisis
+2008.0s - 2013.1s:  or whether it's assisting a neighbor in need, very often being the first ones on site
+2013.1s - 2017.4s:  and making sure that folks are reassured about what will happen next.
+2017.7s - 2019.9s:  And to our firefighters, all of the ones who are here
+2019.9s - 2022.5s:  and who are part of the service in every corner of the city,
+2022.8s - 2026.4s:  thank you for this commitment, thank you for your courage and your selfnesses,
+2026.5s - 2028.8s:  thank you for being the heroes that our city needs
+2028.8s - 2031.3s:  and thank you for our continued work together.
+2032.2s - 2033.0s:  Thank you.
+2034.5s - 2038.2s:  I understand the city solicitor would like to make an introduction.
+2043.8s - 2045.3s:  Thank you very much, Madam Speaker.
+2046.0s - 2050.4s:  I wanted to welcome and introduce our six new articling students
+2050.4s - 2052.2s:  that are here with us for a year.
+2052.5s - 2053.9s:  If you could stand up.
+2054.9s - 2058.1s:  And I will say your names and hopefully pronounce them all correctly.
+2060.1s - 2061.4s:  Amanda Owusu.
+2062.7s - 2064.4s:  Nicole Voskul.
+2064.8s - 2066.0s:  Isha Patel.
+2066.5s - 2067.5s:  Yelda Nury.
+2068.7s - 2069.8s:  Camilla Conti.
+2070.4s - 2071.4s:  And Douglas LaForest.
+2071.8s - 2074.6s:  So they'll be working in the legal department for the next year.
+2081.5s - 2083.0s:  Thank you and welcome.
+2085.1s - 2088.9s:  May I have a motion to confirm the minutes?
+2091.7s - 2093.6s:  Moved by Councillor Pasternak.
+2093.6s - 2096.5s:  So if you can read the motion, please.
+2098.8s - 2100.0s:  Oh, sorry, sorry.
+2100.0s - 2100.9s:  There you go.
+2101.4s - 2104.1s:  That City Council confirm the minutes from the regular meeting
+2104.1s - 2107.3s:  held on July 24th and 25th, 2024,
+2107.7s - 2110.8s:  and the special meeting held on September 5th, 2024,
+2111.2s - 2112.9s:  in the form supplied to the members.
+2113.7s - 2114.6s:  Thank you.
+2116.5s - 2118.3s:  All those in favour, show of hands.
+2118.5s - 2119.7s:  Opposed, if any, carried.
+2120.1s - 2123.6s:  I will now call upon the committee chairs to introduce their reports.
+2123.6s - 2126.7s:  The chairs can speak about the reports for up to five minutes.
+2129.7s - 2133.6s:  Mayor Chao, you have a motion to introduce the Executive Committee report.
+2133.9s - 2139.1s:  I do, and the motion is that the report from meeting 17
+2139.1s - 2143.6s:  of the Executive Committee listed on the agenda of council
+2143.6s - 2146.0s:  be presented for consideration.
+2148.1s - 2153.8s:  Madam Speaker, we have quite a long meeting,
+2153.8s - 2157.8s:  and there were many items that went into the evening.
+2158.5s - 2161.8s:  The first one, 17.1,
+2162.3s - 2166.4s:  is building a universal student food program in Toronto,
+2167.2s - 2170.7s:  something that I've been working on for many decades
+2170.7s - 2174.4s:  since the late 80s, early 90s,
+2174.4s - 2179.5s:  and what is in front of you is a plan,
+2179.9s - 2182.2s:  asking for a more comprehensive plan,
+2182.2s - 2188.0s:  but to start, we're looking to see if we could feed 8,000 kids
+2188.0s - 2191.8s:  as of January 1st, because the winter is going to be tough.
+2192.4s - 2194.7s:  We know that Thanksgiving is upon us,
+2194.8s - 2200.1s:  and it will be a tough year for Daily Bread Food Bank
+2200.1s - 2202.7s:  because the needs have increased,
+2203.4s - 2205.4s:  because the rent is so high,
+2205.5s - 2208.8s:  and people even working with several jobs
+2208.8s - 2212.0s:  are having a hard time making ends meet,
+2212.4s - 2217.2s:  which means that right now, 10.15, 10.13,
+2217.8s - 2222.0s:  there are children in schools across Toronto
+2222.0s - 2226.9s:  that may not be able to focus because they are hungry.
+2227.6s - 2233.7s:  So this program, this motion in front of us in the Executive
+2233.7s - 2236.7s:  asked us to come back with a plan in November.
+2236.7s - 2240.2s:  The cost and how we're going to do it.
+2240.9s - 2244.3s:  The next item is something that we've debated quite a bit,
+2244.5s - 2246.1s:  which is the electric ferries.
+2246.5s - 2249.1s:  You have seen different discussion
+2249.1s - 2253.1s:  about whether our ferry is safe.
+2253.3s - 2254.7s:  Of course, it is safe.
+2254.7s - 2256.8s:  There was a presentation at the Executive
+2256.8s - 2260.0s:  about our ferry services,
+2260.5s - 2263.7s:  and that because we have ordered the electric ferries,
+2263.7s - 2268.6s:  we want to make sure that there is the dock
+2268.6s - 2272.9s:  that could accommodate these new ferries,
+2273.3s - 2278.3s:  plus there would be more people able to be on these ferries,
+2278.4s - 2282.2s:  so the dock and the whole area needs some kind of change.
+2283.8s - 2285.6s:  The next item, Madam Speaker,
+2285.9s - 2289.8s:  is one that I believe you are very, very interested in
+2289.8s - 2293.8s:  because last year the rollout of the VHT
+2293.8s - 2295.5s:  causes a lot of anguish.
+2295.7s - 2297.4s:  A lot of seniors were scared.
+2297.7s - 2300.7s:  Those that cannot speak English didn't know what to do.
+2300.7s - 2302.1s:  They were crying on the phone.
+2302.2s - 2304.5s:  They were lined up at City Hall
+2304.5s - 2308.1s:  and all the centres trying to figure out
+2308.1s - 2314.5s:  because 160,000 homeowners were receiving a note
+2314.5s - 2317.2s:  to say that their tax had gone up dramatically,
+2317.2s - 2320.2s:  which scared them, and it was unnecessary.
+2320.3s - 2321.4s:  It was a big mistake.
+2323.3s - 2325.7s:  So this year, in this report,
+2326.1s - 2328.8s:  it's a redesign of the entire program,
+2331.4s - 2334.1s:  and there's a lot of details in it,
+2334.1s - 2336.9s:  and I think there will be a presentation
+2336.9s - 2341.8s:  for members of council so that you can become familiar with it
+2341.8s - 2343.9s:  because it's quite different than last year.
+2343.9s - 2347.3s:  It's a lot easier to apply.
+2348.0s - 2350.2s:  There will be a lot more communication,
+2350.4s - 2352.4s:  multilingual communication,
+2354.2s - 2356.8s:  and perhaps some members of council
+2356.8s - 2360.2s:  will have some suggestions to improve it even further.
+2360.4s - 2362.7s:  Well, that item is going to be on,
+2363.0s - 2367.3s:  and I do know that the city staff have worked very hard,
+2367.3s - 2370.9s:  and I believe they visited about two-thirds
+2371.7s - 2376.7s:  of members of council in coming up with this plan.
+2377.2s - 2380.4s:  So those of you that have not had the time to visit,
+2380.8s - 2383.1s:  to get a briefing, you will see it today.
+2383.7s - 2385.3s:  So put your thinking cap on.
+2385.6s - 2387.7s:  How do you think this can be improved
+2387.7s - 2389.9s:  and let the city staff know?
+2390.9s - 2393.5s:  Because it is a very important initiative
+2393.5s - 2396.5s:  that we've done for several years.
+2398.3s - 2402.8s:  Judging from the folks from Billy Bishop Airport,
+2403.1s - 2404.6s:  welcome to council chamber.
+2405.5s - 2407.7s:  We will be discussing that item
+2407.7s - 2411.2s:  on the runway and safety areas
+2411.2s - 2416.7s:  and on how we could make sure the passengers are safe
+2416.7s - 2419.4s:  and continue to support the airport.
+2419.9s - 2423.2s:  That item, I believe, will have a lot of discussion
+2423.2s - 2427.0s:  because there are different options out there,
+2428.7s - 2430.6s:  and then the questions about costs
+2430.6s - 2432.8s:  and financing, et cetera.
+2433.1s - 2434.6s:  So it's sort of complex,
+2434.9s - 2439.3s:  and I believe the city staff can certainly answer
+2439.3s - 2442.4s:  several questions, whether it's option one, two, or three,
+2442.8s - 2445.8s:  and the financing and the tripartite agreement, et cetera.
+2446.7s - 2448.4s:  I know I'm running out of time.
+2448.7s - 2452.0s:  Just one other item that's really important
+2452.0s - 2455.1s:  because Councillor Moyes has been really pushing
+2455.1s - 2456.5s:  on the St. Lawrence Centre.
+2456.8s - 2457.8s:  Can we afford it?
+2457.8s - 2459.4s:  Will we be able to go ahead?
+2459.5s - 2460.8s:  That item is also on.
+2461.5s - 2462.9s:  And there are different...
+2462.9s - 2465.7s:  One item that you might be interested, Madam Speaker,
+2465.9s - 2469.1s:  is that the water capital budget,
+2469.6s - 2472.4s:  2024 budget and the capital budget adjustment,
+2472.5s - 2475.8s:  because that is where the funds comes from
+2475.8s - 2477.3s:  on flood mitigation.
+2477.9s - 2481.9s:  So a very heavy agenda that is in front of us
+2481.9s - 2484.3s:  and lots to discuss.
+2484.8s - 2485.2s:  Thank you.
+2485.3s - 2485.9s:  Thank you.
+2494.6s - 2497.0s:  Councillor Moyes, you have a motion
+2497.0s - 2499.1s:  to introduce the Board of Health report.
+2500.0s - 2501.2s:  Yes, I do.
+2502.0s - 2504.7s:  That the report for meeting 16 of the Board of Health
+2504.7s - 2508.6s:  listed on the agenda of council be presented for consideration.
+2510.1s - 2512.6s:  Last month, the Board of Health returned to session
+2512.6s - 2516.6s:  with a full agenda of items pertinent to the health
+2516.6s - 2518.2s:  and well-being of our city.
+2518.5s - 2521.9s:  Top of our minds with the beginning of the school year
+2521.9s - 2523.5s:  was the student nutrition program.
+2524.7s - 2526.2s:  Today, at the Board's request,
+2526.2s - 2529.1s:  we have received a report from the Medical Office of Health
+2529.1s - 2532.1s:  outlining a phased approach to realizing
+2532.1s - 2534.3s:  a universal student nutrition program,
+2534.9s - 2537.7s:  an expansion for which there is critical need.
+2539.6s - 2543.1s:  Also pressing has been response to the provincial announcement
+2543.1s - 2546.5s:  of changes to the regulation of safe consumption sites
+2546.5s - 2550.8s:  and $378 million in funding for new homeless
+2550.8s - 2554.1s:  and addiction recovery treatment known as heart hubs.
+2555.3s - 2556.3s:  Following this announcement,
+2556.6s - 2559.6s:  Toronto Public Health was notified by the province
+2559.6s - 2563.6s:  of the supervised consumption services at 277 Victoria Street
+2563.6s - 2566.8s:  will cease by March 31, 2025.
+2568.1s - 2571.6s:  As we learn more about what the new regulations mean
+2571.6s - 2573.5s:  for sites across the city,
+2573.5s - 2577.3s:  we have been working to determine the path forward
+2577.3s - 2579.6s:  to ensure that people are able to receive
+2579.6s - 2583.7s:  the full continuum of care and services that they need.
+2584.8s - 2585.8s:  At our last meeting,
+2586.3s - 2589.8s:  the board requested that the province continue to fund
+2589.8s - 2593.6s:  all currently operating supervised consumption services
+2593.6s - 2597.1s:  and consumption and treatment services sites
+2597.1s - 2599.7s:  beyond March 31, 2025,
+2600.4s - 2603.4s:  and all supervised consumption services to be housed
+2603.4s - 2605.7s:  at the new heart hubs.
+2607.1s - 2610.9s:  Finally, as the year begins to draw to a close,
+2611.4s - 2614.0s:  so does our time with Dr. de Villa
+2614.0s - 2616.2s:  as our Medical Office of Health.
+2617.2s - 2619.5s:  Preparations for her departure continue
+2619.5s - 2622.6s:  as the Medical Officer of Health and Hiring Committee
+2622.6s - 2625.5s:  has conducted preliminary interviews
+2625.5s - 2628.2s:  with a number of highly qualified candidates
+2628.2s - 2630.1s:  from across the country.
+2631.2s - 2632.8s:  We will be ready to appoint
+2632.8s - 2634.4s:  a new Medical Officer of Health
+2634.4s - 2636.3s:  at our November board meeting
+2636.3s - 2639.2s:  before seeking council approval in December.
+2639.7s - 2640.6s:  Thank you, Madam Speaker.
+2641.3s - 2642.7s:  Thank you.
+2648.8s - 2650.9s:  Councillor Chang, you have a motion
+2650.9s - 2653.8s:  to introduce a Civic Appointments Committee report.
+2654.5s - 2654.9s:  Yes.
+2655.7s - 2658.2s:  I would like to move that the report for meeting 18
+2658.2s - 2659.6s:  of the Civic Appointments Committee
+2659.6s - 2662.8s:  listed on the agenda of council be presented for consideration.
+2663.5s - 2665.7s:  I just want to encourage my councillor colleagues
+2665.7s - 2668.8s:  to promote our many, many boards
+2668.8s - 2670.3s:  where people can participate.
+2670.8s - 2673.5s:  We want people to know that their voices matter,
+2673.5s - 2675.1s:  and it's a very meaningful way.
+2675.7s - 2679.0s:  Sometimes we are wrestling at Civic Appointments
+2679.0s - 2681.1s:  because we're not sure that we're getting
+2681.1s - 2683.8s:  the diverse pool that we wish we could have,
+2684.2s - 2687.6s:  and so the website that you can direct everyone to
+2687.6s - 2690.6s:  is toronto.ca backslash shapeyourcity.
+2691.1s - 2693.7s:  I hope that you can include it in your newsletters,
+2693.7s - 2697.2s:  and let's make our boards and committees
+2697.2s - 2699.6s:  representative of the diversity of our city.
+2699.6s - 2701.0s:  Thank you.
+2701.8s - 2703.1s:  Thank you.
+2709.5s - 2711.8s:  Councillor Bravo, you have a motion
+2711.8s - 2713.4s:  to introduce the Economic
+2713.4s - 2715.5s:  and Community Development Committee report.
+2716.0s - 2717.1s:  I do. Thank you, Speaker.
+2717.3s - 2719.6s:  I move that the report for meeting 15
+2719.6s - 2722.1s:  of the Economic and Community Development Committee
+2722.1s - 2723.7s:  listed on the agenda of council
+2723.7s - 2725.6s:  be presented for consideration.
+2726.4s - 2727.7s:  I just want to speak briefly
+2727.7s - 2731.2s:  to some of the highlights of our 15th meeting.
+2731.7s - 2734.9s:  We appointed the first youth poet laureate,
+2735.2s - 2739.1s:  Shahada Jack, to great celebration
+2739.1s - 2741.7s:  in the community and among organizations
+2741.7s - 2742.5s:  representing youth.
+2743.6s - 2745.8s:  We heard about the expansion
+2745.8s - 2747.7s:  of the diversity fellows program,
+2748.2s - 2749.5s:  an update of the program,
+2749.6s - 2753.6s:  which will include vital Indigenous youth fellow program
+2753.6s - 2756.2s:  that's been thoughtfully and carefully crafted
+2756.2s - 2759.5s:  by staff in consultation with community.
+2760.5s - 2761.3s:  And we heard the report
+2761.3s - 2763.5s:  of the Los Angeles mission,
+2763.7s - 2765.2s:  which was highly successful
+2765.2s - 2766.8s:  in highlighting the stability
+2766.8s - 2768.3s:  of our film industry in Toronto,
+2768.9s - 2770.9s:  the concierge services that are offered
+2770.9s - 2773.3s:  to the industry, and the quality
+2773.3s - 2774.6s:  of our crews and our workers,
+2774.7s - 2775.9s:  our workforce here in Toronto.
+2776.7s - 2777.3s:  Thank you, Speaker.
+2778.6s - 2779.5s:  Thank you.
+2786.2s - 2788.1s:  Councillor Ainslie, you have a motion
+2788.1s - 2790.7s:  to introduce General Government Committee report.
+2790.7s - 2797.5s:  Good morning.
+2797.6s - 2800.4s:  Madam Speaker, that the report for meeting number 16
+2800.4s - 2801.9s:  of the General Government Committee
+2801.9s - 2803.8s:  listed on the agenda of council
+2803.8s - 2805.3s:  be presented for consideration.
+2805.8s - 2806.7s:  Thank you.
+2814.5s - 2815.5s:  Councillor McKelvie,
+2815.7s - 2817.4s:  you have a motion to introduce
+2817.4s - 2819.7s:  Infrastructure and Environment Committee report.
+2820.6s - 2821.4s:  Thank you, Madam Speaker,
+2821.4s - 2823.2s:  that the report for meeting 16
+2823.2s - 2824.6s:  of the Infrastructure and Environment Committee
+2824.6s - 2825.7s:  listed on the agenda of council
+2825.7s - 2827.4s:  be presented for consideration.
+2827.4s - 2830.2s:  There are some great topics on there.
+2830.2s - 2832.1s:  Everybody loves congestion, right?
+2832.4s - 2833.8s:  So there's a report on that,
+2833.8s - 2835.4s:  and everybody loves construction.
+2835.9s - 2837.4s:  There's a report on that, too.
+2837.6s - 2839.1s:  And we all love EV chargers,
+2839.1s - 2840.4s:  and there's a report on that.
+2840.4s - 2842.9s:  So I do ask that
+2843.6s - 2845.4s:  you do try to advance
+2845.4s - 2847.8s:  Circulate Your Motion so that we can move
+2847.8s - 2849.4s:  efficiently through the
+2849.4s - 2851.9s:  infrastructure items and also have
+2851.9s - 2853.7s:  staff review those from a
+2853.7s - 2854.6s:  technical standpoint.
+2854.6s - 2856.5s:  I will say on congestion,
+2856.6s - 2858.8s:  the report is exceptionally
+2858.8s - 2860.7s:  and it was very well prepared
+2860.7s - 2862.6s:  by city staff. And importantly,
+2862.6s - 2864.4s:  it doesn't just talk about the new recommendations,
+2864.5s - 2866.6s:  the new things they're adding, but there are
+2866.6s - 2868.6s:  tables that are in there that describe all
+2868.6s - 2869.9s:  the actions that are underway.
+2870.4s - 2872.5s:  And there will be soon a dashboard
+2872.5s - 2874.6s:  that is launched. So I think it's important
+2874.6s - 2876.6s:  that we remember that while we're only voting on
+2876.6s - 2878.4s:  a few motions today
+2878.4s - 2880.4s:  related to congestion, there is a very large
+2880.4s - 2882.4s:  body of work around that. So please also
+2882.4s - 2884.3s:  have a look at that as you prepare your motions.
+2884.6s - 2889.2s:  Thank you. Thank you.
+2897.9s - 2899.3s:  Councillor Perks, you have a motion
+2899.3s - 2901.3s:  to introduce the Planning and Housing Committee
+2901.3s - 2901.8s:  report.
+2903.1s - 2904.2s:  Thank you, Speaker.
+2905.3s - 2906.8s:  Looking for my motion here.
+2907.7s - 2910.1s:  There it is. I move that the report
+2910.1s - 2912.3s:  from meeting 15 of the Planning and Housing Committee
+2912.3s - 2914.4s:  listed on the agenda of council be presented
+2914.4s - 2916.2s:  for consideration. And given
+2916.2s - 2917.9s:  that it was one of our shorter meetings,
+2918.2s - 2920.4s:  this is one of the shorter speeches to introduce an item.
+2923.1s - 2924.1s:  Thank you.
+2930.1s - 2932.1s:  Councillor Holyday,
+2933.0s - 2934.2s:  you have a motion
+2934.2s - 2936.1s:  to introduce the Etobicoke York
+2936.1s - 2937.6s:  Community Council report.
+2938.3s - 2940.0s:  I do thank you and good morning
+2940.0s - 2942.8s:  to you, Madam Speaker. I would
+2942.8s - 2944.9s:  like to move that the report from
+2944.9s - 2947.0s:  meeting 16 of the Etobicoke
+2947.0s - 2948.8s:  York Community Council listed
+2948.8s - 2950.3s:  on the agenda of council
+2950.3s - 2952.2s:  be presented for consideration.
+2952.7s - 2954.8s:  Thank you. Thank you.
+2958.1s - 2958.4s:  Councillor
+2964.0s - 2964.6s:  Pasternak,
+2964.6s - 2966.9s:  you have a motion to introduce
+2968.2s - 2969.4s:  the North York
+2969.4s - 2970.8s:  Community Council report.
+2971.9s - 2973.7s:  Yes, thank you, Madam Speaker.
+2975.1s - 2976.1s:  That the report from meeting
+2976.1s - 2977.9s:  17 of North York Community Council
+2977.9s - 2980.1s:  listed on the agenda of council be presented
+2980.1s - 2980.9s:  for consideration.
+2981.7s - 2983.1s:  Thank you.
+2987.1s - 2989.1s:  Councillor Mantis,
+2989.4s - 2991.6s:  you have a motion to introduce
+2991.6s - 2993.4s:  the Scarborough Community Council
+2993.4s - 2995.5s:  report. Yes, thank you, Madam
+2995.5s - 2997.3s:  Speaker. That the report from
+2997.3s - 2999.4s:  meeting 16 of the Scarborough Community Council
+2999.4s - 3001.6s:  listed on the agenda of council be presented
+3001.6s - 3003.1s:  for consideration. Thank you.
+3003.3s - 3006.8s:  Thank you. Councillor
+3006.8s - 3008.8s:  Moyes, you have a motion
+3008.8s - 3010.8s:  to introduce the Toronto and East York
+3010.8s - 3012.2s:  Community Council report.
+3015.9s - 3017.8s:  That the report meeting 16
+3017.8s - 3019.7s:  of the Toronto and East York Community Council
+3019.7s - 3021.7s:  listed on the agenda for council be presented
+3021.7s - 3024.8s:  for consideration. Thank you.
+3031.1s - 3032.2s:  May I have a motion
+3032.2s - 3033.9s:  to introduce a new business from
+3033.9s - 3035.4s:  the mayor and city officials
+3035.4s - 3037.4s:  moved by Councillor Crisanti.
+3037.6s - 3039.1s:  I can read the motion.
+3044.7s - 3046.3s:  There you go. Thank you,
+3046.4s - 3048.3s:  Speaker, and good morning. That the new business
+3048.3s - 3050.2s:  from the mayor and city officials
+3050.2s - 3052.6s:  listed on the agenda of council be presented
+3052.6s - 3054.5s:  for consideration. Thank
+3054.5s - 3056.5s:  you. All those
+3056.5s - 3058.1s:  in favour, show of hands,
+3058.3s - 3059.8s:  posed, if any, carried.
+3061.3s - 3063.2s:  Are there any declarations of interest
+3063.2s - 3065.3s:  at this time? Please indicate the item
+3065.3s - 3067.1s:  number and the nature of the interest and
+3067.1s - 3068.9s:  remember that you must also file
+3068.9s - 3070.8s:  a written declaration of your interest
+3070.8s - 3076.5s:  with the city clerk. I don't see
+3076.5s - 3078.3s:  any. I will now call
+3078.3s - 3080.3s:  for petitions. Are there any petitions
+3080.3s - 3089.1s:  at this time? Okay.
+3089.6s - 3091.1s:  Members, I will now review
+3091.1s - 3092.6s:  the order paper
+3097.8s - 3098.3s:  and
+3099.3s - 3101.2s:  when we review the order paper, once
+3101.2s - 3103.3s:  the order paper has been approved by council, any
+3103.3s - 3104.8s:  change, we need a two-thirds vote.
+3105.1s - 3107.2s:  The city clerk has posted today's order paper
+3107.2s - 3109.1s:  online with the agenda item
+3109.1s - 3111.1s:  RM 22.7
+3111.1s - 3112.6s:  review with the order paper.
+3113.1s - 3115.3s:  If council adopts any amendments
+3115.3s - 3117.2s:  to the order paper, they will also
+3117.2s - 3118.4s:  be posted with this item.
+3118.9s - 3121.2s:  We have one deferred item before us
+3121.2s - 3123.3s:  today, EC 14.11
+3123.8s - 3125.2s:  and the mayor has
+3125.2s - 3127.9s:  designated item EX 17.5
+3127.9s - 3129.2s:  on Billy Bishop Toronto
+3129.2s - 3131.0s:  City Airport runway
+3131.0s - 3133.2s:  and safety areas as their first
+3133.2s - 3135.2s:  key matter and first item of
+3135.2s - 3137.3s:  business today. The mayor
+3137.3s - 3140.0s:  has designated EX 17.1
+3140.0s - 3142.1s:  building a universal student
+3142.1s - 3144.1s:  food program in Toronto as their
+3144.1s - 3146.0s:  second key matter as first
+3146.0s - 3147.6s:  item of business tomorrow.
+3148.6s - 3150.1s:  The notice to motion run through
+3150.1s - 3152.0s:  is scheduled for 2 p.m. tomorrow
+3152.0s - 3154.1s:  only if the mayor's key matters are
+3154.1s - 3154.8s:  completed.
+3155.7s - 3158.0s:  Members, there are some related matters on the
+3158.0s - 3159.9s:  agenda that I propose be considered
+3159.9s - 3161.9s:  together if they are held.
+3162.5s - 3164.4s:  Items IE 16.2
+3164.4s - 3166.9s:  and IE 16.4
+3166.9s - 3168.3s:  relating to infrastructure
+3168.3s - 3170.3s:  program coordination and congestion
+3170.3s - 3174.0s:  management. The city
+3174.0s - 3175.4s:  clerk has noted
+3175.4s - 3177.7s:  the items that members wish to hold and
+3177.7s - 3179.7s:  I will now go through the items to take
+3179.7s - 3181.8s:  additional member holds. I will
+3181.8s - 3183.8s:  review the order paper one section
+3183.8s - 3185.9s:  at a time. The clerk will open
+3185.9s - 3187.8s:  the speakers list in CMP and
+3187.8s - 3189.4s:  you can place your name on the list.
+3189.7s - 3191.8s:  When I recognize you, state the item or
+3191.8s - 3193.8s:  items you wish to hold and I will go
+3193.8s - 3196.0s:  through the agenda one section at a
+3196.0s - 3198.7s:  time. Okay, we'll
+3198.7s - 3199.9s:  start with
+3200.7s - 3201.8s:  executive committee,
+3209.9s - 3210.7s:  board of health,
+3215.9s - 3217.0s:  civic appointments.
+3224.4s - 3226.2s:  I don't see any names on the screen.
+3237.2s - 3239.4s:  So the board of health item
+3239.4s - 3240.9s:  HL 16.9
+3240.9s - 3242.7s:  is here without a recommendation.
+3242.8s - 3244.4s:  So would you like to hold the item down?
+3245.0s - 3253.6s:  Okay. It's
+3253.6s - 3255.0s:  here without a recommendation
+3255.0s - 3257.6s:  and we do have a supplementary
+3257.6s - 3259.8s:  report on that 16.9A.
+3261.0s - 3261.5s:  We'll now
+3261.5s - 3262.7s:  go to
+3264.4s - 3266.2s:  Councillor Crisanti. Are you
+3266.2s - 3267.4s:  with civic appointments?
+3268.0s - 3269.7s:  You got your name up there.
+3271.7s - 3273.5s:  I missed one at
+3273.5s - 3275.2s:  executive if I could go back to that.
+3275.2s - 3276.6s:  Which item? Very quickly.
+3277.2s - 3281.0s:  EX 17.14.
+3281.9s - 3282.8s:  City Toronto
+3282.8s - 3284.6s:  reserve fund balances.
+3286.3s - 3288.0s:  Okay. Thank you.
+3289.4s - 3290.4s:  So we'll now go
+3290.4s - 3294.0s:  to civic. It was
+3294.0s - 3295.9s:  EX 17.14
+3295.9s - 3297.8s:  City of Toronto reserve and reserve fund
+3297.8s - 3300.0s:  balances as of June 30th.
+3303.2s - 3304.5s:  we'll go
+3304.5s - 3306.7s:  civic appointments next.
+3313.1s - 3313.7s:  Economic
+3313.7s - 3315.9s:  and community development committee report.
+3322.7s - 3323.9s:  General government.
+3325.0s - 3325.8s:  Councillor Ainslie?
+3327.9s - 3329.2s:  Thank you, Madam Speaker.
+3330.3s - 3331.5s:  GG 16.12
+3331.7s - 3332.9s:  award of document
+3332.9s - 3335.1s:  number 44, sorry, it's the
+3335.1s - 3336.7s:  CFL for curbside collection.
+3337.0s - 3338.5s:  I'm not going to read the whole thing.
+3339.6s - 3341.0s:  So you're holding that item
+3341.0s - 3342.5s:  down, right? Yes. Yes, please.
+3342.7s - 3347.1s:  Thank you. That's on GG
+3347.1s - 3348.9s:  16.12.
+3350.2s - 3352.1s:  Infrastructure and environment committee
+3352.1s - 3352.8s:  report.
+3354.3s - 3357.9s:  Councillor Moyes? I wanted to
+3357.9s - 3359.9s:  hold EC 14.11.
+3361.6s - 3362.6s:  You wanted to hold what?
+3363.0s - 3364.4s:  EC 14.11.
+3366.1s - 3367.4s:  EC? Yeah.
+3372.1s - 3372.9s:  Oh, it's a deferred item.
+3372.9s - 3375.4s:  Can I hold that item?
+3376.5s - 3378.7s:  It's already held. Okay, thank you.
+3380.7s - 3381.3s:  Okay.
+3382.9s - 3384.3s:  Councillor Bradford?
+3386.0s - 3386.8s:  Thanks, Madam Speaker.
+3386.9s - 3389.2s:  I'd like to hold IE 16.2
+3389.2s - 3391.0s:  enhancing capital infrastructure program
+3391.0s - 3393.0s:  coordination. I have two motions
+3393.0s - 3395.1s:  that I've worked on with staff and run past
+3395.1s - 3397.1s:  the chair. And so I'm going to
+3397.1s - 3398.9s:  advance circulate those for everybody to look at.
+3399.4s - 3401.6s:  Okay, that's on IE 16.2.
+3401.6s - 3402.7s:  Thank you.
+3405.2s - 3406.4s:  Councillor Pasternak?
+3407.3s - 3409.0s:  Yes, thank you, Madam Speaker.
+3409.0s - 3410.3s:  I'd like to hold two items.
+3410.5s - 3412.8s:  IE 16.4, the congestion
+3413.1s - 3413.9s:  management plan.
+3415.1s - 3418.0s:  As well as IE 16.8
+3418.0s - 3419.5s:  fossil fuel advocacy
+3419.5s - 3420.2s:  advertising.
+3422.7s - 3423.9s:  Thank you.
+3427.6s - 3428.7s:  Planning and housing.
+3430.6s - 3431.3s:  Councillor Bradford?
+3431.5s - 3433.2s:  Do you have one on planning and housing? No?
+3433.6s - 3434.8s:  Councillor Pasternak, I see your name.
+3435.4s - 3437.0s:  Planning and housing, anything?
+3437.8s - 3437.9s:  No?
+3438.9s - 3440.6s:  Oh, Councillor
+3440.6s - 3441.9s:  Perks?
+3442.8s - 3443.9s:  Just one sec.
+3445.3s - 3446.7s:  Councillor Perks? Yes, Speaker.
+3447.0s - 3448.1s:  I had held
+3448.1s - 3451.1s:  PH15.3, which is the affordable
+3451.1s - 3453.0s:  or the social housing project at
+3453.0s - 3454.5s:  35 Bellevue Avenue.
+3454.9s - 3456.2s:  And I'm prepared to release that.
+3457.3s - 3458.8s:  I'll continue to hold it then.
+3459.2s - 3460.3s:  Okay, continue to hold.
+3460.5s - 3462.1s:  Thank you.
+3463.1s - 3464.5s:  Councillor Polide?
+3466.9s - 3468.7s:  Thank you, Speaker. I would like to hold
+3468.7s - 3470.4s:  PH15.1,
+3470.5s - 3472.3s:  official plan policy amendments for
+3472.3s - 3474.7s:  infrastructure projects in parks
+3474.7s - 3475.9s:  and open spaces.
+3477.0s - 3478.2s:  Thank you.
+3480.5s - 3482.6s:  Etobicoke York Community Council.
+3487.7s - 3489.6s:  North York Community Council.
+3496.5s - 3498.2s:  Scarborough Community Council.
+3498.8s - 3500.0s:  Oh, Madam Speaker, I have something
+3500.0s - 3501.9s:  for North York. I put my name down.
+3502.3s - 3503.6s:  Okay, it just came on.
+3503.7s - 3506.1s:  Councillor Chang? Yes, I'd like to hold
+3506.1s - 3508.0s:  NY 17.27,
+3508.0s - 3511.2s:  please. I have a technical
+3511.2s - 3513.2s:  amendment that's being...
+3513.2s - 3515.3s:  NY 17.27.
+3516.2s - 3517.3s:  461 Shepherd
+3517.3s - 3518.2s:  Avenue East.
+3518.8s - 3520.3s:  Okay, thank you.
+3524.2s - 3526.2s:  On Scarborough Community Council,
+3527.7s - 3528.0s:  Councillor
+3528.0s - 3528.7s:  Candoval?
+3530.9s - 3533.4s:  I'd like to hold SC 16.1.
+3535.0s - 3535.9s:  Yeah, and that's here
+3535.9s - 3537.2s:  without a recommendation.
+3537.7s - 3540.9s:  Thank you. Any more on
+3540.9s - 3541.7s:  Scarborough?
+3544.0s - 3545.8s:  Okay, Toronto
+3545.8s - 3547.9s:  and East York Community Council.
+3550.0s - 3550.6s:  Councillor Sacks?
+3551.2s - 3552.5s:  Yes, thank you.
+3553.0s - 3554.6s:  Staff have asked me to hold
+3554.6s - 3557.5s:  TE 16.29, 16.30,
+3557.9s - 3559.5s:  and 16.31
+3559.5s - 3561.2s:  for minor wording changes.
+3562.7s - 3564.2s:  Okay, 16.29,
+3564.5s - 3566.1s:  16.30,
+3566.6s - 3568.0s:  and 16.31.
+3568.5s - 3569.4s:  Thank you.
+3569.8s - 3570.8s:  Thank you.
+3573.3s - 3574.2s:  Councillor Moyes?
+3575.9s - 3577.1s:  Yes, Madam Speaker.
+3577.6s - 3579.7s:  I'd like to hold TE 16.4,
+3579.8s - 3581.7s:  16.5, and...
+3581.7s - 3583.2s:  Okay, just one sec, please.
+3585.1s - 3586.3s:  I don't know shorthand.
+3587.3s - 3588.2s:  I can teach you.
+3588.3s - 3589.7s:  16.4.
+3590.0s - 3591.2s:  16.5.
+3591.6s - 3593.6s:  And 16.13.
+3594.7s - 3596.8s:  Yes, that's here without a recommendation.
+3597.0s - 3598.1s:  16.13.
+3598.3s - 3600.1s:  That's correct. Right, thank you.
+3603.8s - 3604.4s:  Councillor
+3605.1s - 3605.6s:  Holliday?
+3606.5s - 3607.7s:  Thanks, Speaker.
+3608.3s - 3609.8s:  TE 16.20, which is
+3609.8s - 3611.7s:  corridor safety review, Mortimer Avenue
+3611.7s - 3614.0s:  between Pape Avenue and Broadview Avenue.
+3614.1s - 3616.3s:  I have some questions of staff, so
+3616.3s - 3617.9s:  just an alert
+3617.9s - 3619.8s:  if I can speak to them offline, it'd be great.
+3620.4s - 3621.1s:  Thank you.
+3621.3s - 3622.7s:  So you're going to hold the item down?
+3622.8s - 3624.5s:  I will hold the item, thank you.
+3626.0s - 3627.7s:  Okay, and
+3634.3s - 3635.4s:  new business.
+3640.4s - 3641.3s:  Councillor Perks?
+3642.3s - 3643.7s:  Yes, Speaker.
+3643.7s - 3645.3s:  I had held CC
+3645.3s - 3647.5s:  22.7,
+3647.8s - 3649.0s:  amending item
+3649.7s - 3651.2s:  2024 PH
+3651.7s - 3653.6s:  14.1 in response
+3653.6s - 3655.2s:  to Bill 97 Proclamation,
+3655.6s - 3657.6s:  Employment Area
+3657.6s - 3659.1s:  Land Use Permissions.
+3660.1s - 3661.3s:  I'm happy to release it.
+3661.3s - 3663.5s:  Just for members, this is a technical thing.
+3664.3s - 3665.1s:  Our current
+3665.1s - 3667.2s:  Official Plan permissions
+3668.6s - 3669.3s:  reflect
+3669.3s - 3671.8s:  old legislation, and what this item
+3671.8s - 3674.0s:  does is bring our
+3674.0s - 3676.0s:  employment land permissions into conformity
+3676.0s - 3677.2s:  with the new legislation.
+3678.0s - 3679.5s:  And this is just a minor
+3679.5s - 3681.7s:  wording change that staff had to make
+3681.7s - 3683.9s:  to make all of that go through.
+3686.0s - 3687.3s:  Okay, so Councillor Perks...
+3687.3s - 3688.4s:  CC 22.7.
+3688.6s - 3690.6s:  Councillor Perks wants to release CC
+3691.1s - 3693.1s:  22.7, new business.
+3694.3s - 3696.0s:  Okay, all in favour?
+3696.5s - 3697.7s:  Opposed, if any, carried.
+3697.9s - 3699.3s:  Thank you.
+3699.5s - 3701.3s:  Councillor Moyes, under
+3701.3s - 3702.3s:  the new business.
+3703.2s - 3704.9s:  I'd like to hold CC
+3704.9s - 3706.9s:  22.12,
+3707.2s - 3708.7s:  33 Maitland Street,
+3709.7s - 3711.0s:  and 37 Maitland Street.
+3712.0s - 3713.3s:  Okay, thank you.
+3714.9s - 3716.7s:  Are there any further holds on new
+3716.7s - 3717.2s:  business?
+3719.1s - 3719.3s:  Okay.
+3720.3s - 3721.3s:  Thank you.
+3722.1s - 3722.9s:  We will now
+3728.5s - 3729.3s:  consider
+3729.3s - 3731.2s:  our request to make items
+3731.2s - 3732.8s:  urgent and time specific.
+3732.8s - 3734.6s:  You can put your name on the screen,
+3735.0s - 3736.5s:  please. The clerk will open the
+3736.5s - 3738.2s:  speaker's list in CMP, and you can
+3738.2s - 3739.5s:  place your name on the list.
+3741.2s - 3742.0s:  Councillor McKelvie.
+3744.0s - 3745.1s:  Just one sec. There.
+3745.2s - 3745.9s:  Councillor McKelvie.
+3746.5s - 3748.4s:  Thank you. I'd like to
+3748.4s - 3750.5s:  debate 16.2 on construction
+3750.5s - 3752.8s:  and 16.4 on congestion together.
+3753.0s - 3754.4s:  Those items were held and have it as
+3754.4s - 3756.9s:  the first item after the mayor's
+3756.9s - 3757.8s:  key first item.
+3759.1s - 3759.6s:  Okay.
+3759.6s - 3761.5s:  All in favour?
+3762.4s - 3763.0s:  Carried.
+3763.8s - 3765.2s:  Mayor Chao.
+3767.0s - 3768.2s:  It's
+3768.9s - 3771.5s:  I'm asking for
+3771.5s - 3773.2s:  15 minutes
+3773.2s - 3774.9s:  before 12.30.
+3774.9s - 3776.9s:  We adjourned slightly earlier because
+3776.9s - 3779.7s:  Councillor Pasternak has a
+3779.7s - 3781.4s:  Rosh Hashanah
+3781.4s - 3783.3s:  celebration upstairs,
+3783.4s - 3783.9s:  I believe.
+3784.9s - 3786.8s:  So the mayor is
+3786.8s - 3789.4s:  recommending that we recess at 12.15
+3789.4s - 3791.1s:  today. All in favour?
+3792.2s - 3793.6s:  Carried. Thank you.
+3808.7s - 3809.2s:  In a second.
+3810.5s - 3812.6s:  I've been unable to get on. IT is
+3812.6s - 3814.9s:  here now to assist. I'd like to
+3814.9s - 3816.6s:  make time specific EX
+3816.6s - 3818.9s:  17.17 update on
+3818.9s - 3820.2s:  the St. Lawrence Centre for the Arts
+3820.6s - 3822.5s:  Redevelopment Project. Okay, I don't think they
+3822.5s - 3824.8s:  can hear you. Can you speak into the mic?
+3825.1s - 3826.0s:  Oh, thank you, speaker.
+3826.5s - 3828.8s:  Time specific EX 17.17
+3829.4s - 3830.7s:  update on the St. Lawrence
+3830.7s - 3832.2s:  Centre for the Arts Redevelopment
+3832.2s - 3834.3s:  Project. And that
+3834.3s - 3836.4s:  I'd like to have that after
+3836.4s - 3838.3s:  the members' motions tomorrow afternoon,
+3838.7s - 3840.5s:  please. Thank you.
+3840.6s - 3841.4s:  All in favour?
+3842.5s - 3881.0s:  Carried. Okay, thank
+3881.0s - 3881.6s:  you.
+3887.4s - 3889.3s:  All those in favour of adopting
+3889.3s - 3891.6s:  the balance of the order paper as amended
+3891.6s - 3893.0s:  and all items not held,
+3893.1s - 3895.6s:  please raise your hands. All in favour?
+3895.9s - 3897.2s:  Show of hands. Opposed?
+3897.5s - 3898.6s:  If any. Carried.
+3899.1s - 3901.2s:  Members, I want to remind you that regardless
+3901.2s - 3903.6s:  of whether you are attending today's meeting by video
+3903.6s - 3905.6s:  conference or in person, you will continue
+3905.6s - 3907.2s:  to submit and approve your motions
+3907.2s - 3909.5s:  in advance. The clerk's
+3909.5s - 3911.2s:  staff are available to assist you with
+3911.2s - 3913.3s:  motions. If you do not have your
+3913.3s - 3915.1s:  motion ready, I will not recognize
+3915.1s - 3917.1s:  you. I'm also reminding members
+3917.1s - 3919.3s:  that you must state your motion first before
+3919.3s - 3921.1s:  you speak to it. Members,
+3921.2s - 3923.3s:  if you have an urgent motion without notice
+3923.3s - 3925.1s:  you wish to bring forward at this meeting
+3925.1s - 3927.1s:  and your seconder must submit
+3927.1s - 3928.9s:  it by email to the clerk's staff.
+3928.9s - 3931.5s:  Your motion must also clearly state
+3931.5s - 3932.9s:  the reason for urgency.
+3933.3s - 3935.1s:  Staff will prepare the necessary
+3935.1s - 3937.1s:  procedure motion for my review along
+3937.1s - 3943.9s:  with your motion. I will
+3943.9s - 3945.7s:  review all motions without notice
+3945.7s - 3947.9s:  carefully. I may ask you to provide more
+3947.9s - 3950.1s:  information about the urgency of your motion
+3950.1s - 3951.5s:  and why it can't be
+3951.5s - 3953.8s:  rooted through normal committee channels.
+3954.2s - 3955.7s:  This will inform my decision
+3955.7s - 3957.7s:  on whether to consent to your motion and
+3957.7s - 3959.7s:  in turn, council's decision
+3959.7s - 3961.8s:  about whether to add your motion to the
+3961.8s - 3963.9s:  agenda. The purpose of your motion
+3963.9s - 3965.8s:  and your reason for urgency must be
+3965.8s - 3967.8s:  made very clear. I will
+3967.8s - 3969.9s:  advise council after each recess
+3969.9s - 3971.8s:  which motions I have agreed
+3971.8s - 3974.0s:  on that are urgent that need a motion
+3974.0s - 3975.9s:  to add to the agenda. It will
+3975.9s - 3978.1s:  require 18 votes to add a motion
+3978.1s - 3979.9s:  without notice to the agenda during
+3979.9s - 3982.3s:  the meeting. Motions added
+3982.3s - 3983.9s:  to the agenda in this way
+3983.9s - 3985.9s:  are not subject to a vote to waive
+3985.9s - 3988.0s:  referral to a committee or agency.
+3988.4s - 3990.2s:  We will now go to the mayor's
+3990.2s - 3992.0s:  key item which is EX
+3992.0s - 3994.2s:  17.5.
+3996.8s - 3998.4s:  So on 17.5
+3998.4s - 4000.4s:  which is the Billy Bishop Toronto
+4000.4s - 4001.3s:  City Airport.
+4002.7s - 4004.6s:  So do we have any questions to staff
+4004.6s - 4005.9s:  if you do?
+4006.2s - 4008.3s:  Councillor Fletcher. We're having this issue
+4008.3s - 4010.2s:  again like we had last time.
+4010.5s - 4012.3s:  Pardon? I've said I think we're
+4012.3s - 4013.8s:  having this issue again
+4013.8s - 4016.4s:  where there's not everybody here
+4016.4s - 4018.2s:  but we don't know who's online.
+4019.1s - 4020.0s:  So that
+4021.4s - 4022.5s:  public doesn't know.
+4022.7s - 4024.3s:  I don't know. That's a bit odd.
+4024.7s - 4026.6s:  I think we used to have that
+4027.8s - 4028.2s:  because
+4028.7s - 4030.4s:  they're on YouTube and they see
+4030.4s - 4032.4s:  that but we don't see it. So I've
+4032.4s - 4034.4s:  only got two devices. I don't know how to
+4034.4s - 4036.4s:  set up the YouTube as well. I don't think I should
+4036.4s - 4038.3s:  have three. So I don't know what
+4038.3s - 4040.3s:  the issue is. We used to have that
+4040.3s - 4042.3s:  on our screens and understand who
+4042.3s - 4044.4s:  was here and who was. So I just
+4044.4s - 4046.4s:  find that a bit
+4046.4s - 4048.2s:  off putting it up. Troubling.
+4048.2s - 4049.0s:  Thank you.
+4049.0s - 4050.5s:  Is there some way to deal with that?
+4050.8s - 4053.1s:  I'm asking how we're dealing with that.
+4053.4s - 4055.6s:  Okay. So we'll check the staff
+4056.2s - 4057.9s:  because can you actually
+4057.9s - 4060.1s:  tell me who's on the screen because I don't see anything.
+4060.2s - 4060.9s:  You can't tell either?
+4061.6s - 4062.6s:  Oh, gee.
+4067.0s - 4069.2s:  Okay. So let the staff
+4069.2s - 4070.9s:  work on that for a while, Councillor Fletcher.
+4071.7s - 4073.4s:  Okay. Thank you.
+4075.1s - 4076.2s:  Okay. Thank you.
+4076.5s - 4078.8s:  Well, before we go to the
+4078.8s - 4081.1s:  mayor's first key item for questions,
+4082.3s - 4083.2s:  it is
+4083.2s - 4084.4s:  past 1030.
+4085.3s - 4087.0s:  And Councillor Bravo, you wish
+4087.0s - 4088.5s:  to make an
+4088.5s - 4091.1s:  introduction on the Davenport Perth
+4091.1s - 4092.7s:  Community Neighbourhood and Community
+4092.7s - 4094.6s:  Health Centre. Councillor Bravo.
+4095.8s - 4097.1s:  Thank you so much, speaker.
+4097.2s - 4099.2s:  I want to draw council's attention
+4099.2s - 4101.3s:  to the presence with us today
+4101.3s - 4102.9s:  of the Participatory
+4102.9s - 4104.2s:  Democracy Group,
+4104.8s - 4106.7s:  a committee that I've been meeting with
+4106.7s - 4108.9s:  at Davenport Perth Neighborhood Centre.
+4109.5s - 4110.8s:  And to recognize, please
+4110.8s - 4111.8s:  stand up.
+4113.0s - 4115.3s:  To recognize that there's more than four
+4115.3s - 4117.6s:  decades here of local community
+4117.6s - 4119.7s:  leadership, volunteering,
+4120.5s - 4121.1s:  participation,
+4121.8s - 4123.6s:  trying to motivate
+4123.6s - 4125.3s:  residents to become more
+4125.3s - 4127.4s:  active in democracy.
+4128.1s - 4129.4s:  And so it's been a real privilege
+4129.4s - 4131.2s:  for me to work with all of you and to learn
+4131.2s - 4133.3s:  from you. Just want to welcome you
+4133.3s - 4135.2s:  there observing council today. Welcome.
+4141.0s - 4142.4s:  Thank you. Welcome.
+4147.7s - 4148.6s:  So we'll go to
+4148.6s - 4150.5s:  EX 17.5.
+4152.2s - 4152.7s:  And mayor,
+4152.8s - 4154.5s:  do you know if your students are in?
+4162.0s - 4163.8s:  The staff has a presentation on
+4163.8s - 4165.9s:  this item. Oh, okay.
+4166.2s - 4167.7s:  But do you know
+4167.7s - 4170.1s:  if the grade five students are
+4170.1s - 4172.3s:  here that you're going to introduce?
+4172.7s - 4173.9s:  No? I don't see them yet.
+4173.9s - 4175.8s:  Okay. We'll wait until they come and then
+4175.8s - 4177.9s:  we'll acknowledge the students. Hasn't
+4177.9s - 4180.3s:  arrived yet. Okay. So
+4180.3s - 4182.4s:  I believe that the staff has the
+4182.4s - 4183.9s:  presentation on this item,
+4184.5s - 4186.3s:  which is EX 17.5.
+4191.4s - 4192.2s:  Good morning, members
+4192.2s - 4194.5s:  of council. My name is David Stonehouse
+4194.5s - 4196.2s:  and I am the director of the city's waterfront
+4196.7s - 4198.3s:  secretariat. Before I
+4198.3s - 4199.8s:  begin, I just want to acknowledge
+4199.8s - 4202.4s:  that there are staff here from Ports Toronto
+4202.4s - 4204.5s:  and from Transport Canada.
+4204.9s - 4206.5s:  Thank you to them for coming
+4206.5s - 4212.3s:  today. Just by way
+4212.3s - 4214.8s:  of preamble, staff
+4214.8s - 4217.3s:  felt that it was important to
+4217.7s - 4219.4s:  emphasize that this report,
+4219.7s - 4221.7s:  this decision, is not about closing the
+4221.7s - 4223.2s:  Billy Bishop Toronto City Airport.
+4223.9s - 4225.7s:  This report is about how best to
+4225.7s - 4227.6s:  achieve compliance with a new federal
+4227.6s - 4229.9s:  aviation safety requirement,
+4230.9s - 4231.6s:  runway and
+4231.6s - 4233.7s:  safety areas. In a
+4233.7s - 4235.6s:  tight time frame, design
+4235.6s - 4237.7s:  and construction must be advanced
+4237.7s - 4239.4s:  rapidly for Ports Toronto
+4239.4s - 4241.7s:  to meet Transport Canada's July
+4241.7s - 4244.0s:  12, 2027
+4244.0s - 4246.4s:  deadline. And
+4246.4s - 4248.2s:  longer term, this report
+4248.2s - 4250.3s:  and this decision is about the need for
+4250.3s - 4252.3s:  a broader discussion about the future
+4252.3s - 4254.5s:  of the airport, best achieved
+4254.5s - 4256.2s:  through an airport
+4256.2s - 4257.9s:  master plan update
+4257.9s - 4259.8s:  that would be led by Ports Toronto.
+4262.6s - 4264.2s:  In terms of the new regulations,
+4264.8s - 4266.3s:  there is a new federal
+4266.3s - 4268.3s:  airport safety requirement that
+4268.3s - 4270.3s:  must be met at all of Canada's
+4270.3s - 4272.2s:  airports for runway
+4272.2s - 4274.2s:  and safety areas. The
+4274.2s - 4276.1s:  intention of these runway
+4276.1s - 4278.3s:  and safety areas is to reduce the
+4278.3s - 4280.3s:  severity of damage to
+4280.3s - 4282.2s:  aircraft, an aircraft if
+4282.2s - 4284.1s:  it overshoots or overruns
+4284.6s - 4286.6s:  a runway. Transport
+4286.6s - 4288.6s:  Canada has identified three
+4288.6s - 4290.6s:  ways that airports can meet runway and
+4290.6s - 4291.8s:  safety area requirements.
+4292.7s - 4294.5s:  First, to prepare natural compacted
+4295.4s - 4296.5s:  open areas at the
+4296.5s - 4298.7s:  ends of a runway. Second,
+4298.9s - 4300.6s:  to install an engineered material,
+4301.4s - 4302.6s:  an engineered
+4302.6s - 4304.4s:  material arresting system, also called
+4304.4s - 4306.4s:  EMAS, designed to
+4306.4s - 4307.6s:  decelerate an aircraft.
+4308.7s - 4310.7s:  And third, shorten a runway's declared
+4310.7s - 4312.4s:  distance, so to shorten a runway.
+4314.1s - 4315.6s:  RISA compliance is the responsibility
+4316.0s - 4317.7s:  of airports. However,
+4318.2s - 4319.5s:  approvals from others may
+4319.5s - 4322.6s:  be required. So how is the
+4322.6s - 4323.6s:  City of Toronto involved?
+4325.0s - 4326.9s:  The Billy Bishop Airport is governed by a
+4326.9s - 4329.2s:  tripartite agreement between Ports Toronto,
+4329.5s - 4331.1s:  the City of Toronto and Transport
+4331.1s - 4333.1s:  Canada. The agreement was
+4333.1s - 4334.8s:  originally signed in 1983.
+4334.8s - 4337.3s:  It serves as both a lease
+4337.3s - 4339.4s:  and an operating agreement. And it is
+4339.4s - 4341.3s:  important to point out that the
+4341.3s - 4343.0s:  airport was operating prior
+4343.0s - 4345.2s:  to 1983. It actually has a
+4345.2s - 4346.8s:  history that goes back to
+4348.2s - 4349.1s:  World War II.
+4351.0s - 4352.1s:  Any tripartite agreement
+4352.1s - 4354.1s:  changes would require three agreement
+4354.1s - 4355.3s:  signatories to agree.
+4356.6s - 4358.2s:  At Toronto Island Airport,
+4358.2s - 4360.2s:  runway and safety area options
+4360.2s - 4362.3s:  would require additional landmass through Lake
+4362.3s - 4364.4s:  Fill, requiring a change to the
+4364.4s - 4365.8s:  tripartite agreement,
+4366.5s - 4367.9s:  and a City Council decision.
+4373.9s - 4375.3s:  Ports Toronto is conducting an environmental
+4375.3s - 4377.4s:  assessment to evaluate three options for
+4377.4s - 4379.1s:  runway and safety areas
+4379.1s - 4381.5s:  implementation that would prepare natural
+4381.5s - 4383.3s:  compacted open areas.
+4383.6s - 4385.4s:  And you'll hear more about these in a minute.
+4386.7s - 4388.2s:  Options which would have
+4388.2s - 4389.9s:  shortened the runway's declared distance
+4389.9s - 4391.8s:  were not considered viable by
+4391.8s - 4394.1s:  Ports Toronto, as they would impact
+4394.1s - 4395.9s:  the Q400 aircraft
+4395.9s - 4397.9s:  operations. The Q400 planes
+4397.9s - 4400.2s:  are the planes that are used now
+4400.2s - 4401.9s:  for commercial purposes, flown by
+4401.9s - 4403.8s:  Porter, flown by Air Canada.
+4405.5s - 4407.0s:  Ports Toronto has also looked at
+4407.3s - 4409.1s:  the engineered material arresting
+4409.1s - 4410.9s:  system. And this
+4410.9s - 4412.7s:  also was not considered viable
+4412.7s - 4414.8s:  by Ports Toronto, for
+4414.8s - 4416.1s:  a number of reasons,
+4417.5s - 4418.8s:  including it
+4418.8s - 4420.6s:  is a rather
+4420.6s - 4422.9s:  new technology to Canada. It hasn't
+4422.9s - 4424.0s:  been used in Canada.
+4425.4s - 4426.7s:  Not considered
+4428.1s - 4428.7s:  operational
+4428.7s - 4431.1s:  in terms of cold
+4431.1s - 4432.7s:  climates, or at least
+4434.8s - 4435.8s:  challenging in terms
+4435.8s - 4437.7s:  of cold climates, and also a
+4437.7s - 4441.8s:  single supplier. So
+4441.8s - 4444.4s:  the first option for
+4444.4s - 4446.2s:  consideration, option one,
+4446.5s - 4448.0s:  which is a minimum landmass
+4448.0s - 4449.9s:  to meet the regulatory requirement.
+4450.4s - 4451.9s:  And this has been estimated
+4451.9s - 4454.0s:  by Ports Toronto at
+4454.0s - 4455.6s:  $61 to $64 million.
+4456.6s - 4458.0s:  And I should just do an
+4458.0s - 4459.0s:  aside here,
+4459.7s - 4461.6s:  and to point out
+4461.6s - 4463.7s:  that the cost estimates
+4463.7s - 4465.1s:  that were shared by Ports Toronto
+4465.1s - 4467.8s:  are based on concept design only.
+4468.1s - 4469.9s:  So they are class D
+4469.9s - 4471.9s:  cost estimates. They are
+4471.9s - 4473.8s:  not including financing costs,
+4474.1s - 4476.0s:  Port Toronto project management costs,
+4476.8s - 4478.1s:  insurance, and other related
+4478.1s - 4479.8s:  costs. And then
+4479.8s - 4481.8s:  there's also the issue of escalation
+4481.8s - 4484.2s:  that everyone is feeling in the construction
+4484.2s - 4484.9s:  world.
+4484.9s - 4487.0s:  And so these numbers
+4487.0s - 4489.0s:  are bound to go up as they are
+4489.0s - 4490.6s:  refined by Ports Toronto
+4490.6s - 4492.0s:  through the design process.
+4493.1s - 4494.9s:  So this is option one
+4494.9s - 4496.0s:  that
+4497.7s - 4499.3s:  is really
+4499.3s - 4500.9s:  the base for
+4500.9s - 4502.8s:  the other options.
+4503.6s - 4504.8s:  Option two
+4505.4s - 4507.4s:  is the landmass plus
+4507.4s - 4509.2s:  two additional taxiways,
+4509.8s - 4512.0s:  and a relocated navigational
+4512.0s - 4513.8s:  aid. So it's
+4513.8s - 4516.1s:  the minimum plus a few
+4516.1s - 4517.5s:  additional
+4517.5s - 4519.5s:  items for
+4519.5s - 4521.8s:  operational benefit. And at a cost
+4521.8s - 4523.7s:  estimate of approximately
+4523.7s - 4525.7s:  $93 to $97 million.
+4527.9s - 4529.2s:  Option three
+4529.2s - 4531.1s:  is the
+4531.1s - 4532.1s:  landmass extension,
+4532.9s - 4534.0s:  the taxiways,
+4535.2s - 4536.1s:  a noise wall,
+4536.9s - 4538.1s:  a utility corridor,
+4539.8s - 4540.8s:  and airside
+4540.8s - 4542.8s:  roads, additional airside roads at either
+4542.8s - 4544.9s:  end of the runway, which are beyond
+4544.9s - 4546.0s:  the runway.
+4547.2s - 4548.8s:  And so easier for
+4549.6s - 4550.3s:  crossings.
+4550.9s - 4552.8s:  The estimate on option three
+4552.8s - 4554.7s:  is $169 million
+4554.7s - 4556.8s:  to $175 million.
+4556.9s - 4558.6s:  Again, construction costs only.
+4560.7s - 4562.0s:  This is a summary slide
+4562.0s - 4564.3s:  which sums up the three options.
+4565.8s - 4566.3s:  And, you know,
+4566.3s - 4567.7s:  in general, what one sees,
+4568.7s - 4570.1s:  the volume of lake fill goes up
+4570.1s - 4572.1s:  with each option. The width
+4572.1s - 4574.2s:  of landmass increases with each
+4574.2s - 4576.5s:  option. None of these
+4576.5s - 4578.2s:  options have an impact on the marine
+4578.2s - 4580.4s:  exclusion zone. So the
+4580.4s - 4582.4s:  portions of the lake, which are off limits
+4582.4s - 4583.2s:  to boats,
+4584.1s - 4586.4s:  for safety reasons. So none of these
+4586.4s - 4588.5s:  options impact the marine exclusion zone.
+4589.2s - 4590.4s:  And none of these options
+4590.4s - 4592.4s:  extend the actual runway.
+4592.6s - 4593.8s:  So the portion,
+4594.6s - 4596.8s:  the runway that is used by
+4596.8s - 4598.3s:  the Q400 planes
+4598.3s - 4599.5s:  and other aircraft.
+4599.5s - 4602.6s:  You can see the cost estimates
+4602.6s - 4604.1s:  compared. And again, these cost
+4604.1s - 4606.2s:  estimates are preliminary and subject
+4606.2s - 4611.3s:  to change. We did some
+4611.3s - 4612.4s:  public engagement
+4612.4s - 4614.7s:  related to this issue. We had
+4614.7s - 4616.6s:  a public meeting which was attended by
+4616.6s - 4618.2s:  approximately 250 people.
+4618.5s - 4620.4s:  And then we posted an online survey
+4620.4s - 4621.7s:  which was,
+4622.8s - 4624.8s:  which got about
+4624.8s - 4626.9s:  2,900 responses just over.
+4628.0s - 4628.8s:  And the top
+4628.8s - 4630.7s:  considerations in reviewing the runway
+4630.7s - 4632.9s:  and area options include
+4633.3s - 4634.6s:  impact on environment,
+4635.2s - 4636.9s:  health impacts, impact
+4636.9s - 4638.9s:  on Hanlon's Point as a safe, culturally
+4638.9s - 4640.3s:  significant queer space,
+4640.8s - 4642.4s:  waterfront revitalization,
+4642.9s - 4644.6s:  safety and regulatory compliance,
+4644.9s - 4647.1s:  costs, accessibility of
+4647.1s - 4649.0s:  the airport to the users,
+4649.7s - 4650.6s:  economic impact
+4650.6s - 4653.1s:  of the airport and its operations,
+4653.8s - 4654.7s:  and then finally
+4654.7s - 4656.9s:  transparency and public engagement and process.
+4657.2s - 4659.1s:  And these considerations
+4659.1s - 4660.9s:  are summed up in two reports
+4660.9s - 4663.1s:  which are part of
+4663.8s - 4665.3s:  the item on
+4665.3s - 4667.1s:  the city clerk's portal.
+4669.8s - 4671.3s:  In terms of staff findings,
+4672.9s - 4673.3s:  staff
+4673.3s - 4675.6s:  recommend Ports Toronto's
+4675.6s - 4677.6s:  natural compacted open area option
+4677.6s - 4679.6s:  one as the most efficient option
+4679.6s - 4681.6s:  for compliance. It provides
+4681.6s - 4683.5s:  the lowest risk scenario to
+4683.5s - 4685.5s:  achieving the mandated federal safety
+4685.5s - 4687.2s:  requirements by the July 12,
+4687.7s - 4689.7s:  2027 federal deadline.
+4689.7s - 4692.4s:  It has a considerably lower
+4692.4s - 4693.5s:  project cost.
+4694.3s - 4695.9s:  It does not require additional council
+4695.9s - 4697.4s:  consideration of official
+4697.4s - 4698.7s:  plan compliance.
+4699.8s - 4701.5s:  And it provides the shortest construction
+4701.5s - 4703.7s:  timeline and smallest scope of lake fill.
+4705.0s - 4706.2s:  A lease extension is not
+4706.2s - 4708.4s:  recommended at this time.
+4708.8s - 4710.1s:  Staff are of the view that
+4710.1s - 4711.9s:  a lease extension would require a broader
+4711.9s - 4714.1s:  public conversation through an
+4714.1s - 4716.3s:  airport master plan update.
+4719.4s - 4720.4s:  Ports Toronto's environmental
+4720.4s - 4722.2s:  assessment is not a regulatory environmental
+4722.2s - 4724.4s:  assessment. It is not a requirement of the
+4724.4s - 4725.9s:  federal or provincial governments.
+4726.5s - 4728.7s:  It is, however, a requirement of the city's
+4728.7s - 4729.4s:  official plan.
+4729.9s - 4732.4s:  It's part of the policies that
+4733.4s - 4734.4s:  relate to lake
+4734.4s - 4736.0s:  filling and
+4737.5s - 4738.6s:  other topics.
+4740.2s - 4740.8s:  Option one is
+4740.8s - 4742.7s:  incremental to options two and three,
+4742.8s - 4744.8s:  meaning that options two and three can be
+4744.8s - 4747.0s:  implemented in future phases.
+4748.7s - 4749.7s:  In terms of the broader
+4750.4s - 4750.9s:  conversation,
+4751.5s - 4753.5s:  separate from the runway and safety
+4753.5s - 4755.6s:  issue, many have noted the need
+4755.6s - 4757.5s:  for a broader discussion about the airport
+4757.5s - 4759.2s:  and when I say many, I mean
+4759.2s - 4761.0s:  the operator, I mean Ports Toronto,
+4762.7s - 4763.8s:  the businesses
+4763.8s - 4765.8s:  that operate out of the island
+4765.8s - 4767.6s:  airport, and then also
+4767.6s - 4768.4s:  the community.
+4769.8s - 4772.2s:  An airport master plan update
+4772.2s - 4774.1s:  can provide a forum to consider the issues
+4774.1s - 4776.0s:  holistically. The
+4776.0s - 4778.0s:  master plan was last updated by Ports
+4778.0s - 4779.2s:  Toronto in 2018.
+4780.3s - 4781.9s:  Master plans are typically updated every
+4781.9s - 4784.0s:  10 years. However, Ports Toronto
+4784.0s - 4785.3s:  has indicated
+4786.0s - 4788.1s:  an interest in updating it at the
+4788.1s - 4790.2s:  five-year mark or after five years.
+4790.9s - 4792.3s:  And they've
+4792.3s - 4794.0s:  talked publicly about that
+4795.2s - 4795.9s:  in
+4795.9s - 4797.9s:  recent months. An effective
+4797.9s - 4800.1s:  framework is required to facilitate
+4800.1s - 4802.0s:  a robust public and stakeholder engagement
+4802.0s - 4803.6s:  process, and this is about
+4803.6s - 4805.2s:  the third recommendation.
+4805.2s - 4807.3s:  In order to allow for a thoughtful
+4807.3s - 4809.3s:  consideration of the issues involved,
+4809.5s - 4811.1s:  many of which are quite technical in nature
+4811.1s - 4813.4s:  and require some amount of background
+4813.4s - 4815.3s:  study, and to provide transparency
+4815.8s - 4817.3s:  and accountability in
+4817.3s - 4818.4s:  decision-making.
+4821.5s - 4823.4s:  These are the recommendations
+4824.2s - 4824.8s:  summarized.
+4825.7s - 4827.4s:  So the recommendations would
+4828.4s - 4829.5s:  authorize staff to
+4829.5s - 4831.4s:  execute the tripartite agreement
+4831.4s - 4833.5s:  change to provide for RISA option one,
+4833.8s - 4835.2s:  the lake filling and the landmass
+4835.2s - 4837.8s:  extension, conditions related
+4837.8s - 4838.6s:  to the above,
+4839.7s - 4840.9s:  and then finally
+4840.9s - 4843.1s:  staff would participate in discussions
+4843.1s - 4845.1s:  with Ports Toronto and Transport Canada on
+4845.1s - 4847.3s:  a process to update the
+4847.3s - 4848.9s:  2018 airport master plan
+4848.9s - 4851.2s:  in advance of the expiry
+4851.2s - 4852.5s:  of the tripartite agreement
+4852.9s - 4855.4s:  and report to the executive committee in Q2
+4855.4s - 4857.0s:  of next year with a framework to guide
+4857.0s - 4859.0s:  this process, including funding
+4859.0s - 4862.2s:  requirements. In terms
+4862.2s - 4864.2s:  of next steps, Ports Toronto
+4864.2s - 4866.2s:  has noted that City Council decisions
+4866.2s - 4868.5s:  that would enable runway and safety
+4868.5s - 4870.3s:  areas compliance are needed in late
+4870.3s - 4872.1s:  November of 2024,
+4872.8s - 4874.2s:  specifically November the 29th,
+4874.8s - 4876.5s:  to provide enough
+4876.5s - 4879.1s:  time so that construction of the new
+4879.1s - 4880.3s:  of the new runway ends can
+4880.3s - 4882.4s:  be completed by Transport Canada's
+4882.4s - 4884.3s:  July the 12th, 2027
+4884.3s - 4885.5s:  compliance deadline.
+4886.6s - 4888.2s:  Ports Toronto will identify its preferred
+4888.2s - 4890.1s:  approach to compliance, recognizing
+4890.1s - 4891.5s:  City Council's decision,
+4891.5s - 4893.8s:  and the City, Ports Toronto
+4893.8s - 4895.7s:  and Transport Canada will finalize and
+4895.7s - 4897.5s:  execute an updated
+4897.5s - 4898.6s:  tripartite agreement.
+4910.2s - 4913.0s:  Thank you. Okay, well
+4913.0s - 4914.7s:  now I'll go to questions.
+4915.8s - 4916.2s:  Councillor
+5014.0s - 5016.1s:  point of order. Councillor Holliday.
+5016.9s - 5018.1s:  Thank you, Speaker. Mr.
+5018.2s - 5020.4s:  Stonehouse acknowledged that Ports Toronto
+5020.4s - 5021.2s:  is in the room.
+5022.0s - 5024.4s:  I would like the opportunity to ask them questions.
+5025.2s - 5026.4s:  I understand that
+5026.4s - 5028.4s:  I have to suggest a procedure
+5028.4s - 5030.5s:  in order to do that. I think the clerk
+5030.5s - 5032.6s:  advised that we have to go into Committee
+5032.6s - 5034.5s:  of the Whole. I don't think that
+5034.5s - 5036.5s:  means that we go into closed session
+5036.5s - 5037.9s:  just to Committee of the Whole,
+5038.4s - 5040.6s:  but that would allow members the opportunity
+5040.6s - 5042.5s:  to ask that agency questions.
+5047.7s - 5049.0s:  the question is
+5049.0s - 5049.6s:  if,
+5050.9s - 5052.8s:  just a second Councillor Fletcher, we go
+5052.8s - 5055.1s:  in camera, is that what you
+5055.1s - 5057.0s:  recommending? No, we go into Committee
+5057.0s - 5058.8s:  of the Whole. I know it's unusual, but the clerk
+5058.8s - 5060.6s:  advised me that we have to do this,
+5061.3s - 5062.6s:  and that is because
+5062.6s - 5064.9s:  we need to do that in order to
+5064.9s - 5067.0s:  ask Ports Toronto
+5067.0s - 5067.9s:  questions.
+5069.6s - 5070.7s:  Otherwise I can't.
+5071.5s - 5073.6s:  It's my understanding, unless you want to allow it.
+5073.7s - 5075.7s:  Okay, I'll have to clarify that.
+5075.8s - 5077.1s:  Councillor Fletcher.
+5078.2s - 5079.9s:  I'd like to clarify that
+5079.9s - 5081.9s:  because I've asked to go into Committee of the Whole
+5081.9s - 5084.2s:  previously and been told we can't
+5084.2s - 5086.3s:  and only be in
+5086.3s - 5088.0s:  camera. So this
+5088.0s - 5090.2s:  would be a new great
+5090.2s - 5092.2s:  thing where we can go into Committee of the
+5092.2s - 5093.7s:  Whole at any time before
+5093.7s - 5096.0s:  we decide to do that. So I'd really like
+5096.0s - 5097.6s:  to be careful with this ruling
+5099.1s - 5100.1s:  because, although
+5100.1s - 5102.2s:  I think that's fine,
+5102.5s - 5103.7s:  I can't wait for that.
+5104.5s - 5106.1s:  Thank you. Councillor Perks.
+5107.9s - 5108.9s:  Thank you. I believe
+5108.9s - 5110.6s:  the procedures bylaw
+5111.1s - 5112.9s:  creates an opportunity for council
+5112.9s - 5114.4s:  to receive advice from clerks.
+5115.0s - 5115.9s:  On this,
+5115.9s - 5118.0s:  by going into
+5118.0s - 5119.3s:  the Committee of the Whole,
+5119.6s - 5122.1s:  we do more than simply
+5122.1s - 5124.0s:  permit somebody else to
+5124.0s - 5126.3s:  answer questions. We do things like
+5126.3s - 5128.0s:  allow as many rounds
+5128.0s - 5129.7s:  of questions as members want.
+5130.2s - 5132.3s:  We can alter speaking times.
+5132.4s - 5134.2s:  There's a whole series of consequences
+5134.2s - 5136.2s:  and I'd just like to understand
+5136.2s - 5137.1s:  what those are.
+5193.9s - 5196.3s:  Okay, so I'm
+5196.3s - 5197.6s:  going to rule that out of order
+5197.6s - 5199.8s:  because there has to be notice given
+5199.8s - 5202.3s:  in advance and that hasn't been done.
+5203.8s - 5204.8s:  Thank you.
+5205.0s - 5206.5s:  Councillor McKelvie, questions?
+5208.6s - 5210.2s:  Thank you, Madam Speaker.
+5210.7s - 5212.0s:  So my first question is, which level
+5212.0s - 5213.8s:  of government is responsible for aviation?
+5218.3s - 5219.9s:  Through the Speaker, the federal government
+5219.9s - 5221.6s:  is responsible for aviation.
+5222.7s - 5223.8s:  Who is
+5223.8s - 5228.1s:  the regulator? Through the Speaker,
+5228.6s - 5229.9s:  the regulator is Transport Canada,
+5230.2s - 5231.5s:  a federal department.
+5233.1s - 5234.1s:  Is Ports
+5234.1s - 5235.3s:  Toronto a federal agency?
+5235.8s - 5237.7s:  Through the Speaker, yes,
+5238.4s - 5240.0s:  Ports Toronto is a federal
+5240.0s - 5241.9s:  agency. Why are we
+5241.9s - 5244.3s:  recommending the preferred option
+5244.3s - 5245.7s:  for a federal agency?
+5247.9s - 5250.1s:  Through the Speaker, the
+5250.1s - 5251.4s:  City of Toronto is a
+5251.4s - 5253.5s:  signatory to the Tri-Partite Agreement
+5253.5s - 5255.3s:  and given
+5255.3s - 5257.6s:  that, we have a responsibility
+5257.6s - 5259.9s:  to make
+5260.7s - 5261.9s:  decisions that are
+5261.9s - 5263.7s:  aligned with the city's official plan
+5263.7s - 5265.8s:  and staff
+5265.8s - 5268.1s:  are of the view that
+5268.1s - 5270.2s:  the city's
+5270.2s - 5272.9s:  official plan requires
+5272.9s - 5274.6s:  that certain
+5274.6s - 5276.8s:  things be undertaken in order to
+5278.6s - 5280.1s:  provide for leg filling.
+5281.0s - 5282.8s:  And so the advice that we've provided
+5282.8s - 5284.3s:  to Council through our report
+5284.3s - 5286.7s:  is about the Tri-Partite
+5286.7s - 5288.6s:  Agreement and our role in
+5289.2s - 5290.6s:  approving Tri-Partite Agreement
+5290.6s - 5292.4s:  changes. So
+5293.2s - 5295.5s:  is there any technical
+5295.5s - 5297.7s:  reason for objections to
+5297.7s - 5299.6s:  options one, two, or three?
+5300.8s - 5301.9s:  I didn't read any in the report.
+5302.6s - 5304.1s:  Through the Speaker, in principle
+5304.1s - 5306.2s:  no, although it should be pointed
+5306.2s - 5308.3s:  out that some
+5308.3s - 5310.3s:  of the aspects of
+5310.3s - 5312.1s:  the options two and three,
+5312.5s - 5314.3s:  some of the
+5314.3s - 5315.9s:  ancillary features
+5315.9s - 5318.0s:  would require some further
+5318.0s - 5319.7s:  design and analysis
+5320.8s - 5322.4s:  through a design process.
+5323.2s - 5324.2s:  So we
+5324.2s - 5326.1s:  have no technical objection, but
+5326.1s - 5328.4s:  it might be a little more difficult to work through the process
+5328.4s - 5329.5s:  to get it done.
+5330.7s - 5332.2s:  Through the Speaker, in principle
+5332.2s - 5334.4s:  no. In principle, sorry?
+5334.8s - 5336.2s:  In principle, we would
+5336.2s - 5338.6s:  not have an objection to the
+5338.6s - 5340.2s:  components that are included in options
+5340.2s - 5342.5s:  two and three. Okay, so we have
+5342.5s - 5344.3s:  no technical reason to
+5344.3s - 5346.3s:  object to a sound wall and
+5346.3s - 5347.1s:  noise mitigation.
+5348.9s - 5351.1s:  Through the Speaker, in principle no.
+5351.4s - 5353.1s:  There are a lot of details to
+5353.1s - 5354.6s:  support through, including
+5354.6s - 5356.9s:  for example in the sound wall
+5357.9s - 5358.5s:  where
+5359.1s - 5360.7s:  how it would function,
+5362.5s - 5362.9s:  how it would
+5362.9s - 5364.7s:  operate, and who
+5364.7s - 5367.1s:  it would serve. Sure, there's some details, but
+5367.1s - 5368.9s:  the principle of mitigating sound
+5368.9s - 5370.6s:  is generally a good principle.
+5371.5s - 5373.3s:  Through the Speaker, yes it is.
+5373.8s - 5374.9s:  Do we have any technical
+5374.9s - 5377.2s:  objection to breakwaters
+5377.2s - 5379.2s:  or additional runway safety
+5379.2s - 5380.6s:  improvements at the site?
+5381.2s - 5382.5s:  Through the Chair, no.
+5382.7s - 5384.8s:  We would not, in principle, subject
+5384.8s - 5387.8s:  to design. Okay, thank you.
+5389.3s - 5390.4s:  Thank you.
+5398.2s - 5398.9s:  Councillor Moyes.
+5399.6s - 5400.9s:  Thank you, and through you Madam Speaker.
+5401.4s - 5402.6s:  I also have two questions.
+5403.9s - 5405.7s:  Who is responsible for the
+5405.7s - 5407.7s:  cost of this?
+5408.0s - 5409.7s:  It regards to options one, two, or
+5409.7s - 5411.6s:  three. Who incurs
+5411.6s - 5414.4s:  the cost? Through the Speaker
+5414.4s - 5416.1s:  the cost would be
+5417.4s - 5418.3s:  to Ports Toronto,
+5418.3s - 5420.6s:  and Ports Toronto has been very transparent
+5420.6s - 5421.6s:  about that.
+5424.9s - 5425.5s:  The
+5425.5s - 5426.4s:  cost would not be
+5426.4s - 5428.2s:  on the City of Toronto. Okay,
+5428.2s - 5431.0s:  that's good. And one of the
+5431.0s - 5433.3s:  things I've heard for
+5433.3s - 5435.1s:  the entire time I've been
+5435.1s - 5436.9s:  living in Toronto is the
+5436.9s - 5439.1s:  noise of the planes.
+5440.3s - 5441.0s:  And so knowing
+5441.0s - 5443.2s:  that that's a concern to
+5443.2s - 5444.9s:  the people of Toronto,
+5445.5s - 5446.9s:  why wasn't the noise mitigation
+5448.2s - 5449.7s:  factored in in all
+5449.7s - 5450.6s:  three options?
+5453.6s - 5455.9s:  Through the Speaker, I can't
+5455.9s - 5457.1s:  speak to that.
+5458.6s - 5459.2s:  The options
+5459.2s - 5461.1s:  were designed by Ports
+5461.1s - 5462.9s:  Toronto, and Ports Toronto's
+5462.9s - 5465.1s:  technical consultants. And so the
+5465.1s - 5467.0s:  noise wall mitigation was
+5467.0s - 5468.9s:  included in option three, but not included
+5468.9s - 5470.1s:  in options one or two.
+5471.1s - 5472.8s:  So in your public consultation, they said
+5472.8s - 5475.2s:  there was 250 people who attended,
+5476.0s - 5476.8s:  and you also had
+5476.8s - 5479.2s:  2,900 people who
+5479.2s - 5480.6s:  responded through a survey.
+5481.9s - 5483.3s:  Did anyone talk about
+5483.3s - 5485.1s:  the noise mitigation? Was that
+5485.1s - 5487.4s:  a priority for any one
+5487.4s - 5489.4s:  group of people that attended?
+5489.9s - 5491.2s:  Through the Speaker, noise
+5491.2s - 5493.2s:  is a significant
+5493.2s - 5495.1s:  topic vis-à-vis
+5495.1s - 5495.9s:  the airport.
+5496.6s - 5499.2s:  It has been a significant topic
+5499.2s - 5501.5s:  for quite a while now. It featured
+5501.9s - 5504.8s:  large in the
+5504.8s - 5505.4s:  Porter
+5505.4s - 5507.4s:  debate of
+5507.9s - 5508.8s:  2014.
+5509.8s - 5511.3s:  There's a subcommittee
+5511.3s - 5513.4s:  that deals with
+5514.5s - 5515.3s:  sound
+5515.3s - 5517.2s:  issues that the airport
+5517.2s - 5519.6s:  convenes, and it has
+5519.6s - 5521.4s:  work to do
+5521.4s - 5522.3s:  in the future.
+5523.4s - 5525.4s:  Our view is that the sound issue
+5525.4s - 5527.7s:  is a big issue that is best
+5528.0s - 5529.3s:  addressed through the
+5529.3s - 5530.9s:  airport master planning process,
+5531.1s - 5533.3s:  so that the conversation can be about
+5533.3s - 5535.2s:  the big picture sound-wise,
+5537.0s - 5537.4s:  and so
+5537.4s - 5539.3s:  that solutions can be
+5540.1s - 5541.4s:  reviewed, or potential
+5541.4s - 5543.4s:  solutions can be reviewed with
+5543.4s - 5545.2s:  the general public and
+5545.2s - 5546.0s:  airport stakeholders.
+5547.0s - 5548.9s:  Again, this is a huge investment
+5549.3s - 5551.5s:  and a huge undertaking,
+5553.6s - 5554.8s:  and I'm still
+5555.1s - 5557.2s:  not sure why
+5557.2s - 5558.9s:  noise mitigation was not
+5558.9s - 5560.0s:  in all the options.
+5560.8s - 5562.3s:  That's really a concern to me.
+5562.6s - 5564.8s:  So through the speaker,
+5566.1s - 5566.8s:  the best I can
+5566.8s - 5569.0s:  say is that noise is a significant
+5569.0s - 5570.5s:  issue. It deserves
+5570.5s - 5572.7s:  a lot of air time, a lot
+5572.7s - 5574.7s:  of consideration, even some technical
+5574.7s - 5576.8s:  study, and that is best
+5576.8s - 5578.6s:  addressed through the
+5580.0s - 5580.6s:  master plan
+5580.6s - 5582.9s:  update process. The focus of
+5582.9s - 5584.7s:  our work in recent months has
+5584.7s - 5586.5s:  been on recent compliance
+5586.5s - 5588.6s:  and working with Ports
+5588.6s - 5590.6s:  Toronto and Transport Canada in meeting
+5590.6s - 5592.6s:  the July 12, 2027
+5593.1s - 5594.7s:  timeline for recent compliance.
+5595.5s - 5596.4s:  Thank you.
+5596.8s - 5598.6s:  Thank you. Mayor
+5599.8s - 5600.5s:  Chau,
+5600.7s - 5602.8s:  I believe that you want to do an
+5602.8s - 5604.7s:  introduction at this time. I do.
+5605.8s - 5606.7s:  On the point of
+5606.7s - 5608.5s:  personal privilege, Council Carole has
+5608.5s - 5611.0s:  asked me to help her to welcome some very
+5611.0s - 5612.9s:  special visitors to the Council
+5612.9s - 5613.9s:  Chamber today.
+5615.3s - 5616.6s:  Here from
+5616.6s - 5618.6s:  Seneca Hall-Pymay School
+5618.6s - 5620.9s:  in Don Valley North are
+5620.9s - 5622.9s:  60 grade five
+5622.9s - 5624.6s:  students and the teacher
+5624.6s - 5625.9s:  Virginia Lone.
+5626.6s - 5628.9s:  And the students are here because they're
+5628.9s - 5630.6s:  interested in learning about municipal
+5630.6s - 5632.6s:  government's responsibility. Let's
+5632.6s - 5634.3s:  give them a big round of applause.
+5634.4s - 5647.0s:  Welcome. Welcome.
+5654.5s - 5656.0s:  Councillor Pasternak,
+5656.1s - 5656.8s:  questions.
+5657.9s - 5659.8s:  Thank you, Madam Speaker. Through your staff,
+5661.2s - 5662.0s:  I always thought
+5662.0s - 5664.0s:  it was staff's responsibility to bring
+5664.0s - 5666.0s:  us a balanced perspective
+5666.5s - 5668.1s:  on different issues that
+5668.1s - 5670.1s:  we face here. And I don't
+5670.1s - 5672.0s:  really see that here. I'm looking
+5672.0s - 5674.2s:  at a summary of the third
+5674.2s - 5676.1s:  party public consultants
+5676.1s - 5678.0s:  who handle the
+5679.6s - 5680.7s:  public meeting.
+5681.9s - 5682.5s:  And of
+5682.5s - 5684.4s:  the nine bullet points, I see negative
+5685.9s - 5686.5s:  phraseology
+5686.5s - 5688.7s:  about the airport. From
+5688.7s - 5690.7s:  number one, talking about the negative
+5690.7s - 5691.8s:  impact of the airport.
+5691.8s - 5694.5s:  Number two, talking about
+5694.5s - 5696.0s:  something other than the airport.
+5696.9s - 5698.2s:  Number six, talking about
+5698.2s - 5699.5s:  environmental concerns.
+5700.2s - 5702.2s:  Number eight, viability and need
+5702.2s - 5703.3s:  for the island airport.
+5704.5s - 5706.0s:  And number nine, communal
+5706.0s - 5708.4s:  impact. Do you think
+5708.4s - 5710.5s:  that this was a balanced
+5710.5s - 5712.4s:  perspective on
+5712.4s - 5714.3s:  those who do not want the airport
+5714.3s - 5716.1s:  and those who think that the airport
+5716.1s - 5718.2s:  is a vital economic
+5718.7s - 5719.6s:  tool in our city?
+5721.8s - 5723.2s:  Through the speaker,
+5723.6s - 5725.4s:  the report that you're referring to
+5725.4s - 5726.9s:  is the,
+5726.9s - 5729.6s:  it reflects the community
+5729.6s - 5731.0s:  engagement that was undertaken
+5731.0s - 5733.7s:  in what we heard at our
+5733.7s - 5735.4s:  public meeting and what we
+5735.4s - 5737.4s:  saw through the survey results.
+5738.6s - 5739.5s:  And people
+5739.5s - 5741.1s:  talked about a range of issues.
+5741.7s - 5743.4s:  There were many people who participated
+5743.4s - 5745.0s:  who were concerned about the airport.
+5745.3s - 5746.9s:  There were people who participated
+5746.9s - 5749.1s:  in the process who were
+5749.1s - 5751.0s:  supportive of the airport.
+5752.0s - 5753.3s:  What we've done is simply
+5753.3s - 5754.8s:  record and report
+5754.8s - 5757.1s:  what we heard. I think that
+5757.1s - 5759.1s:  in terms of balance, the
+5759.1s - 5761.3s:  document to
+5761.3s - 5762.8s:  source is the staff report
+5762.8s - 5765.0s:  which speaks about
+5765.0s - 5766.9s:  the RISA compliance
+5766.9s - 5769.1s:  as the critical milestone in
+5769.1s - 5771.0s:  terms of the airport
+5771.0s - 5772.2s:  continuing to operate.
+5773.9s - 5775.5s:  Well, even on the staff report,
+5775.6s - 5777.7s:  the support for the airport is pretty
+5777.7s - 5779.6s:  feeble. Now, let's look at the
+5779.6s - 5781.9s:  lease extension, and you're asking
+5781.9s - 5783.7s:  here not to
+5783.7s - 5784.9s:  extend the lease.
+5785.4s - 5787.6s:  And you need robust
+5787.6s - 5789.7s:  public consultation. I have
+5790.3s - 5791.7s:  a list here of dozens of
+5791.7s - 5793.4s:  consultations over the airport.
+5793.6s - 5795.8s:  It's rolled on the lakefront.
+5795.9s - 5797.0s:  It's rolled in Toronto.
+5797.8s - 5799.3s:  Keep it, close it.
+5800.0s - 5801.8s:  At what point do we stop
+5801.8s - 5803.7s:  the consultations and get on with it
+5803.7s - 5806.4s:  already? I mean, it's been
+5806.4s - 5807.8s:  debated for decades.
+5808.3s - 5810.1s:  And you're asking for more consultation
+5810.1s - 5812.5s:  on something that I would consider
+5812.5s - 5814.5s:  to be decided policy.
+5816.5s - 5817.4s:  Through the speaker,
+5818.4s - 5819.4s:  I would
+5819.4s - 5821.9s:  draw your attention to recommendation
+5821.9s - 5823.6s:  three, which does recommend
+5823.6s - 5825.6s:  additional public and
+5825.6s - 5826.6s:  stakeholder engagement.
+5827.8s - 5829.7s:  Staff will take council direction
+5829.7s - 5831.6s:  on whether
+5831.6s - 5833.6s:  this engagement could happen
+5833.6s - 5835.4s:  or should happen. I think it's important
+5835.4s - 5837.5s:  to point out that there are many opinions
+5837.5s - 5839.1s:  about the airport.
+5840.4s - 5840.8s:  And
+5841.4s - 5843.5s:  it will take time for staff
+5843.5s - 5845.5s:  to hear from all of
+5845.5s - 5847.7s:  the parties in providing
+5847.7s - 5849.4s:  advice to council on this matter
+5849.4s - 5852.0s:  in the future. Speaker, I'd also
+5852.0s - 5853.6s:  like to add that, just to be very clear,
+5853.6s - 5856.0s:  this report is about compliance with the safety.
+5857.1s - 5857.7s:  And the
+5857.7s - 5859.8s:  so there isn't a broader
+5859.8s - 5861.8s:  analysis of anything to do with the
+5861.8s - 5863.3s:  airport outside of safety.
+5863.3s - 5865.8s:  That is not an oversight or position.
+5865.8s - 5867.6s:  It's simply that this report is about
+5867.6s - 5869.2s:  compliance with RISA.
+5869.2s - 5871.6s:  And then we've asked very clearly to provide
+5871.6s - 5873.6s:  direction so we can come back with the process
+5873.6s - 5875.6s:  to talk about the broader issues around
+5875.6s - 5876.7s:  the extension of the airport.
+5878.5s - 5880.4s:  Well, for a report that's based
+5880.4s - 5882.4s:  on safety, it certainly has some
+5882.4s - 5884.2s:  cryptic words about
+5884.2s - 5885.5s:  closing the airport.
+5886.3s - 5887.7s:  But that being said,
+5888.7s - 5890.1s:  are you aware that
+5890.1s - 5892.3s:  there's over 2,000 people that
+5892.3s - 5893.9s:  work directly on site
+5893.9s - 5896.3s:  at the airport and there's 4,450
+5896.9s - 5898.8s:  wider jobs connected to it?
+5899.8s - 5900.5s:  So through the speaker,
+5902.6s - 5902.7s:  again,
+5903.9s - 5904.7s:  there are lots of people
+5904.7s - 5906.0s:  that work at the airport. The airport is
+5906.0s - 5907.6s:  functioning, will continue to function.
+5908.2s - 5910.1s:  Those that are not in jeopardy.
+5910.5s - 5912.1s:  We have to comply with safety.
+5912.9s - 5913.9s:  That is the issue
+5913.9s - 5916.3s:  that will compel the airport to continue
+5916.3s - 5918.5s:  to move forward. Not anything else.
+5918.8s - 5920.1s:  If safety is not
+5920.1s - 5922.1s:  achieved by 2027 and these
+5922.1s - 5924.4s:  are not done, there will be ramifications
+5924.4s - 5926.1s:  through Transport Canada. Very clear in
+5926.1s - 5926.9s:  their correspondence.
+5928.2s - 5930.2s:  You're talking as if it's a zero sum game.
+5930.3s - 5931.9s:  As if we couldn't
+5933.2s - 5934.2s:  extend the lease
+5934.2s - 5936.1s:  unless we address safety. Why couldn't
+5936.1s - 5938.2s:  we have addressed safety and extended
+5938.2s - 5940.1s:  the lease? So through the speaker
+5940.1s - 5942.1s:  that is in the hands of council, you absolutely
+5942.1s - 5944.2s:  can. We believe, as has
+5944.2s - 5946.0s:  happened in the past with issues at the
+5946.0s - 5948.4s:  airport, there are other alternatives to finance
+5948.4s - 5949.9s:  this. The extension of the lease
+5950.4s - 5952.6s:  for this, as requested by Ports
+5952.6s - 5954.3s:  Toronto, is about financing
+5955.4s - 5956.2s:  the project.
+5956.4s - 5958.4s:  There are other alternatives to that. However,
+5958.4s - 5960.4s:  it is in council's hands to extend
+5960.4s - 5962.6s:  the lease, but recognize that that
+5962.6s - 5964.4s:  enters into renegotiating
+5964.9s - 5966.7s:  the terms of the lease for the
+5966.7s - 5968.6s:  future of the airport through one
+5968.6s - 5970.5s:  particular item, not through the broad set
+5970.5s - 5972.4s:  of issues. But so we're clear, that
+5972.4s - 5974.4s:  is in the hands of council and could easily be done
+5974.4s - 5976.6s:  today. Thank you. That was your last
+5976.6s - 5984.4s:  question. Councillor
+5984.4s - 5986.2s:  Burnside, questions?
+5987.3s - 5988.6s:  Thank you, Madam
+5988.6s - 5990.0s:  Speaker. Through you,
+5990.7s - 5992.3s:  so in 2021,
+5992.5s - 5994.2s:  so three years ago, it became
+5994.2s - 5996.2s:  apparent, decisions were made that
+5996.2s - 5998.2s:  some decision would have to be made.
+5998.7s - 6000.3s:  Is it normal that it would
+6000.3s - 6002.4s:  take the city three years to
+6002.4s - 6006.9s:  develop that report? Through
+6006.9s - 6009.0s:  the speaker, we
+6009.0s - 6009.7s:  received
+6010.6s - 6012.7s:  a first report,
+6012.7s - 6014.4s:  a research technical study
+6014.4s - 6016.2s:  in April of this year.
+6017.1s - 6019.0s:  We provided comments and then
+6019.0s - 6020.9s:  responses were
+6020.9s - 6022.5s:  were sent back in early summer.
+6023.2s - 6023.9s:  And then
+6024.5s - 6026.8s:  we also learned a lot at the first
+6026.8s - 6028.8s:  public meeting of the
+6028.8s - 6030.1s:  environmental assessment process
+6030.7s - 6032.2s:  in July
+6032.2s - 6034.0s:  of 2024.
+6035.4s - 6037.1s:  So really, our report
+6037.1s - 6038.0s:  is,
+6038.6s - 6040.4s:  it follows from
+6040.4s - 6042.4s:  the information that
+6042.4s - 6044.1s:  we needed to be able to report
+6044.1s - 6046.5s:  that was provided to us in this
+6046.5s - 6048.4s:  calendar year. So you felt
+6048.4s - 6050.6s:  that the process has moved as quickly
+6050.6s - 6052.6s:  as it could? Through the speaker,
+6052.6s - 6054.4s:  wherever she might be. Well,
+6054.5s - 6056.1s:  I mean, I
+6056.1s - 6057.5s:  think since
+6058.2s - 6060.5s:  through the speaker, since we
+6060.5s - 6062.5s:  received the information that we requested,
+6062.7s - 6064.4s:  the details on the
+6064.4s - 6066.5s:  RISA proposals, which came
+6066.5s - 6068.3s:  to us again in the RISA
+6068.3s - 6070.4s:  technical study in April of this
+6070.4s - 6071.8s:  year. Okay, thank you.
+6072.8s - 6074.1s:  In the report, it mentioned about
+6074.1s - 6076.6s:  Ports Toronto requesting an extension
+6076.6s - 6078.1s:  to the agreement.
+6080.1s - 6080.5s:  When
+6080.5s - 6082.2s:  discussions began in
+6082.2s - 6084.3s:  I would presume 2021,
+6084.5s - 6085.5s:  early 2022,
+6086.5s - 6087.9s:  was that request made?
+6088.8s - 6089.7s:  Can you tell us?
+6090.2s - 6092.3s:  I suspect that as a business, they're thinking
+6092.3s - 6094.2s:  of amortization of whatever expense
+6094.2s - 6096.7s:  they may have to
+6097.2s - 6098.9s:  put on through the books.
+6098.9s - 6101.2s:  So was that request made to extend the agreement?
+6102.7s - 6103.3s:  Through the chair,
+6103.3s - 6105.4s:  yes, the request was
+6105.4s - 6107.1s:  made. However,
+6107.6s - 6109.4s:  it was only recently confirmed
+6109.4s - 6111.3s:  the specific number of
+6111.3s - 6112.1s:  years
+6112.9s - 6115.5s:  the request was refined for
+6115.5s - 6117.5s:  a 48-year
+6117.5s - 6119.4s:  request. So 45 years
+6119.4s - 6121.4s:  plus 3 years
+6121.4s - 6123.4s:  to allow for
+6123.4s - 6124.8s:  any... Okay, thanks.
+6124.8s - 6127.1s:  So the request was made through
+6127.1s - 6129.1s:  the speaker at around the time
+6129.1s - 6130.9s:  that everything got going?
+6131.9s - 6132.9s:  Through the speaker in
+6132.9s - 6134.9s:  very general terms, not in
+6134.9s - 6136.9s:  specific terms. Okay, and with the
+6136.9s - 6139.0s:  decision to
+6139.0s - 6141.1s:  not engage
+6141.1s - 6142.2s:  in that part of the...
+6142.2s - 6144.8s:  to have consultations on that part
+6144.8s - 6146.9s:  of the equation, would that
+6146.9s - 6148.8s:  have been a staff decision or
+6148.8s - 6151.0s:  a city council decision? To only go
+6151.0s - 6153.0s:  forward with the
+6153.0s - 6154.9s:  examining the runway
+6154.9s - 6155.5s:  options?
+6160.1s - 6162.0s:  So through the speaker, if I understand
+6162.0s - 6164.1s:  correctly, it's
+6164.1s - 6165.3s:  in the hands of council.
+6165.9s - 6168.0s:  The challenge we had is we don't have direction from
+6168.0s - 6170.0s:  council on the broader terms of extending
+6170.0s - 6171.9s:  the tri-quartet agreement.
+6172.4s - 6174.1s:  So we've asked specifically to bring that
+6174.1s - 6175.6s:  back. However, if today
+6175.6s - 6178.1s:  other elements that aren't included in our report
+6178.1s - 6180.2s:  council wishes to move on, including the
+6180.2s - 6182.0s:  term, and modify
+6182.0s - 6184.0s:  that, we would then
+6184.0s - 6186.0s:  take that as direction
+6186.0s - 6188.1s:  and as a signatory of the tri-quartet
+6188.1s - 6190.2s:  agreement, you could authorize us to go and execute
+6190.2s - 6191.8s:  on that. Okay, so to confirm
+6191.8s - 6193.9s:  the extension of this agreement
+6193.9s - 6196.1s:  is solely in the hands of council and can
+6196.1s - 6198.2s:  be part of any
+6198.2s - 6199.0s:  motions today.
+6201.0s - 6202.7s:  So through the speaker, no,
+6203.3s - 6205.0s:  it could be part of what happens
+6205.0s - 6207.0s:  today. You could decide to provide
+6207.0s - 6209.0s:  further direction to us. We've provided you
+6209.0s - 6211.1s:  what we believe is direction within
+6211.1s - 6212.9s:  scope. You could extend that today.
+6212.9s - 6215.2s:  Okay, thank you very much.
+6230.0s - 6231.4s:  Councillor Morley, questions?
+6231.9s - 6233.1s:  Thank you, Madam Speaker.
+6233.4s - 6235.4s:  Through you, I have a couple of questions for
+6235.4s - 6237.5s:  the Waterfront Secretariat, I believe.
+6237.9s - 6239.6s:  And then one for the CFO.
+6240.1s - 6241.4s:  I'm also just wanting to start
+6241.4s - 6243.3s:  in on one of the major concerns
+6243.3s - 6245.7s:  we're hearing from folks on this ongoing
+6245.7s - 6247.3s:  discussion is
+6247.3s - 6249.4s:  related to access for things like school buses.
+6250.2s - 6251.6s:  My understanding is there's currently
+6251.6s - 6253.2s:  school buses going across the runway
+6253.2s - 6255.2s:  and I'm curious if anyone could
+6255.2s - 6257.3s:  advise whether any of the options
+6257.3s - 6259.6s:  before us solve for that ongoing
+6259.6s - 6260.7s:  safety concern.
+6263.7s - 6265.2s:  So through the speaker, there are
+6265.2s - 6267.2s:  school buses that use the runway
+6267.2s - 6268.9s:  from time to time.
+6269.1s - 6271.1s:  Particularly in the winter months when
+6271.1s - 6272.9s:  the harbour freezes up.
+6274.3s - 6275.0s:  And option
+6275.0s - 6277.1s:  three would provide for a road
+6277.1s - 6279.1s:  that would be beyond the runways
+6279.1s - 6281.2s:  that would allow for
+6282.3s - 6283.1s:  a safer
+6283.1s - 6285.6s:  and an easier
+6285.6s - 6287.9s:  access for
+6287.9s - 6289.0s:  school bus vehicles.
+6289.6s - 6291.3s:  That's helpful, thank you.
+6292.0s - 6293.7s:  I wanted to dig in a little bit more
+6293.7s - 6295.6s:  about what we are hearing from members
+6295.6s - 6297.6s:  of the public through the
+6297.6s - 6299.2s:  consultations that have been underway
+6299.2s - 6301.6s:  about what they want us to consider as
+6301.6s - 6302.5s:  part of this work.
+6306.5s - 6308.0s:  So through the speaker,
+6308.9s - 6310.4s:  what we heard
+6310.4s - 6312.0s:  at our public meeting and what we
+6314.3s - 6316.1s:  saw through the survey in terms
+6316.1s - 6318.1s:  of what's also been added to the
+6318.6s - 6320.1s:  council debate in terms of
+6320.1s - 6322.4s:  submissions to committee and council.
+6322.9s - 6324.1s:  We see a range
+6324.1s - 6324.9s:  of issues.
+6326.1s - 6328.1s:  We have people that want to
+6328.1s - 6330.1s:  close the airport and create
+6330.1s - 6332.1s:  a park. We have people that
+6332.1s - 6334.4s:  are staunch defenders
+6334.4s - 6336.3s:  of the airport, users of the airport
+6336.3s - 6338.1s:  and everything
+6338.7s - 6339.3s:  in between.
+6340.2s - 6342.0s:  And it's also really
+6342.0s - 6343.9s:  been a challenge, quite frankly,
+6343.9s - 6346.1s:  to keep people focused
+6346.1s - 6348.2s:  on the RISA compliance issue
+6348.2s - 6350.2s:  because there's always an interest
+6350.2s - 6352.0s:  in speaking to the larger issues.
+6352.7s - 6354.1s:  Sound and noise, for example.
+6356.1s - 6357.6s:  Wildlife habitat, for example.
+6357.7s - 6360.0s:  There's a range of issues
+6360.0s - 6362.0s:  that people want to talk
+6362.0s - 6363.9s:  about when they talk about this airport.
+6364.3s - 6365.5s:  It's very helpful
+6365.5s - 6368.0s:  and reflective of my experiences in
+6368.0s - 6370.3s:  office trying to find common ground
+6370.3s - 6371.8s:  on very
+6371.8s - 6373.6s:  challenging issues. So thank you for that.
+6374.0s - 6375.6s:  My last question is for the CFO.
+6376.3s - 6378.0s:  I'm wondering if you can tell me about
+6378.0s - 6379.9s:  previous projects that were
+6379.9s - 6381.9s:  similar in scale and how they
+6381.9s - 6383.8s:  were financed and over what period of time.
+6383.9s - 6385.5s:  I know there's been ongoing discussions
+6385.5s - 6387.9s:  about the various options and the ability
+6387.9s - 6389.9s:  to finance. So I was hoping you might
+6389.9s - 6392.0s:  be able to shed some light on that.
+6395.6s - 6396.1s:  Through the chair,
+6396.4s - 6397.8s:  sorry, Deputy Mayor, can you
+6397.8s - 6399.7s:  be specific related to the island airport
+6399.7s - 6401.2s:  itself or projects in general?
+6401.2s - 6403.6s:  Previous projects similar in scale
+6403.6s - 6405.8s:  and how they were financed, I
+6405.8s - 6407.5s:  gather there was previous capital
+6407.5s - 6409.4s:  works required to bring the
+6409.4s - 6411.1s:  airport up to its current standard.
+6411.3s - 6413.3s:  I'm not sure if there's any other city
+6413.3s - 6415.6s:  examples, but
+6416.7s - 6418.0s:  a capital project
+6418.0s - 6419.9s:  of this scope and scale in terms of
+6421.0s - 6422.1s:  have we
+6422.1s - 6424.0s:  had experience or have you seen
+6424.0s - 6426.3s:  similar examples and
+6426.3s - 6428.2s:  successful pathways
+6428.2s - 6429.0s:  to financing?
+6429.7s - 6431.4s:  Through you Madam Speaker, unfortunately
+6431.4s - 6433.0s:  I'm not overly familiar with how they
+6433.0s - 6434.8s:  may have financed past projects.
+6435.2s - 6437.2s:  You generally would look at
+6437.2s - 6439.2s:  the ability to finance your capital
+6439.2s - 6440.9s:  investments over a set period of time
+6440.9s - 6442.1s:  based on your ability to pay.
+6443.4s - 6445.1s:  What impacts are
+6445.1s - 6447.2s:  decisions here today going to have
+6447.2s - 6449.1s:  on the potential ability for
+6449.6s - 6450.8s:  the airport to finance
+6450.8s - 6453.0s:  this project one way or the other?
+6454.3s - 6455.2s:  Through you Madam
+6455.2s - 6456.0s:  Speaker,
+6456.9s - 6458.3s:  looking at the option that's
+6458.3s - 6460.4s:  in front of us today and the costs associated
+6460.4s - 6462.2s:  with that,
+6462.5s - 6464.0s:  Port Toronto would look at the revenues that they
+6464.0s - 6466.2s:  would generate or ability to offset those costs
+6466.2s - 6468.0s:  over the term set to be able to
+6468.0s - 6470.2s:  repay that depending on the terms that were established.
+6471.5s - 6472.6s:  Very helpful. Thank you very
+6472.6s - 6474.0s:  much. That's all Madam Speaker.
+6474.6s - 6482.8s:  Thank you. Councillor
+6482.8s - 6484.8s:  Bradford, questions. Thanks Madam Speaker.
+6484.9s - 6486.1s:  I'll start with our CFO.
+6486.6s - 6488.9s:  Would you agree that the remaining lease on an
+6488.9s - 6490.8s:  asset generally impacts its
+6490.8s - 6493.3s:  ability to access capital and financing?
+6496.5s - 6497.7s:  Through you Madam Speaker,
+6498.6s - 6499.3s:  in any capital
+6499.3s - 6501.1s:  investment you would look at your ability to
+6501.1s - 6503.0s:  pay over the time set on the term of the loan.
+6503.6s - 6505.2s:  So, if you were looking
+6505.2s - 6507.2s:  at a major infrastructure investment,
+6507.9s - 6509.2s:  could be in the order of magnitude
+6509.2s - 6510.6s:  over $100-200 million,
+6511.0s - 6513.2s:  if you only had eight years left on
+6513.2s - 6515.2s:  the lease, people would look
+6515.2s - 6517.0s:  at your ability to pay that back within
+6517.0s - 6518.8s:  eight years. If that was not
+6518.8s - 6521.0s:  demonstrable, you might not have access
+6521.0s - 6523.1s:  to the financing. That's a hypothetical
+6523.1s - 6525.0s:  scenario, but one that people might
+6525.0s - 6527.2s:  look at. Through you Madam
+6527.2s - 6529.1s:  Speaker, in any financing
+6529.1s - 6531.0s:  we would look at two key considerations
+6531.0s - 6533.0s:  would be the life of the asset itself
+6533.0s - 6534.8s:  as well as the ability to
+6534.8s - 6536.9s:  repay the financing over the term. Here's a City of Toronto
+6536.9s - 6539.2s:  example. If we had a lease on an office
+6539.2s - 6541.1s:  building, as we do, and it
+6541.1s - 6543.0s:  was expiring in two years and we wanted to
+6543.0s - 6545.1s:  access some capital, tens of
+6545.1s - 6546.8s:  millions of dollars to retrofit that,
+6547.8s - 6549.3s:  would we have good odds of
+6549.3s - 6551.3s:  accessing that capital to do that
+6551.3s - 6553.3s:  retrofit on a two-year lease, office
+6553.3s - 6553.6s:  building?
+6555.6s - 6557.0s:  Through you Madam Speaker,
+6558.0s - 6559.8s:  in this hypothetical situation, we would
+6559.8s - 6561.6s:  look at alternatives in terms of
+6561.6s - 6563.2s:  financing if it was a two-year term.
+6563.7s - 6565.7s:  We would also be looking at the alternatives
+6565.7s - 6568.1s:  available. Waterfront Secretariat,
+6568.2s - 6570.2s:  Mr. Stone, I have a question for you.
+6570.7s - 6571.9s:  Ports Toronto has written in on
+6571.9s - 6574.2s:  this, and that letter indicated
+6574.2s - 6575.7s:  that, quite clearly,
+6576.0s - 6577.8s:  there is a risk to the airport
+6577.8s - 6579.7s:  if we do not extend RISA.
+6580.4s - 6582.3s:  Your presentation and deck here
+6582.3s - 6583.3s:  off the top,
+6583.9s - 6585.8s:  first slide, said this is not about
+6585.8s - 6587.8s:  the future of the airport, but
+6587.8s - 6590.0s:  according to that letter submitted by Ports
+6590.0s - 6591.6s:  Toronto without the landmass extension
+6591.6s - 6593.9s:  and a term extension of the lease
+6593.9s - 6595.1s:  which they note specifically,
+6595.9s - 6598.1s:  the future of Billy Bishop Airport
+6598.1s - 6599.8s:  is at risk. That's a quote
+6599.8s - 6601.9s:  from the correspondence. Are you
+6601.9s - 6603.6s:  aware of this concern from Ports Toronto?
+6605.5s - 6606.9s:  Through the Speaker, yes, we are
+6606.9s - 6609.2s:  aware of this concern and it
+6609.2s - 6610.6s:  relates to
+6610.6s - 6612.7s:  not the landmass extension
+6612.7s - 6614.9s:  issue, but the
+6615.8s - 6617.1s:  term of the
+6617.1s - 6618.9s:  lease as per your previous
+6618.9s - 6620.0s:  questions to the CFO.
+6620.8s - 6622.8s:  The term of the lease, which is a really
+6622.8s - 6624.8s:  important piece here because we've not wanted to
+6624.8s - 6626.9s:  touch that, but the letter goes on to say
+6626.9s - 6628.8s:  quote, without an extension,
+6629.4s - 6630.8s:  securing financing for the
+6630.8s - 6632.8s:  RISA project simply cannot
+6632.8s - 6634.9s:  happen. When we talk
+6634.9s - 6636.4s:  about the viability
+6636.4s - 6638.8s:  to implement the safety measures
+6638.8s - 6640.6s:  as required by the federal government,
+6640.9s - 6642.7s:  we have correspondence from Ports Toronto
+6642.7s - 6644.7s:  that's saying that is just simply not
+6644.7s - 6646.4s:  possible to access that capital,
+6646.7s - 6648.9s:  to make the safety improvements, to comply with
+6648.9s - 6650.8s:  the law in order to get this done.
+6651.1s - 6652.9s:  They're not going to have access to financing
+6652.9s - 6654.9s:  in capital, absent a
+6654.9s - 6657.0s:  lease extension. So how then
+6657.0s - 6658.9s:  is this actually not about
+6658.9s - 6660.0s:  the future of the airport?
+6664.9s - 6665.7s:  Through the Speaker,
+6665.7s - 6667.9s:  I think it's not
+6667.9s - 6669.9s:  the only option that would be available for
+6669.9s - 6672.4s:  financing. City Solicitor,
+6674.4s - 6675.4s:  would you agree that the federal
+6675.4s - 6677.4s:  government has jurisdiction over regulating
+6677.4s - 6679.4s:  aeronautics and the Canadian Marine
+6679.4s - 6681.3s:  Act? Yes, of course. Okay.
+6681.6s - 6683.6s:  And that power could in fact override
+6683.6s - 6685.5s:  an attempt by a municipality to
+6685.5s - 6687.3s:  frustrate or inhibit their ability
+6687.3s - 6689.4s:  to exercise that jurisdiction.
+6689.8s - 6690.6s:  Would that be correct?
+6696.3s - 6698.4s:  Sure, I think so, yes. Good question.
+6698.5s - 6700.1s:  One we might want to think about. Right.
+6700.1s - 6702.7s:  Would it be possible that this could be challenged in court then?
+6704.7s - 6705.3s:  What could be
+6705.3s - 6707.7s:  challenged? Sorry, the
+6707.7s - 6709.2s:  decision whether or not to extend the lease
+6709.2s - 6711.4s:  or the decision to... Correct.
+6712.4s - 6713.3s:  I don't
+6713.3s - 6715.6s:  think the city's
+6715.6s - 6717.3s:  choice to extend
+6717.3s - 6719.2s:  a term of a contract can be
+6719.2s - 6721.3s:  challenged in court. No. If that frustrates
+6721.3s - 6723.3s:  their ability to implement within
+6723.3s - 6725.3s:  their jurisdiction as according to those acts?
+6733.6s - 6734.9s:  Okay. I got to move.
+6735.8s - 6737.0s:  So just to confirm,
+6737.0s - 6739.1s:  the tripartite agreement does contemplate
+6739.1s - 6741.0s:  scenarios where the
+6741.7s - 6743.2s:  agreement no longer exists
+6743.2s - 6744.7s:  or it needs to be terminated.
+6745.2s - 6747.1s:  So the parties have acknowledged that
+6747.1s - 6749.1s:  of course each party has
+6749.1s - 6751.1s:  the right to decide whether or not the agreement
+6751.1s - 6753.1s:  continues. Okay. Two quick questions.
+6753.2s - 6755.0s:  Chief Planner, under
+6755.0s - 6757.4s:  any of the RISA options, the airport
+6757.4s - 6759.1s:  as a use is
+6759.1s - 6760.7s:  not in fact changing. Is that correct?
+6761.5s - 6762.9s:  That's correct. Okay.
+6764.1s - 6765.0s:  I'll wrap with this.
+6765.0s - 6767.0s:  We have a letter on file here from McCarthy,
+6767.7s - 6769.0s:  one of the law firms here in Toronto
+6769.0s - 6771.0s:  representing Ports Toronto. I want to quote
+6771.0s - 6772.4s:  from that letter for your response.
+6773.0s - 6775.2s:  The selection of a specific RISA option
+6775.2s - 6777.1s:  not favoured by the city
+6777.1s - 6779.1s:  staff does not classify
+6779.1s - 6780.8s:  such RISA work as
+6780.8s - 6783.1s:  non-essential public work simply
+6783.1s - 6785.2s:  because other options exist that are more
+6785.2s - 6786.9s:  preferred by city staff.
+6787.2s - 6789.4s:  I take it you disagree with that? Last question.
+6790.3s - 6791.1s:  The reason options
+6791.1s - 6793.1s:  two and three would require an official plan
+6793.1s - 6795.5s:  is not because they're not favoured by staff
+6795.5s - 6797.3s:  but because they involve Lakeville
+6797.3s - 6799.4s:  that is not an essential public work.
+6799.5s - 6801.1s:  No, that was it.
+6801.4s - 6803.2s:  Councillor Bradford, that was your last question.
+6804.5s - 6805.7s:  Councillor Mantis,
+6805.9s - 6806.7s:  questions.
+6808.2s - 6809.6s:  Echoing on Councillor
+6809.6s - 6810.7s:  Bradford's question,
+6811.4s - 6813.6s:  if the airport makes a recommendation that
+6813.6s - 6815.8s:  we don't allow that to happen
+6815.8s - 6817.2s:  by amending the terms
+6817.2s - 6819.7s:  and land mass, is that standing
+6819.7s - 6821.8s:  in the way of safety and operations?
+6826.3s - 6828.6s:  Through the speaker,
+6829.1s - 6830.2s:  there are different ways
+6830.2s - 6832.4s:  for the airport to
+6832.4s - 6833.8s:  achieve RISA compliance.
+6835.5s - 6836.2s:  Some
+6836.2s - 6838.1s:  options are less desirable
+6839.0s - 6840.6s:  certainly to Ports Toronto
+6840.6s - 6842.2s:  and the airport community
+6842.2s - 6843.8s:  but also to the city.
+6845.0s - 6846.5s:  Our focus has been on
+6847.2s - 6848.4s:  the RISA option
+6848.4s - 6850.5s:  which has, in staff's
+6850.5s - 6852.4s:  view, the best chance at achieving
+6852.4s - 6854.3s:  compliance by the deadline
+6854.3s - 6856.7s:  set by Transport Canada in 2027.
+6858.4s - 6860.2s:  So has Ports Toronto
+6860.2s - 6862.5s:  been directly asking for
+6862.5s - 6863.3s:  a process
+6864.3s - 6866.8s:  for a duration, a long duration
+6867.8s - 6870.2s:  and can staff outline
+6870.2s - 6872.6s:  the chronology of their discussions
+6872.6s - 6875.0s:  with Ports Toronto, Transport Canada
+6875.0s - 6876.5s:  since December of last year?
+6880.6s - 6881.3s:  I'm sorry,
+6881.7s - 6882.7s:  could you repeat the question?
+6883.4s - 6883.9s:  Sure.
+6885.6s - 6886.2s:  Has
+6886.2s - 6888.2s:  Ports Toronto been directly asking
+6888.2s - 6890.1s:  for a process for more than
+6890.1s - 6892.2s:  a year? Can the staff outline
+6892.2s - 6893.9s:  a chronology of their discussions
+6893.9s - 6895.9s:  with Ports Toronto and Transport Canada
+6895.9s - 6898.0s:  since December of last year?
+6900.0s - 6901.3s:  Through the speaker,
+6901.6s - 6903.5s:  yes, we have been discussing
+6904.1s - 6905.3s:  RISA compliance
+6906.1s - 6907.5s:  for a number of months
+6907.5s - 6909.6s:  now. There were conversations
+6909.6s - 6910.7s:  last fall.
+6911.6s - 6913.4s:  There was an
+6913.4s - 6915.3s:  executive steering committee struck
+6915.3s - 6917.0s:  earlier this year.
+6918.2s - 6918.5s:  But
+6918.5s - 6921.4s:  a lot of the discussion depended
+6921.4s - 6923.3s:  on the technical
+6923.3s - 6925.6s:  analysis that was submitted by
+6925.6s - 6927.6s:  Ports Toronto in April of this
+6927.6s - 6929.5s:  year, which outlined
+6929.5s - 6931.7s:  the RISA options from a technical perspective
+6931.7s - 6933.4s:  and outlined
+6933.4s - 6935.3s:  a series of
+6935.3s - 6937.3s:  questions to consider. We provided
+6937.3s - 6938.2s:  comment back.
+6939.4s - 6941.0s:  We received
+6942.0s - 6943.1s:  information back
+6943.1s - 6945.0s:  in return, and then Ports Toronto
+6945.0s - 6946.9s:  had its first environmental
+6946.9s - 6949.2s:  assessment public meeting in July
+6949.2s - 6950.1s:  of 2024.
+6951.0s - 6953.0s:  Through the chair, I know
+6953.0s - 6954.7s:  that a lot of my constituents
+6954.7s - 6957.1s:  choose to use the airport for lots of
+6957.1s - 6959.1s:  different reasons. What I would like to
+6959.1s - 6961.0s:  understand more from staff is
+6961.0s - 6962.6s:  the medical access
+6962.6s - 6965.1s:  side of the airport. At executive
+6965.1s - 6967.1s:  committee, Hope Air
+6967.1s - 6969.0s:  CEO talked about 3,000 plus
+6969.0s - 6971.0s:  flight trips to Billy Bishop Airport.
+6972.0s - 6973.2s:  They and their pilots
+6973.2s - 6975.5s:  fly to bring patients
+6975.5s - 6977.1s:  from other Ontario communities
+6977.1s - 6979.1s:  needing Toronto's world-class medical care.
+6979.6s - 6981.4s:  Can staff elaborate on the urgent
+6981.4s - 6983.3s:  medevac activities through Orange
+6983.3s - 6985.1s:  that take
+6985.1s - 6985.8s:  place at the airport?
+6987.8s - 6988.7s:  Through the speaker,
+6989.8s - 6992.3s:  I would distinguish between the service
+6992.3s - 6994.2s:  provided by Orange, which is about
+6994.8s - 6995.5s:  emergency.
+6996.2s - 6997.9s:  If one was in a car accident,
+6997.9s - 7000.2s:  one would be transported to a trauma
+7000.2s - 7001.5s:  centre via
+7001.5s - 7003.9s:  an orange helicopter
+7003.9s - 7005.9s:  or a different kind of orange vehicle.
+7006.6s - 7007.1s:  Hope Air,
+7007.9s - 7010.3s:  there was a gentleman at committee
+7010.3s - 7012.2s:  from Hope Air who
+7012.2s - 7013.8s:  delivered a very
+7013.8s - 7015.2s:  articulate
+7016.5s - 7018.1s:  description of what
+7018.6s - 7019.9s:  that organization does.
+7020.4s - 7022.1s:  They transport
+7022.1s - 7024.1s:  people from remote communities,
+7024.5s - 7026.0s:  from northern communities in particular
+7026.0s - 7028.2s:  to Toronto area hospitals
+7028.2s - 7030.1s:  on a non-urgent basis.
+7030.3s - 7032.2s:  For example, if people
+7032.2s - 7034.4s:  are needing to access
+7035.5s - 7036.3s:  chemotherapy
+7036.3s - 7038.1s:  or surgeries or
+7038.1s - 7040.0s:  other things that are not available
+7040.0s - 7041.9s:  in the north or in other remote communities.
+7043.1s - 7044.1s:  But just to
+7046.6s - 7048.1s:  ask the
+7048.1s - 7049.0s:  question on
+7049.0s - 7052.6s:  that one, by not
+7052.6s - 7053.8s:  doing the recommendations,
+7054.7s - 7057.1s:  do we impede on
+7057.1s - 7058.6s:  the necessary
+7060.8s - 7062.1s:  procedures that are needed
+7062.1s - 7064.1s:  for people that live in the north?
+7066.0s - 7067.5s:  through the speaker,
+7068.4s - 7069.9s:  Orange uses helicopters
+7070.5s - 7072.1s:  principally and so those
+7072.1s - 7074.0s:  are unaffected by the runway and safety
+7074.0s - 7075.7s:  areas, those flights.
+7076.6s - 7078.1s:  Hope Air involves
+7078.1s - 7080.1s:  the use of the Porter flights
+7080.1s - 7082.1s:  and the Air Canada flights, the Porter flights
+7082.1s - 7083.7s:  in particular. So
+7083.7s - 7086.3s:  it would be important for that work to
+7086.3s - 7087.6s:  continue for
+7087.6s - 7089.8s:  RISA compliance to be
+7089.8s - 7092.0s:  achieved so that the Q400
+7092.0s - 7094.4s:  could continue to operate safely from
+7094.4s - 7095.0s:  the airport.
+7095.3s - 7097.6s:  So for these 3,000, through you Madam Speaker,
+7098.2s - 7099.9s:  for these 3,000 plus trips,
+7100.5s - 7102.1s:  if we're not able to do them at the airport
+7102.1s - 7103.8s:  then we would need to take them to Pearson.
+7103.8s - 7105.4s:  That was your last question.
+7106.7s - 7108.1s:  That is correct and that's why
+7108.1s - 7109.8s:  staff are working towards achieving
+7109.8s - 7110.7s:  RISA compliance.
+7111.3s - 7112.7s:  Thank you.
+7112.7s - 7113.7s:  Councillor
+7117.6s - 7118.3s:  Myers.
+7121.1s - 7122.0s:  Just one second.
+7122.3s - 7124.1s:  Councillor Myers, question.
+7126.3s - 7128.9s:  There you go. Thank you Speaker
+7128.9s - 7129.8s:  and through you.
+7130.2s - 7132.4s:  So I had some questions
+7132.4s - 7134.7s:  on the financing piece.
+7135.2s - 7136.5s:  So I understand
+7136.5s - 7138.7s:  the argument that it would be difficult
+7138.7s - 7140.2s:  to secure the financing
+7140.2s - 7142.7s:  given that the lease only extends for 8
+7142.7s - 7144.7s:  more years. But aren't there
+7144.7s - 7146.8s:  other options available for this type of
+7146.8s - 7148.6s:  financing like Canada Infrastructure
+7148.6s - 7150.5s:  Bank? Like I'm looking on their website
+7150.5s - 7152.6s:  and I see they finance the Thompson
+7152.6s - 7154.7s:  Regional Airport and the
+7155.6s - 7156.2s:  Montreal
+7156.9s - 7158.6s:  Metropolitan Airport. So aren't
+7158.6s - 7160.7s:  there other options than going to traditional
+7160.7s - 7162.6s:  financing companies for this type
+7162.6s - 7164.4s:  of deal within
+7164.4s - 7165.8s:  the time frame?
+7167.6s - 7168.7s:  Through you Madam Speaker,
+7169.5s - 7171.1s:  there are a myriad of options in terms
+7171.1s - 7173.1s:  of how you might finance a capital project
+7173.1s - 7175.3s:  be it how you might be able to support it
+7175.3s - 7177.1s:  through funds you have on hand or other
+7177.1s - 7179.0s:  financing options as you've noted
+7179.0s - 7181.1s:  potentially through Canada Infrastructure
+7181.1s - 7183.0s:  Bank or other government financing that might
+7183.0s - 7185.2s:  exist. Thank you.
+7185.4s - 7186.8s:  And is it normal
+7186.8s - 7189.0s:  due diligence for the City of Toronto
+7189.0s - 7191.2s:  to sign a 40-year
+7191.2s - 7193.5s:  lease without some sort of analysis
+7193.5s - 7195.2s:  as to the future impacts
+7198.4s - 7199.9s:  or agree to an extension
+7199.9s - 7201.7s:  of a lease for this long
+7201.7s - 7204.5s:  period? So through the
+7204.5s - 7206.5s:  Madam Speaker, I think that's been
+7206.9s - 7208.8s:  a bit of the challenge
+7208.8s - 7210.3s:  here is that
+7210.8s - 7212.8s:  in one sense it's more than a
+7212.8s - 7215.1s:  financing discussion. We completely
+7215.1s - 7216.7s:  understand the financing piece
+7216.7s - 7218.6s:  and generally speaking, particularly around
+7218.6s - 7220.9s:  airports, you would finance this with an
+7220.9s - 7222.6s:  extension and a term that takes
+7222.6s - 7224.5s:  into that account. That's how capital
+7224.5s - 7226.7s:  investments and a lot of things happen but certainly
+7226.7s - 7228.9s:  in the airports. The challenge with that
+7228.9s - 7230.5s:  is, as you point out,
+7230.8s - 7232.0s:  it then binds
+7232.0s - 7234.6s:  a larger tripartite agreement
+7234.6s - 7236.2s:  to a term which
+7236.2s - 7238.2s:  we would feel is part of
+7238.2s - 7240.1s:  a larger discussion about
+7240.1s - 7241.8s:  extending that tripartite agreement.
+7242.2s - 7244.3s:  So that's the conundrum that we were in
+7244.3s - 7246.2s:  in bringing this report forward as well.
+7246.7s - 7248.2s:  Thank you. And just to be
+7248.2s - 7250.2s:  clear, so we haven't done any
+7250.2s - 7252.1s:  sort of analysis as to
+7252.1s - 7254.1s:  what impact a 40-year lease might
+7254.1s - 7256.1s:  have on our TransformTO
+7256.1s - 7258.1s:  goals or our climate change
+7258.1s - 7260.1s:  initiatives on waterfront
+7260.1s - 7262.2s:  redevelopment. We haven't done any
+7262.2s - 7264.1s:  sort of analysis like that.
+7266.1s - 7267.9s:  So through the speaker, I think it would
+7267.9s - 7269.5s:  be fair to say that we have
+7269.5s - 7272.0s:  in terms of an extension
+7272.0s - 7273.8s:  to the tripartite agreement,
+7273.9s - 7275.9s:  we have not entered into that level
+7275.9s - 7278.0s:  of due diligence around the tripartite
+7278.3s - 7278.8s:  agreement.
+7280.7s - 7283.0s:  And is it the
+7283.0s - 7284.4s:  staff's position
+7284.4s - 7286.4s:  that if we
+7286.4s - 7288.9s:  that although the preference
+7288.9s - 7290.5s:  may be for a different option,
+7290.5s - 7292.7s:  option one still
+7292.7s - 7294.8s:  maintains the airport as viable
+7294.8s - 7296.7s:  for the
+7296.7s - 7298.4s:  remainder of the lease, which is until
+7299.3s - 7299.9s:  2033.
+7301.5s - 7302.3s:  Through the speaker,
+7303.0s - 7305.0s:  the staff's position is how do we comply with
+7305.0s - 7306.3s:  Transport Canada guidelines?
+7307.1s - 7308.8s:  The phased options, the first
+7308.8s - 7310.5s:  phase of that, that option one,
+7310.7s - 7312.8s:  which can be built on in options two
+7312.8s - 7315.3s:  and three, that option one complies
+7315.3s - 7316.9s:  with the requirements of
+7316.9s - 7317.5s:  Transport Canada.
+7318.3s - 7319.8s:  And final question,
+7319.8s - 7321.9s:  does the staff have any sort of
+7321.9s - 7323.6s:  timeline in mind as to when
+7323.6s - 7325.6s:  these further options
+7325.6s - 7327.6s:  could potentially be explored, which would
+7327.6s - 7329.8s:  include some sort of further public
+7329.8s - 7331.6s:  engagement, further analysis on how
+7331.6s - 7333.6s:  this potentially fits with our other
+7333.6s - 7334.8s:  city building initiatives?
+7335.8s - 7336.7s:  So through the speaker,
+7337.5s - 7339.6s:  our recommendation is we get on that right away.
+7339.8s - 7341.6s:  We bring you back information very early
+7341.6s - 7343.5s:  in the new year. It won't take long
+7343.5s - 7345.5s:  to develop the framework, and we believe
+7345.5s - 7347.3s:  we can get into this work very quickly
+7347.3s - 7349.6s:  and move through it swiftly to look at the
+7349.6s - 7351.0s:  full tripartite agreement
+7351.5s - 7353.1s:  and understand what the future
+7353.1s - 7355.1s:  looks like in this relationship.
+7355.7s - 7356.6s:  Thank you very much.
+7357.6s - 7358.7s:  Thank you.
+7363.9s - 7365.5s:  Councillor Bravo, questions?
+7366.5s - 7368.4s:  Thank you, speaker. I want to pick up on
+7368.4s - 7370.6s:  the question of financing
+7371.6s - 7372.7s:  to the
+7372.7s - 7374.0s:  Chief Financial Officer.
+7374.4s - 7376.9s:  You were asked earlier by my colleague,
+7377.6s - 7378.7s:  Councillor Bradford,
+7378.7s - 7381.0s:  the importance of
+7381.0s - 7383.0s:  the life of the asset in relation
+7383.0s - 7384.2s:  to securing financing,
+7384.3s - 7386.9s:  but you were a bit cut off on the
+7386.9s - 7388.8s:  second dimension, which is
+7389.4s - 7391.0s:  ability to repay.
+7391.3s - 7393.0s:  And is it accurate
+7393.0s - 7395.0s:  that that relates to
+7395.0s - 7396.8s:  a business plan
+7396.8s - 7398.7s:  operationally to be able to
+7400.1s - 7400.6s:  recover
+7400.6s - 7403.1s:  through revenue the investment
+7403.1s - 7404.3s:  that's been made in capital?
+7406.1s - 7407.4s:  Through you, Madam Speaker, that's
+7407.4s - 7409.1s:  absolutely correct. That would be a consideration
+7409.1s - 7410.2s:  in the repayment plan.
+7411.0s - 7413.2s:  And I'm not sure who would ask this one,
+7413.2s - 7415.5s:  too, but following up on that,
+7416.4s - 7416.9s:  while
+7416.9s - 7419.4s:  this was clearly not on the
+7419.4s - 7421.3s:  radar, according to all
+7421.3s - 7423.1s:  of the documents that indicate
+7423.1s - 7425.3s:  the consultation piece, there was no question
+7425.3s - 7427.4s:  around the lease extension, and this wasn't
+7428.4s - 7429.4s:  flagged during that
+7429.4s - 7430.1s:  process.
+7431.3s - 7433.1s:  There is now, this has been brought
+7433.1s - 7435.4s:  before us in terms of the
+7435.4s - 7436.0s:  money that's been made here.
+7437.6s - 7439.1s:  Do we know from
+7439.1s - 7440.9s:  Ports Toronto what the business plan
+7440.9s - 7442.5s:  is at this time?
+7442.6s - 7444.6s:  Do we know how it intends
+7444.6s - 7445.6s:  to repay
+7446.5s - 7448.5s:  the financial investment
+7448.5s - 7450.8s:  into the
+7450.8s - 7452.4s:  capital pieces that are required
+7452.4s - 7454.6s:  here? Because the 40
+7454.6s - 7456.7s:  lease extension, to my mind, also
+7457.2s - 7458.5s:  should involve questions
+7458.5s - 7460.7s:  about a business plan to operate.
+7461.1s - 7462.7s:  Is that available
+7462.7s - 7464.5s:  at this time? Does anyone know?
+7467.2s - 7468.2s:  Through the speaker,
+7469.1s - 7470.2s:  we have received
+7470.2s - 7472.5s:  general information from Ports
+7472.5s - 7474.3s:  Toronto about its approach
+7474.3s - 7476.1s:  on business matters.
+7476.6s - 7478.5s:  It would use the airport improvement
+7478.5s - 7480.4s:  fee, for example, as a revenue
+7480.4s - 7482.4s:  towards paying back debt.
+7482.5s - 7484.5s:  It's talked about the borrowing that it would
+7484.5s - 7485.9s:  do from capital markets
+7486.3s - 7488.5s:  and other financial institutions.
+7489.9s - 7490.6s:  We
+7490.6s - 7492.6s:  have not seen a detailed
+7492.6s - 7494.7s:  business plan on this matter.
+7495.1s - 7496.7s:  I ask, if you want to
+7496.7s - 7498.5s:  stay on your feet, I ask this question
+7498.5s - 7500.4s:  in part because I note
+7500.4s - 7502.6s:  in the staff report, it says that the
+7502.6s - 7504.5s:  airport, under the current
+7504.5s - 7506.7s:  lease, has plenty of capacity
+7506.7s - 7508.6s:  to expand the number of
+7508.6s - 7510.6s:  flights, but is it accurate
+7510.6s - 7512.9s:  that no new
+7512.9s - 7514.7s:  airlines have expressed interest
+7514.7s - 7516.5s:  up to now in
+7516.5s - 7518.4s:  operating additional flights out of the
+7518.4s - 7518.8s:  airport?
+7521.2s - 7521.9s:  Through
+7522.6s - 7523.7s:  the speaker,
+7525.6s - 7526.3s:  I can't
+7526.3s - 7527.9s:  really verify that.
+7528.3s - 7529.7s:  Certainly Porter has operated there
+7529.7s - 7532.0s:  for years, or Canada's
+7532.0s - 7532.4s:  operating.
+7533.6s - 7535.6s:  The airport was impacted pretty
+7535.6s - 7537.7s:  significantly through the COVID pandemic.
+7537.9s - 7539.6s:  In fact, it closed for a time.
+7540.7s - 7541.8s:  And flights are back to
+7541.8s - 7543.8s:  probably 80% of pre-pandemic
+7543.8s - 7546.0s:  levels. So I do believe
+7546.0s - 7547.9s:  that Ports Toronto is
+7547.9s - 7549.9s:  working with its industry
+7550.8s - 7552.1s:  partners is
+7552.1s - 7553.9s:  exploring new ways of
+7553.9s - 7555.3s:  attracting additional business.
+7556.1s - 7557.7s:  I think that that's very much
+7557.7s - 7559.0s:  on its mind.
+7559.6s - 7561.8s:  So it's recovering but not at the rate that
+7561.8s - 7562.8s:  Pearson has recovered.
+7564.0s - 7565.8s:  So my next question
+7565.8s - 7567.5s:  has to do with
+7567.5s - 7569.3s:  what's been asked already.
+7569.7s - 7571.1s:  I just want to ask a different dimension.
+7571.9s - 7574.4s:  Councillor Myers talked about
+7574.4s - 7575.7s:  the unusual
+7575.7s - 7577.7s:  situation of being asked to commit
+7577.7s - 7579.9s:  to a 40-year lease
+7581.0s - 7582.0s:  but without
+7582.0s - 7583.7s:  having done the studies
+7583.7s - 7585.7s:  or the looking at
+7585.7s - 7587.3s:  other impacts.
+7588.0s - 7589.4s:  I would like to know, perhaps
+7589.4s - 7592.1s:  I'm not sure who would answer that,
+7592.9s - 7594.1s:  whether there's been
+7594.1s - 7596.0s:  any study of the impact
+7596.0s - 7597.4s:  of the planned
+7597.4s - 7599.8s:  via rail high-speed connections
+7599.8s - 7601.6s:  in the corridor
+7601.6s - 7603.7s:  on potential
+7605.7s - 7607.1s:  change of modality,
+7607.3s - 7609.4s:  change people's shifting to
+7609.4s - 7610.4s:  train travel,
+7610.7s - 7612.1s:  which is very
+7612.1s - 7613.1s:  convenient.
+7613.7s - 7616.1s:  And if it cuts down time,
+7616.6s - 7618.0s:  could be a competitor
+7618.0s - 7619.6s:  in the corridor proposed.
+7620.7s - 7622.3s:  So through the speaker, again, I'll reiterate,
+7622.4s - 7624.0s:  we have been focused on RISA compliance.
+7624.9s - 7625.9s:  So any of those matters,
+7626.1s - 7628.2s:  any of those thoughts, as it
+7628.2s - 7629.4s:  relates to the airport,
+7630.0s - 7631.7s:  have not been part of our conversations
+7631.7s - 7632.9s:  nor part of analysis.
+7633.1s - 7635.1s:  Right, because what's before us is actually
+7635.5s - 7637.7s:  just the safety requirements.
+7638.5s - 7639.8s:  So the
+7639.8s - 7641.4s:  final question is,
+7641.7s - 7643.5s:  we've heard from a few people say
+7643.5s - 7645.3s:  it's just because staff
+7645.3s - 7647.2s:  prefer, staff want.
+7647.8s - 7649.3s:  Can you comment on
+7649.3s - 7651.6s:  the obligations that you have
+7651.6s - 7653.5s:  that direct, in general,
+7653.8s - 7654.8s:  staff analysis
+7655.5s - 7657.4s:  when they bring stuff before this council?
+7658.0s - 7659.3s:  That was your last question?
+7659.3s - 7661.1s:  So through the speaker,
+7662.3s - 7663.3s:  our goal is
+7663.3s - 7665.4s:  to bring you good advice about how we can comply,
+7665.5s - 7668.4s:  particularly when we've received information such as
+7668.4s - 7669.6s:  the need
+7669.6s - 7671.5s:  to address safety
+7671.5s - 7672.1s:  concerns.
+7673.2s - 7675.3s:  We are a signatory, we're part of a group
+7675.3s - 7677.5s:  of people that have agreed to manage
+7677.5s - 7679.3s:  the future of the airport
+7679.3s - 7681.7s:  well. We take that seriously.
+7682.1s - 7683.8s:  The challenge for us is
+7683.8s - 7685.5s:  that some elements
+7685.5s - 7688.1s:  of this delve into
+7688.1s - 7690.3s:  the second part that we want to get into
+7690.3s - 7692.1s:  and we want to have, it's not easy.
+7692.5s - 7694.6s:  It would be much easier if this conversation
+7694.6s - 7696.2s:  was at another time because it would
+7696.2s - 7698.4s:  manage itself. Not for a minute
+7698.4s - 7700.2s:  are we suggesting that Ports Toronto is
+7700.2s - 7702.4s:  not providing good information about their challenges
+7702.4s - 7704.4s:  from a financing perspective. They are.
+7704.8s - 7706.2s:  The challenge for us is, where
+7706.2s - 7708.2s:  do we go in terms of what we bring forward
+7708.2s - 7710.4s:  to you as our governing body?
+7710.9s - 7712.2s:  It is before you. We
+7712.2s - 7714.0s:  can, we can
+7714.0s - 7716.1s:  allow for an extension, as
+7716.1s - 7718.1s:  requested and as discussed.
+7718.6s - 7720.3s:  That is something that can happen as an
+7720.3s - 7721.6s:  extension of our recommendations.
+7722.2s - 7724.3s:  We feel there are options that could be
+7724.3s - 7726.0s:  explored. However, if Ports Toronto
+7726.0s - 7728.1s:  wishes to pursue some of the other
+7728.1s - 7729.6s:  options that are in the report,
+7730.7s - 7732.1s:  there would be
+7732.1s - 7734.1s:  limited ability for
+7734.1s - 7736.4s:  other alternatives. The larger the value
+7736.4s - 7738.2s:  gets, it really needs to be amortized
+7738.2s - 7739.8s:  over a long period of time.
+7743.0s - 7743.9s:  Thank you.
+7744.7s - 7745.9s:  Okay, before we go
+7745.9s - 7748.0s:  to the next question, I would
+7748.0s - 7749.7s:  at this time,
+7749.9s - 7751.9s:  members, please join me in
+7751.9s - 7753.6s:  welcoming the Honorable J.
+7754.2s - 7756.0s:  David Wake, Contemporary Commissioner
+7756.0s - 7757.9s:  of Ontario, to the
+7757.9s - 7760.1s:  Council Chamber. Commissioner Wake has
+7760.1s - 7761.9s:  joined us today to observe some
+7761.9s - 7763.8s:  of our proceedings. Welcome.
+7772.0s - 7773.7s:  You've picked the right day to be here.
+7777.4s - 7778.2s:  Okay, welcome.
+7778.4s - 7779.8s:  Thank you.
+7782.0s - 7782.7s:  Councillor
+7783.9s - 7785.9s:  Cheng, questions?
+7786.6s - 7788.7s:  Thank you, Madam Speaker.
+7789.6s - 7790.1s:  I'm just wondering,
+7790.4s - 7791.8s:  how long have we known about the
+7791.8s - 7794.2s:  July 12, 2027 deadline?
+7798.9s - 7799.6s:  Through the Speaker,
+7799.9s - 7801.5s:  that was confirmed
+7801.5s - 7803.2s:  this year, and
+7803.2s - 7805.8s:  it relates to
+7805.8s - 7807.4s:  some statistical analysis
+7807.4s - 7809.3s:  done by
+7809.3s - 7811.4s:  Stats Canada to confirm that the
+7811.4s - 7812.8s:  airport has operated
+7813.5s - 7815.7s:  with 325,000 passengers
+7815.7s - 7817.4s:  for two full years.
+7817.7s - 7819.9s:  So the deadline is
+7820.3s - 7822.0s:  related to the capacity
+7822.0s - 7822.7s:  of the airport?
+7824.0s - 7826.0s:  Through the Speaker, it's related
+7826.0s - 7827.6s:  through the number of flights
+7827.6s - 7829.5s:  in an airport
+7829.5s - 7831.4s:  over a two-year period.
+7832.2s - 7833.7s:  And if it's
+7834.4s - 7835.8s:  a large number of flights, so
+7835.8s - 7837.4s:  325,000 a year,
+7837.9s - 7839.4s:  then the RISA requirements
+7839.4s - 7841.2s:  must be complied with.
+7841.8s - 7843.9s:  Given that there's been a very
+7843.9s - 7846.4s:  short runway to this,
+7846.4s - 7848.2s:  big investment,
+7849.2s - 7850.4s:  is there any opportunity
+7850.4s - 7852.8s:  to request an extension of the deadline
+7852.8s - 7854.2s:  to buy us some time
+7854.2s - 7856.6s:  to work through a more
+7856.6s - 7858.2s:  effective process
+7858.2s - 7860.2s:  in negotiating a tripartite
+7860.2s - 7860.9s:  agreement?
+7862.2s - 7864.6s:  Through the Speaker, we have asked
+7864.6s - 7866.3s:  this question of Transport Canada.
+7866.8s - 7868.4s:  Ports Toronto has asked this question
+7868.4s - 7870.3s:  of Transport Canada.
+7871.1s - 7872.4s:  And for safety reasons,
+7872.6s - 7874.8s:  Transport Canada is
+7874.8s - 7876.9s:  concerned in saying that the deadline
+7876.9s - 7878.9s:  is not something
+7878.9s - 7880.1s:  that is flexible.
+7880.5s - 7882.4s:  The airport operates safely right now,
+7882.4s - 7884.8s:  but this new
+7888.2s - 7888.9s:  regulation
+7888.9s - 7890.9s:  is coming in and it must be complied with
+7890.9s - 7892.6s:  as other airports in Canada
+7892.6s - 7893.5s:  have complied.
+7894.0s - 7896.7s:  So really the best fix for this
+7897.9s - 7899.1s:  quandary that we find
+7899.1s - 7900.8s:  ourselves in would be
+7900.8s - 7902.8s:  to be able to get an extension
+7902.8s - 7905.3s:  in order to go through
+7905.3s - 7907.8s:  a fair process in a tripartite
+7907.8s - 7908.4s:  extension.
+7910.8s - 7912.7s:  Through the Speaker, I just don't think
+7912.7s - 7914.9s:  that that scenario is realistic given
+7914.9s - 7916.7s:  Transport Canada's
+7917.5s - 7918.4s:  view on safety
+7918.4s - 7920.7s:  and the extent to which
+7920.7s - 7922.5s:  its operators, airport operators,
+7922.8s - 7924.6s:  must comply with the safety
+7924.6s - 7925.1s:  requirement.
+7925.9s - 7928.8s:  Can option one be designed with
+7928.8s - 7930.8s:  rough-in components for option
+7930.8s - 7932.3s:  three additional elements
+7932.3s - 7934.6s:  to reduce the cost of
+7934.6s - 7936.1s:  adding it later
+7936.1s - 7938.3s:  if they don't
+7938.3s - 7940.2s:  rough some of those components in?
+7940.4s - 7941.5s:  Is that an option?
+7942.4s - 7943.5s:  Through the Speaker,
+7944.3s - 7946.3s:  the staff view is that options two and three
+7946.3s - 7947.9s:  are incremental to option one,
+7948.3s - 7950.2s:  so option one
+7950.2s - 7951.5s:  can be implemented now
+7951.5s - 7954.1s:  and the additional components can be built
+7954.1s - 7955.0s:  at a future date.
+7955.5s - 7958.0s:  We do not have information on the incremental
+7958.0s - 7959.9s:  cost of adding these
+7959.9s - 7961.0s:  additional pieces.
+7961.0s - 7963.2s:  There would be demobilization
+7963.9s - 7965.3s:  and remobilization costs.
+7965.4s - 7967.0s:  There would be escalation,
+7967.8s - 7968.8s:  et cetera.
+7968.9s - 7970.5s:  But we have not
+7970.5s - 7973.1s:  had information on this, nor
+7973.1s - 7974.2s:  has Ports Toronto
+7974.9s - 7976.6s:  really had time to consider
+7976.6s - 7977.4s:  that.
+7978.1s - 7981.1s:  What type of assurance is a city able to offer
+7981.1s - 7982.9s:  to help with the financing
+7982.9s - 7984.9s:  issues that Ports Toronto
+7984.9s - 7985.5s:  is facing?
+7987.6s - 7989.7s:  What would help them
+7989.7s - 7991.8s:  get the financial support
+7991.8s - 7992.6s:  that they need?
+7993.0s - 7994.9s:  We'll get the City Manager to answer.
+7995.2s - 7997.1s:  Through the Speaker, to date
+7997.7s - 7999.4s:  we've not had conversations about
+7999.4s - 8000.6s:  alternative pieces.
+8002.0s - 8003.8s:  Ports Toronto continues to
+8003.8s - 8005.6s:  put forward what their approach would be
+8005.6s - 8007.3s:  for the option three piece,
+8007.3s - 8008.6s:  which is over $200 million,
+8009.0s - 8011.6s:  and how they would finance that through an extension.
+8013.1s - 8013.8s:  What is
+8013.8s - 8015.3s:  the time of
+8016.1s - 8017.8s:  amortization of option
+8017.8s - 8019.8s:  one? Do we have any idea
+8019.8s - 8021.9s:  of that amount of money?
+8022.4s - 8023.8s:  How many years would it take
+8023.8s - 8025.9s:  for them to
+8025.9s - 8027.3s:  amortize those costs?
+8033.6s - 8034.9s:  Through the Speaker, it would depend on
+8034.9s - 8036.8s:  repayment terms. I wouldn't want to speculate
+8036.8s - 8037.9s:  and give a time frame.
+8041.3s - 8043.0s:  This is the last question
+8043.0s - 8044.1s:  I have.
+8045.9s - 8047.5s:  Maybe, I don't know who can
+8047.5s - 8049.3s:  answer this, but what
+8049.3s - 8051.6s:  role does Billy Bishop play
+8051.6s - 8053.7s:  in Toronto's tourism and economy?
+8053.7s - 8055.7s:  Is it nice to have
+8055.7s - 8057.6s:  or does it play a critical role?
+8057.8s - 8059.7s:  Is there anyone who has insight
+8059.7s - 8061.8s:  on its current role in
+8061.8s - 8063.1s:  our city at large?
+8066.6s - 8068.2s:  Through the Speaker, I'll start
+8068.2s - 8070.0s:  and then I'll ask Pat Tobin to provide
+8070.0s - 8071.6s:  just a little bit of context.
+8072.5s - 8073.6s:  There are numerous reports,
+8074.0s - 8075.8s:  and it has been reported
+8075.8s - 8078.1s:  regularly, the impact that the airport has
+8078.1s - 8080.1s:  in many positive ways
+8080.1s - 8082.1s:  for the community. It's not
+8082.1s - 8084.1s:  the subject of this report, and this has come
+8084.1s - 8085.4s:  to a stop, so that's why I wanted to begin
+8086.0s - 8087.4s:  the answer for you, Councillor,
+8087.6s - 8090.0s:  is this was not that kind of report.
+8090.3s - 8092.1s:  So the absence of that type
+8092.1s - 8093.6s:  of data and information
+8095.1s - 8096.1s:  means nothing
+8096.1s - 8098.0s:  other than we're focused on the compliance
+8098.0s - 8100.0s:  with RISA. But Pat, I know there's been
+8100.0s - 8102.0s:  a number of reports written
+8102.0s - 8104.1s:  and generated around particularly the tourism
+8104.1s - 8105.1s:  element of it.
+8105.8s - 8107.3s:  Through the Speaker to you, Councillor Chang,
+8107.8s - 8108.8s:  the City Manager is correct.
+8109.6s - 8112.1s:  Toronto receives 26.5
+8113.4s - 8114.5s:  million visitors
+8114.5s - 8116.4s:  last year, and it accounted for
+8116.4s - 8118.2s:  some $8.4 billion
+8118.2s - 8120.1s:  in spending. Two million
+8120.1s - 8122.5s:  passengers came through Billy Bishop
+8122.5s - 8124.1s:  during that time, 2023
+8124.1s - 8126.6s:  as well, and roughly half
+8126.6s - 8128.0s:  of those are leisure travelers.
+8128.4s - 8129.8s:  It's a growing segment.
+8130.3s - 8132.4s:  As my colleague noted, they still continue
+8132.4s - 8134.2s:  to strive to reach pre-pandemic
+8134.2s - 8136.3s:  levels, which in 2019
+8136.3s - 8138.3s:  were 2.8 million, and they
+8138.3s - 8140.7s:  are now at 2 million. But
+8140.7s - 8142.8s:  Billy Bishop is a critical asset for the really
+8142.8s - 8144.1s:  important tourism industry in Toronto.
+8144.8s - 8146.1s:  Thank you.
+8149.8s - 8151.4s:  Councillor Ainslie, questions?
+8152.0s - 8153.3s:  Thank you, through you, Madam Speaker.
+8154.2s - 8156.0s:  So not to beat a dead horse, but I'm
+8156.0s - 8158.0s:  still trying to understand the financing
+8158.0s - 8160.2s:  in the slide deck. I'm trying to
+8160.2s - 8162.1s:  understand. So we're looking
+8162.1s - 8164.2s:  at three options. Safety seems to be
+8164.2s - 8166.4s:  a big concern. My understanding
+8166.4s - 8168.2s:  is we're not loaning the federal
+8168.2s - 8170.1s:  government any money, but each
+8170.1s - 8172.1s:  of the options in the slide deck comes with
+8173.8s - 8175.1s:  a cost, but it's not
+8175.1s - 8176.9s:  a cost to us. So I'm
+8176.9s - 8178.6s:  wondering, and why is that
+8178.6s - 8184.4s:  in this? Through you, Madam
+8184.4s - 8186.5s:  Speaker, each of the different options have a different
+8186.5s - 8188.5s:  cost, and associated with that different cost
+8188.5s - 8190.4s:  is the terms that you would require
+8190.4s - 8192.5s:  to make repayment. So at
+8192.5s - 8194.6s:  a lower cost value, feasibly
+8194.6s - 8196.6s:  you could look at a repayment within the existing
+8196.6s - 8197.7s:  agreement timelines,
+8198.9s - 8200.7s:  depending on what the terms are, what the repayment
+8200.7s - 8202.6s:  amounts would be, the initial
+8203.1s - 8204.6s:  investments that would be made outside
+8204.6s - 8206.8s:  of financing versus a larger
+8206.8s - 8208.7s:  cost would require a longer
+8208.7s - 8210.6s:  period of time to repay, which would be
+8210.6s - 8212.0s:  outside of the existing agreement.
+8212.8s - 8214.7s:  Yeah, and so I guess I'm trying
+8214.7s - 8217.4s:  to understand. Mr. Conforti is, like,
+8217.6s - 8218.6s:  not to be facetious, but
+8218.6s - 8220.6s:  why do we care about that? Like, it's the federal
+8220.6s - 8222.8s:  government going out, getting the
+8222.8s - 8223.7s:  loans, or they,
+8224.9s - 8227.1s:  financing. We're not doing any of the financing.
+8227.6s - 8229.0s:  So why is that
+8229.0s - 8230.9s:  relevant to us today? Through you,
+8230.9s - 8232.6s:  Madam Speaker, the ability to secure
+8232.6s - 8234.7s:  financing through financial institutions
+8234.7s - 8236.7s:  would have a set term tied to it.
+8236.7s - 8238.9s:  If that set term extends beyond
+8238.9s - 8241.0s:  the existing agreement, there would be challenges
+8241.0s - 8242.7s:  in being able to secure that
+8242.7s - 8243.8s:  financing to do the work.
+8248.2s - 8249.7s:  So option one, two,
+8249.7s - 8251.6s:  or three, depending on which option
+8251.6s - 8253.1s:  we think they should be doing,
+8253.5s - 8255.6s:  is going to make it easier for them to get long-term
+8255.6s - 8256.1s:  financing?
+8257.5s - 8259.5s:  The different options, given
+8259.5s - 8261.5s:  that each of them come with different costs, would have
+8261.5s - 8263.6s:  different financing requirements and term
+8263.6s - 8265.7s:  requirements associated with that financing.
+8266.2s - 8267.6s:  Yep. But I get all that, but
+8267.6s - 8269.3s:  why is it relevant to us?
+8271.3s - 8272.2s:  So what would be
+8272.2s - 8274.1s:  relevant to us would be the ability
+8274.1s - 8276.1s:  to carry out the work
+8276.1s - 8278.2s:  that's required to meet the safety requirements.
+8278.5s - 8280.2s:  And considering that against
+8280.2s - 8283.0s:  other considerations that may need to be had
+8283.0s - 8284.3s:  specific to the existing
+8284.3s - 8290.0s:  agreement. Okay.
+8290.4s - 8292.2s:  Alright. Through
+8292.2s - 8294.2s:  the Speaker, I'll add that
+8294.9s - 8296.0s:  you know,
+8297.2s - 8298.4s:  the achievement
+8298.4s - 8300.1s:  of RISA compliance, which requires
+8300.1s - 8302.1s:  the financing, is
+8302.1s - 8304.0s:  the key to
+8304.6s - 8306.4s:  the airport continuing to operate.
+8306.7s - 8308.1s:  Yep. And I understand all that.
+8308.4s - 8310.1s:  We have three options that we're being
+8310.1s - 8311.7s:  looked at to consider.
+8312.1s - 8314.0s:  But we keep talking about the financing
+8314.0s - 8316.4s:  of each one, although the financing
+8316.4s - 8317.5s:  isn't relevant.
+8317.9s - 8320.3s:  Anything that we're doing, we're not loaning
+8320.3s - 8322.1s:  the federal government reports, Toronto
+8322.1s - 8324.3s:  money. We're not involved
+8324.3s - 8326.4s:  in the financing, so I don't understand
+8326.4s - 8328.1s:  why it keeps coming up.
+8330.3s - 8331.9s:  So I don't need an answer.
+8332.7s - 8333.9s:  It's okay. So my
+8333.9s - 8335.9s:  next question, I'm trying to understand the
+8336.4s - 8338.0s:  public consultation process.
+8338.4s - 8340.0s:  So I'll use my ward as
+8340.0s - 8341.6s:  an example in eastern Toronto,
+8342.0s - 8344.0s:  southeastern Toronto. So there was
+8344.0s - 8345.3s:  an online survey,
+8345.7s - 8347.8s:  Ports Toronto did two
+8347.8s - 8349.4s:  public consultation meetings,
+8349.8s - 8352.1s:  I understand, and then the only
+8352.1s - 8354.1s:  one that the City of Toronto did,
+8354.1s - 8356.6s:  and at the tail end of the period,
+8357.4s - 8358.5s:  was in downtown
+8358.5s - 8360.4s:  Toronto. So I'm trying to understand
+8360.4s - 8362.0s:  why we only did one meeting
+8362.0s - 8364.3s:  at the tail end of the consultation.
+8365.6s - 8366.3s:  And so for
+8366.3s - 8367.5s:  residents in Scarborough,
+8368.1s - 8370.4s:  if they didn't do the online survey, they were expected
+8370.4s - 8372.2s:  to go to the Anarchare Centre
+8372.2s - 8374.1s:  somehow. I don't understand why
+8374.1s - 8376.1s:  we wouldn't have had more consultations
+8376.9s - 8377.9s:  across Toronto.
+8378.6s - 8380.1s:  If this is like a city-wide
+8380.1s - 8381.1s:  used airport.
+8381.3s - 8383.3s:  So through the
+8384.6s - 8385.0s:  speaker,
+8386.1s - 8387.4s:  the consultation
+8387.4s - 8389.4s:  and engagement that was done by
+8389.4s - 8391.4s:  Ports Toronto, that is being done by Ports Toronto,
+8392.6s - 8393.4s:  is
+8393.4s - 8395.2s:  essential because it is the project
+8395.2s - 8397.3s:  proponent. And as the
+8397.3s - 8399.8s:  project proponent, as the
+8399.8s - 8401.2s:  manager of an EA process,
+8402.1s - 8403.5s:  it is
+8403.5s - 8405.2s:  required to do
+8405.2s - 8406.2s:  public engagement.
+8408.6s - 8409.3s:  The
+8409.3s - 8410.6s:  meeting that we had
+8411.2s - 8413.3s:  and the survey that we organized
+8413.3s - 8414.7s:  was about
+8415.3s - 8416.9s:  providing an outlet,
+8417.0s - 8419.3s:  one outlet, for
+8419.3s - 8421.4s:  public feedback, stakeholder feedback
+8421.4s - 8423.2s:  to inform the report
+8423.2s - 8424.4s:  that is before you today.
+8425.3s - 8427.5s:  In terms of the go-forward,
+8427.6s - 8429.1s:  the framework report
+8429.1s - 8431.5s:  that we'll come back with next year, we'll talk about
+8431.5s - 8433.4s:  process, stakeholder
+8433.4s - 8435.3s:  and public engagement objectives.
+8436.4s - 8437.3s:  Staff would see
+8437.3s - 8439.8s:  this as a city-wide issue and we would
+8439.8s - 8440.9s:  want to cover
+8440.9s - 8443.2s:  more geography than just
+8443.2s - 8444.9s:  what was covered this year.
+8445.4s - 8447.5s:  Similar to what was done in 2014
+8447.5s - 8449.8s:  or in the lead-up to 2014
+8449.8s - 8451.6s:  associated with the
+8451.6s - 8452.3s:  Porter proposal.
+8453.9s - 8455.2s:  Thank you.
+8461.4s - 8463.0s:  Councillor Crisanti, questions?
+8464.4s - 8465.0s:  Yes, speaker.
+8465.2s - 8466.0s:  Thank you.
+8467.2s - 8469.1s:  So at the risk of belaboring
+8469.1s - 8470.9s:  the question that Councillor Ainslie
+8470.9s - 8472.9s:  asked about the
+8472.9s - 8474.8s:  financing and so on, I think
+8474.8s - 8476.5s:  we still need a little bit more clarification.
+8476.7s - 8478.4s:  I'm going to go back to a comment I heard
+8478.4s - 8480.8s:  from the city manager maybe
+8480.8s - 8482.6s:  10 minutes ago when
+8482.6s - 8485.0s:  I believe you said that
+8485.0s - 8487.0s:  whichever option is chosen
+8487.0s - 8488.8s:  that it's going to have to be amortized
+8488.8s - 8490.6s:  over a long period of time.
+8493.8s - 8494.8s:  So again,
+8494.8s - 8497.0s:  I want to just clarify, at the risk of
+8497.8s - 8498.8s:  also sounding
+8498.8s - 8501.1s:  like the commercial on TV, who's paying
+8501.1s - 8503.9s:  for this? So maybe
+8503.9s - 8506.0s:  you could just pick up on the amortization
+8506.4s - 8506.7s:  part.
+8508.2s - 8511.1s:  So through the speaker, of course Toronto will be
+8511.1s - 8512.7s:  responsible for the financing
+8512.7s - 8514.9s:  of this. This is not a city
+8514.9s - 8516.5s:  approach and
+8516.5s - 8518.5s:  my comments were about some of the
+8518.5s - 8520.9s:  more costly
+8520.9s - 8522.2s:  options that are outlined.
+8522.4s - 8524.6s:  It would require a much longer amortization.
+8524.7s - 8526.5s:  If you're talking about a 200 million plus
+8526.5s - 8528.8s:  project, there's
+8528.8s - 8530.9s:  no pathway that myself or the
+8530.9s - 8532.8s:  CFO could see that that would fit into a
+8532.8s - 8533.8s:  shorter time frame.
+8534.7s - 8536.8s:  So the taxpayer doesn't
+8536.8s - 8539.0s:  touch this. This is all ports
+8539.0s - 8540.3s:  and finance through them.
+8541.0s - 8543.0s:  And again, it's been made clear in the report
+8543.0s - 8544.8s:  and also in the presentation.
+8544.9s - 8546.4s:  These are concept designs.
+8547.4s - 8548.6s:  So I think
+8548.6s - 8550.8s:  the likelihood of the
+8551.5s - 8552.9s:  $61 million to the
+8553.8s - 8554.9s:  $175 million
+8554.9s - 8557.3s:  option, that can likely
+8557.3s - 8559.1s:  increase by, you know,
+8559.5s - 8561.1s:  20, 30, 40 percent.
+8561.3s - 8563.3s:  The cost could be even more
+8564.0s - 8565.3s:  when we're ready
+8565.3s - 8566.6s:  to put shovel in the ground.
+8568.0s - 8569.3s:  Through the speaker, it's
+8569.3s - 8571.4s:  not uncommon for class D estimates
+8571.4s - 8573.5s:  to go
+8573.5s - 8575.4s:  up as we get the detailed designs.
+8575.5s - 8577.7s:  Not we, but as the proponent we get the detailed
+8577.7s - 8579.3s:  designs. Thank you.
+8580.6s - 8581.5s:  What is
+8581.5s - 8583.6s:  Port's preferred approach at
+8583.6s - 8585.8s:  this point? Do we have that clear?
+8587.5s - 8588.6s:  Through the speaker,
+8588.6s - 8590.4s:  they've indicated the option three.
+8591.3s - 8592.4s:  The full
+8592.4s - 8594.2s:  option three
+8594.2s - 8596.5s:  was what the request was, and that
+8596.5s - 8598.5s:  coincided with the request for the extension
+8598.5s - 8600.1s:  term within the
+8600.1s - 8602.4s:  tripartite agreement. And does it make sense?
+8602.6s - 8604.3s:  I looked at option three, and
+8604.3s - 8606.4s:  personally I really like it. There's some
+8606.4s - 8607.1s:  great
+8608.4s - 8610.3s:  additional amenities, if you want to call it
+8610.3s - 8612.3s:  that, that are necessary, and that I think
+8612.3s - 8613.8s:  the public would really embrace.
+8613.8s - 8616.2s:  And when you do this kind of a
+8616.2s - 8618.2s:  project and you're in the planning stage,
+8619.6s - 8620.2s:  you know,
+8620.4s - 8622.1s:  once you're into it, you're
+8622.1s - 8624.4s:  best to roll everything out at one time.
+8625.0s - 8626.1s:  If we piecemeal
+8626.1s - 8628.4s:  it, the cost will continue to escalate
+8628.4s - 8630.0s:  over time. Is there
+8630.0s - 8632.0s:  no possibility of seriously
+8632.0s - 8634.0s:  looking at Resa 3
+8634.0s - 8636.1s:  and also
+8636.1s - 8638.2s:  having some wording to the effect that
+8638.2s - 8640.0s:  we know this airport and
+8640.0s - 8642.0s:  how it serves Torontonians and the
+8642.0s - 8644.2s:  CTA, and words to the effect that
+8644.2s - 8646.2s:  yeah, the lease
+8646.2s - 8648.3s:  will be extended. Of course
+8648.3s - 8650.2s:  the terms and conditions have to be
+8650.2s - 8652.1s:  discussed and debated at a different
+8652.1s - 8654.1s:  meeting, but we could have wording
+8654.1s - 8656.2s:  to the effect that that is something
+8656.2s - 8658.0s:  that we would agree to.
+8658.9s - 8660.0s:  So through the speaker,
+8660.5s - 8662.1s:  if council wishes to provide additional
+8662.1s - 8664.1s:  instruction to staff to
+8664.1s - 8666.1s:  negotiate an extension to the lease term,
+8666.5s - 8668.0s:  great. That would then
+8668.6s - 8670.3s:  not be open for
+8670.3s - 8672.5s:  re-discussion as part of a larger
+8673.2s - 8674.3s:  set of discussions.
+8674.5s - 8676.3s:  That part of it would not be part of
+8676.3s - 8678.0s:  our tripartite agreement discussion.
+8678.1s - 8680.1s:  So the term would be set and we'd be
+8680.1s - 8681.8s:  looking at other things within the
+8681.8s - 8683.6s:  tripartite agreement, of which there's lots
+8683.6s - 8685.2s:  that we would then do through the
+8685.2s - 8687.3s:  longer process. But just to be clear,
+8687.4s - 8689.4s:  there would be no ability to go back
+8689.4s - 8691.4s:  on the term because that would then
+8691.4s - 8693.1s:  coincide with the financing options.
+8693.5s - 8695.9s:  It sounds like we're digging our heels on
+8695.9s - 8696.9s:  option one.
+8696.9s - 8699.0s:  And why is it that we're
+8699.0s - 8700.9s:  doing that? Why not leave those
+8700.9s - 8702.7s:  options to them? They're
+8702.7s - 8704.8s:  running it. They've made
+8704.8s - 8706.9s:  some, you know, they've provided two
+8706.9s - 8708.9s:  other sensible options. Option
+8708.9s - 8710.9s:  three being, from what I see, the
+8710.9s - 8712.9s:  most sensible because it deals
+8712.9s - 8714.8s:  with other necessary things that need
+8714.8s - 8716.9s:  to happen roughly in and around the
+8716.9s - 8718.3s:  same time. Sound barriers,
+8719.1s - 8721.3s:  underground utilities, and
+8721.3s - 8723.1s:  so on. Why not
+8723.1s - 8724.8s:  give them the flexibility, let them
+8724.8s - 8726.8s:  operate in the way they need to, when they go for
+8726.8s - 8728.8s:  financing, go for everything they
+8728.8s - 8730.8s:  need, and we support it along the
+8730.8s - 8732.8s:  way. And the three partners would support
+8732.8s - 8734.8s:  it along the way. So through the
+8734.8s - 8736.8s:  speaker, our recommendations are based
+8736.8s - 8738.7s:  on where we feel least risk, given
+8738.7s - 8741.0s:  the time frame exists. And as
+8741.0s - 8742.9s:  has been mentioned by our chief
+8742.9s - 8744.6s:  planner, there are additional processes,
+8744.6s - 8746.7s:  we believe, for options two and three from
+8746.7s - 8748.5s:  a planning perspective. That adds time.
+8749.1s - 8750.8s:  The second piece is because we're not
+8750.8s - 8752.8s:  recommending an extension of the lease agreement
+8752.8s - 8755.2s:  because we think the council really needs to give us direction
+8755.2s - 8756.6s:  on the extension of the
+8756.6s - 8758.7s:  tripartite agreement. We also
+8758.7s - 8760.7s:  wanted to say that we believe
+8760.7s - 8762.5s:  there is an option that can work
+8762.5s - 8764.9s:  without the extension and still have
+8764.9s - 8766.4s:  full compliance with the safety
+8766.4s - 8768.1s:  requirements. Thank you, speaker.
+8768.6s - 8776.5s:  Thank you. Councillor Sacks,
+8776.6s - 8777.3s:  questions?
+8778.5s - 8779.7s:  Thank you, Madam Speaker.
+8781.2s - 8782.4s:  For the city
+8782.4s - 8784.2s:  manager, does recommendation
+8784.2s - 8786.2s:  three, in your view,
+8786.2s - 8788.5s:  imply approval today
+8788.5s - 8790.2s:  for extending the operation of the airport
+8790.2s - 8791.6s:  after 2033?
+8793.6s - 8795.7s:  So through the speaker,
+8797.7s - 8798.8s:  it simply
+8798.8s - 8800.6s:  says that we need to talk
+8800.6s - 8802.6s:  about the
+8803.9s - 8804.5s:  tripartite
+8804.5s - 8806.2s:  agreement. And so
+8806.2s - 8808.6s:  all of those discussions would
+8808.6s - 8810.4s:  come back here. And so if there
+8810.4s - 8812.0s:  is, if
+8812.8s - 8814.7s:  the conclusion of those
+8814.7s - 8816.6s:  discussions was not to the satisfaction
+8816.6s - 8818.8s:  of council, that would lead us to a different
+8818.8s - 8820.7s:  discussion. But we would be entering into
+8820.7s - 8822.6s:  it to look at how we would
+8822.6s - 8824.6s:  modernize and extend the tripartite
+8824.6s - 8826.5s:  agreement. Okay. But my question
+8826.5s - 8828.9s:  is, does the current recommendation
+8832.1s - 8832.7s:  imply,
+8833.6s - 8834.4s:  give the airport
+8834.4s - 8836.8s:  comfort, that we will
+8836.8s - 8838.5s:  allow them to operate after
+8838.5s - 8840.6s:  2033? Is that
+8840.6s - 8842.8s:  in the existing recommendation or
+8842.8s - 8844.6s:  not? Through the speaker,
+8844.6s - 8846.3s:  that would be our premise
+8846.3s - 8848.3s:  going into those negotiations,
+8848.9s - 8850.1s:  yes. Okay.
+8850.4s - 8852.5s:  So in your view, recommendation three
+8852.5s - 8854.3s:  does imply that
+8854.3s - 8856.3s:  we will, assuming we can
+8856.3s - 8858.2s:  reach an agreement, allow
+8858.2s - 8860.5s:  the airport to operate after 2033?
+8861.1s - 8862.0s:  Through the speaker, correct.
+8862.4s - 8864.4s:  And in your
+8864.4s - 8866.4s:  view, have we consulted
+8866.4s - 8868.3s:  the public on that question?
+8870.6s - 8871.1s:  Through the
+8871.1s - 8871.7s:  speaker,
+8873.6s - 8875.6s:  not in the immediate term, no.
+8875.6s - 8877.9s:  I think, and I'm
+8877.9s - 8879.7s:  careful here because I don't have the full history,
+8879.8s - 8881.6s:  but I think over the course of history, those
+8881.6s - 8883.6s:  questions have been asked, but we have not
+8883.6s - 8885.6s:  asked any of those questions because this
+8885.6s - 8887.9s:  has been simply about complying with a safety
+8887.9s - 8889.7s:  standard. In the
+8889.7s - 8891.7s:  absence of the requirement to comply with
+8891.7s - 8893.7s:  this, would this
+8893.7s - 8895.7s:  discussion even be happening at this stage? I don't
+8895.7s - 8897.7s:  know. Right. So
+8897.7s - 8899.7s:  we haven't consulted the public
+8899.7s - 8901.4s:  explicitly on it.
+8901.4s - 8903.7s:  And we haven't consulted the public explicitly
+8903.7s - 8906.1s:  on what types
+8907.0s - 8908.2s:  of aviation
+8908.2s - 8910.2s:  we should allow at this location,
+8910.4s - 8911.7s:  correct? We haven't discussed
+8911.7s - 8914.1s:  whether we should allow billionaire private planes.
+8914.1s - 8916.2s:  We haven't discussed the
+8916.2s - 8918.2s:  types of choices that could be held.
+8918.4s - 8919.9s:  We haven't had that conversation yet.
+8920.2s - 8921.3s:  Through the speaker, no, we have not.
+8921.8s - 8923.9s:  And in particular, the agreement
+8923.9s - 8925.8s:  right now calls for this to be a general
+8925.8s - 8927.2s:  aviation airport,
+8928.1s - 8929.3s:  private planes,
+8929.9s - 8931.8s:  plus some limited commercial.
+8931.8s - 8933.8s:  We haven't discussed with the public whether
+8933.8s - 8935.9s:  we want to have continuing
+8935.9s - 8938.1s:  private planes at this airport
+8938.1s - 8939.7s:  burning leaded gas, right?
+8940.4s - 8942.0s:  Through the speaker, no, those
+8942.0s - 8943.9s:  would be the kinds of conversations that would
+8943.9s - 8945.7s:  happen. Right. But right now,
+8945.7s - 8948.0s:  the private planes at this location
+8948.0s - 8949.7s:  are burning
+8949.7s - 8951.3s:  leaded fuel,
+8952.2s - 8954.1s:  lead being a neurotoxin with lifelong
+8954.1s - 8955.9s:  impacts on the health of people exposed to
+8955.9s - 8958.5s:  it, right? Through the
+8958.5s - 8960.4s:  speaker, that is my understanding.
+8962.0s - 8962.8s:  And lead
+8962.8s - 8964.9s:  is an element. It never disappears.
+8965.0s - 8966.7s:  It doesn't just
+8966.7s - 8968.4s:  damage the people it falls on.
+8968.6s - 8970.6s:  It damages people who are exposed to it
+8970.6s - 8972.5s:  year after year after year, correct?
+8973.3s - 8974.4s:  Through the speaker, correct.
+8974.4s - 8976.3s:  And one of the real principles
+8976.3s - 8978.5s:  that we would enter into this conversation is the
+8978.5s - 8980.7s:  environmental concerns in the broadest
+8980.7s - 8982.6s:  sense of the environmental concerns for the airport
+8982.6s - 8984.5s:  for sure. Right. And that includes the air
+8984.5s - 8986.8s:  quality concerns, which have been well
+8986.8s - 8988.6s:  documented and have serious,
+8988.6s - 8990.9s:  can have serious adverse effects on people.
+8991.8s - 8992.7s:  Through the speaker, correct.
+8993.0s - 8994.7s:  This would be a chance to modernize
+8994.7s - 8996.7s:  our agreement and really bring it in
+8996.7s - 8998.7s:  line with some of the other things that we're trying to accomplish
+8998.7s - 9001.0s:  as a city. Okay. So
+9001.0s - 9002.7s:  what would you have to
+9002.7s - 9004.6s:  do before you can bring to us
+9004.6s - 9006.5s:  an explicit recommendation
+9007.7s - 9008.6s:  on whether
+9008.6s - 9010.6s:  we should continue to have an airport
+9010.6s - 9011.6s:  on these lands?
+9012.4s - 9014.5s:  Through the speaker, we've recommended a
+9014.5s - 9016.6s:  two-phase approach to that. One is to bring you back
+9016.6s - 9018.6s:  the framework for the discussion, to talk about
+9018.6s - 9020.4s:  the areas that we will be exploring,
+9020.9s - 9022.6s:  both to do some technical analysis
+9022.6s - 9024.7s:  as you suggested in a couple of areas, and then
+9024.7s - 9027.0s:  the second piece is the time frame for the discussions
+9027.9s - 9028.9s:  with the parties
+9028.9s - 9030.6s:  that would be involved in it. So
+9030.6s - 9032.7s:  the first piece to come back is the framework
+9032.7s - 9034.7s:  for those discussions, and then we would enter
+9034.7s - 9036.7s:  into that process and bring back the
+9036.7s - 9038.8s:  results. Right. Mr. Johnson,
+9039.1s - 9040.9s:  doesn't that expose the airport,
+9041.0s - 9042.6s:  the airlines, the pilots,
+9043.4s - 9044.7s:  the residents, everyone
+9044.7s - 9046.8s:  who has to make long-term decisions
+9046.8s - 9049.1s:  to a prolonged period of uncertainty
+9049.8s - 9051.0s:  as to the future
+9051.0s - 9052.8s:  of the airport? Is it going to be airport? Is it
+9052.8s - 9054.7s:  going to be parks? Is it going to be something else?
+9056.2s - 9056.9s:  So through the speaker,
+9057.3s - 9059.2s:  I think I've answered what the premise entering into
+9059.2s - 9060.4s:  it is. So the
+9061.0s - 9063.0s:  is it a wide-open question? It's not a green field
+9063.0s - 9065.0s:  exercise. We're looking to modernize an agreement.
+9065.3s - 9067.1s:  The second piece is this is not something that
+9067.1s - 9068.8s:  needs to take years and years to complete.
+9069.1s - 9071.0s:  We can get on it and do this work
+9071.0s - 9073.3s:  in fairly short order. I do believe,
+9073.3s - 9075.5s:  however, though, it does require some analysis.
+9075.6s - 9077.3s:  It does require some due diligence. It does
+9077.3s - 9079.2s:  require some engagement, and
+9079.2s - 9081.3s:  that can't happen in days and weeks. It's going to
+9081.3s - 9082.7s:  take some months to make that happen.
+9083.3s - 9085.3s:  Thank you. That's it. That was your last
+9085.3s - 9089.9s:  question. Councillor
+9091.7s - 9092.2s:  Candoval.
+9092.6s - 9093.1s:  Questions.
+9094.0s - 9096.3s:  Thank you, Madam Speaker, and through you
+9096.3s - 9098.3s:  to pick up on
+9098.3s - 9100.3s:  some of the earlier questions about
+9100.3s - 9102.2s:  public consultation
+9102.2s - 9104.2s:  through you to staff.
+9106.0s - 9108.3s:  To start broadly, does this
+9108.3s - 9109.9s:  does staff view this issue
+9109.9s - 9111.2s:  as a city-wide issue?
+9112.5s - 9114.0s:  Through the speaker, yes.
+9114.7s - 9116.5s:  Thank you. My
+9116.5s - 9118.5s:  understanding is the notice for
+9118.5s - 9120.1s:  public consultation was
+9120.1s - 9122.5s:  issued eight days prior to the meeting.
+9122.6s - 9123.2s:  Is that correct?
+9125.0s - 9126.9s:  So through the speaker, sorry
+9126.9s - 9129.1s:  Councillor, I took your previous question to talk
+9129.1s - 9130.7s:  about engagement in the future.
+9131.2s - 9133.1s:  David will have to answer the question about the engagement
+9133.1s - 9134.0s:  we just went through.
+9134.0s - 9136.6s:  So through the speaker, yes,
+9136.6s - 9138.6s:  the notice was
+9138.6s - 9140.2s:  just eight days.
+9140.2s - 9142.1s:  That sounds right. Not ideal.
+9143.2s - 9144.5s:  Staff admit that.
+9144.9s - 9146.3s:  Not consistent with
+9147.1s - 9148.4s:  City of Toronto
+9148.4s - 9150.4s:  best practices in terms of stakeholder
+9150.4s - 9152.3s:  and community engagement. And I understand
+9152.3s - 9154.5s:  the location of the
+9154.5s - 9156.4s:  consultation was a challenge
+9156.4s - 9158.2s:  for folks who may not live
+9158.2s - 9160.4s:  in the vicinity.
+9161.9s - 9162.8s:  Was that
+9162.8s - 9164.0s:  were those challenges
+9164.7s - 9166.8s:  were staff aware that the location
+9166.8s - 9168.8s:  would pose
+9168.8s - 9170.3s:  a challenge to the
+9170.3s - 9172.3s:  residents from across the city?
+9174.2s - 9175.0s:  Through the speaker,
+9175.9s - 9177.5s:  we needed to find
+9177.5s - 9179.9s:  a room that was
+9179.9s - 9181.8s:  large enough and
+9181.8s - 9183.3s:  available and
+9183.3s - 9185.4s:  so that's where we ended up at
+9185.4s - 9186.3s:  Exhibition Place.
+9187.3s - 9189.8s:  I think in the future we would want to
+9189.8s - 9191.7s:  have meetings
+9191.7s - 9194.2s:  in other parts of the city and then also
+9194.2s - 9195.2s:  online. Fair enough.
+9196.1s - 9197.9s:  Was there any attempt made by staff
+9197.9s - 9199.8s:  to live stream the meeting for
+9199.8s - 9202.2s:  folks who would be unavailable
+9202.2s - 9204.1s:  or unable to attend
+9204.1s - 9204.7s:  in person?
+9206.0s - 9208.4s:  Through the speaker, no, we
+9208.4s - 9210.3s:  settled on an in person meeting only
+9210.3s - 9211.8s:  with the survey to
+9211.8s - 9214.1s:  To clarify for the public, we do
+9214.1s - 9216.2s:  have the technology to live
+9216.2s - 9218.1s:  stream a meeting as we do
+9218.1s - 9219.6s:  with other public consultations?
+9219.6s - 9220.6s:  That is correct.
+9221.2s - 9223.8s:  Were there any attempts to
+9223.8s - 9226.1s:  coordinate a virtual
+9226.1s - 9227.4s:  public consultation
+9227.4s - 9229.9s:  in light of the difficulties
+9231.2s - 9232.1s:  of
+9232.1s - 9233.7s:  live streaming it? Were there
+9233.7s - 9235.8s:  attempts to create an online
+9235.8s - 9237.2s:  Zoom or WebEx option?
+9238.7s - 9240.4s:  Through the speaker, we did not
+9240.4s - 9241.3s:  offer that option.
+9246.0s - 9248.5s:  With many public consultations
+9248.5s - 9250.5s:  and I see this locally
+9250.5s - 9253.5s:  with city staff
+9253.5s - 9254.7s:  from PFR
+9255.0s - 9257.1s:  seeking community
+9257.6s - 9259.2s:  feedback on park
+9259.2s - 9261.2s:  revitalization, paid
+9261.2s - 9263.3s:  ads are placed in social media
+9263.8s - 9265.4s:  for surveys.
+9266.2s - 9267.2s:  Was the
+9267.2s - 9268.5s:  survey conducted
+9269.1s - 9270.3s:  by staff,
+9271.1s - 9273.2s:  did staff utilize any paid
+9273.2s - 9273.7s:  promotion?
+9276.4s - 9278.8s:  Through the speaker, we did
+9278.8s - 9280.9s:  make use of City of Toronto social media
+9281.6s - 9283.2s:  but I do not believe
+9283.2s - 9284.2s:  that we placed ads.
+9285.1s - 9286.3s:  Do you think if we're
+9286.8s - 9288.7s:  placing paid ads on
+9288.7s - 9289.8s:  park feedback,
+9290.7s - 9291.9s:  do you think for
+9292.7s - 9295.0s:  an issue of significant impact
+9295.0s - 9296.7s:  that is truly city
+9296.7s - 9297.6s:  wide,
+9298.3s - 9300.7s:  would it be fair to say that
+9300.7s - 9302.7s:  should also receive paid ad
+9302.7s - 9304.1s:  promotion on the survey?
+9305.5s - 9307.0s:  Through the speaker, going forward
+9307.0s - 9308.8s:  and as we talk about the tripartite agreement
+9308.8s - 9311.0s:  moving forward on that, it will be a very robust
+9312.1s - 9312.6s:  process.
+9313.3s - 9315.2s:  There will be paid ads, there will be
+9315.2s - 9317.1s:  locations in parts of the city,
+9317.2s - 9319.0s:  different parts of the city, so I think
+9319.0s - 9321.0s:  moving forward on the real questions that
+9321.0s - 9322.9s:  will be of importance to the City of Toronto,
+9323.2s - 9324.9s:  we will be following that practice.
+9325.4s - 9326.8s:  Thank you and
+9326.8s - 9329.1s:  in light of the survey,
+9329.4s - 9330.8s:  the two question survey,
+9331.3s - 9333.0s:  do staff believe that's an
+9333.9s - 9334.4s:  exhaustive,
+9335.2s - 9337.0s:  the two questions, exhaustive set
+9337.0s - 9338.6s:  of questions to elicit feedback
+9338.6s - 9340.8s:  from the body public?
+9343.7s - 9344.5s:  Through the speaker,
+9346.2s - 9347.3s:  the staff
+9347.3s - 9349.5s:  worked on the two questions,
+9349.6s - 9351.3s:  first of all to try and get
+9352.4s - 9353.0s:  respondents
+9353.0s - 9355.2s:  to the survey and public
+9355.2s - 9357.1s:  meeting participants to focus on
+9357.1s - 9359.5s:  the RISA issue and then the second
+9359.5s - 9360.8s:  question was
+9360.8s - 9363.1s:  used as a
+9363.1s - 9365.1s:  vehicle for people to provide comment
+9365.1s - 9367.1s:  on the broader set of
+9367.1s - 9368.6s:  issues that we would
+9369.0s - 9370.9s:  want to be part of
+9370.9s - 9372.9s:  the more comprehensive
+9372.9s - 9374.6s:  conversation about the future of the report.
+9375.4s - 9376.0s:  Lastly,
+9377.0s - 9379.4s:  on the water, the second question
+9379.4s - 9380.2s:  framed
+9381.1s - 9383.5s:  the consultation and the question
+9383.5s - 9384.4s:  around
+9385.1s - 9386.3s:  the waterfront.
+9386.5s - 9389.5s:  Do staff believe this is
+9389.5s - 9391.2s:  strictly a waterfront
+9391.2s - 9391.7s:  issue?
+9392.9s - 9394.2s:  That was your last question?
+9394.2s - 9396.3s:  Through the speakers, I think staff
+9396.3s - 9398.5s:  are of the view that it is at the same time
+9398.5s - 9400.2s:  a waterfront issue, a downtown
+9400.2s - 9402.4s:  issue and a citywide issue and
+9402.4s - 9404.1s:  actually a regional issue as well.
+9404.7s - 9406.4s:  Okay, thank you. We'll recess to
+9406.4s - 9407.0s:  two o'clock.
