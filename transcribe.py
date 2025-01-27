@@ -197,7 +197,7 @@ def process_audio(audio_file, group_segments=True):
 
 # Process the audio file
 print("\nProcessing audio file...")
-segments, num_speakers = process_audio("short_test.wav")
+segments, num_speakers = process_audio("input.wav")
 
 # Save diarized output to file
 print("\nSaving diarized output...")
